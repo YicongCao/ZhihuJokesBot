@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic1.zhimg.com/df157f9a2fdca46cc6e093cb2a17b548.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "《西游记》中的正果到底是什么？",
+            "author": "知乎用户",
+            "bio": "券商民工/政治历史爱好者",
+            "imgs": [],
+            "content": "> 编制。"
+        },
+        {
+            "title": "《西游记》里有哪些不易发现却很打动人的小细节？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "二逼和幽默的差别在哪儿?",
+            "author": "秦路",
+            "bio": "我有一百个羊驼头像",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你遇到过最糟糕的追求方式是什么？",
+            "author": "知乎用户",
+            "bio": "无所待，一人行。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

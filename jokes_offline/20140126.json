@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/53bfbee211e0080ae377cee14fdf7270.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "道士的修身方法，辟谷这事靠谱吗?",
+            "author": "辟谷",
+            "bio": "辟谷",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "好女孩儿抽什么烟？",
+            "author": "知乎用户",
+            "bio": "喜好音乐电影人文社科动植物，样样不精通。IFSJ。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "林志颖的唱功怎么样？",
+            "author": "Hugo LEE",
+            "bio": "Jazz囧",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "胸部比较丰满的女孩穿什么衣服好？",
+            "author": "东东枪",
+            "bio": "文字/创意工作者。",
+            "imgs": [],
+            "content": "> 为什么会有人邀请我回答这个问题？！\r\n> 你们都知道了？！"
+        }
+    ]
+}

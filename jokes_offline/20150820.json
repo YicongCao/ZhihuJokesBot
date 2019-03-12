@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/b50ed6317b11fc0edd659a207ba8a1be.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "整天在朋友圈发励志言论但是现实中却从来不做，这类人应该叫什么？",
+            "author": "知乎用户",
+            "bio": "less is more",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "建议在餐厅大吵大闹的孩子安静些，被孩子妈妈骂「我孩子用你教？有钱你去移民呀！」怎么办？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 遇到这种人你就拍下来啊，放在 b 站上我们好做鬼畜视频啊"
+        },
+        {
+            "title": "如果 GTA 是国产游戏，那游戏里电台放的音乐会是哪些歌曲？",
+            "author": "lanny",
+            "bio": "hello world!",
+            "imgs": [],
+            "content": "> 「我们专门邀请到了茅台集团的李总……李总，咱们消费者啊有个疑问，这个酒价格这么实惠真的是茅台集团出品的吗……」"
+        },
+        {
+            "title": "你在 Clash of Clans （部落冲突）中遇到过哪些令人印象深刻的阵型？",
+            "author": "lily Lee",
+            "bio": "学物理的设计师",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

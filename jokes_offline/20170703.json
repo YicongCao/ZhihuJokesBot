@@ -1,0 +1,37 @@
+{
+    "cover": "https://pic1.zhimg.com/v2-7df5cd9ef13be92ca7333beeadb98424.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "中国是不是没有种族歧视问题？",
+            "author": "奈文摩尔",
+            "bio": "大漠孤烟直 长河落日圆 文章本天成 妙手偶得之",
+            "imgs": [],
+            "content": "> 歧视太多，种族根本排不上号。"
+        },
+        {
+            "title": "最近十年，新一代智能手机浪潮替代了哪些旧事物？",
+            "author": "李晔洲",
+            "bio": "",
+            "imgs": [],
+            "content": "> 替代了身边的朋友。"
+        },
+        {
+            "title": "最近十年，新一代智能手机浪潮替代了哪些旧事物？",
+            "author": "章孜",
+            "bio": "特长删评论，专注黑名单。",
+            "imgs": [],
+            "content": "> 我现在绞尽脑汁也想不起来十年前我坐公交车的时候到底是特么怎么打发时间的……"
+        },
+        {
+            "title": "哪些事情或段子让你哭笑不得？",
+            "author": "吴老师",
+            "bio": "",
+            "imgs": [
+                "https://pic1.zhimg.com/be8acf7d91b0b15850b7578eebccdbbc_b.jpg",
+                "https://pic1.zhimg.com/v2-0809a53ca54dd5ec47803fb1d7f24b70_b.jpg"
+            ],
+            "content": "> 本人小学语文老师，带二年级的班级。某次考试收上来的试卷↓"
+        }
+    ]
+}

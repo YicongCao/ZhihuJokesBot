@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/77afbdf49a50efbe8d3750a1bc82a0ad.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你是如何下决心购买 MacBook Pro 的？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 去苹果体验店，把 15 寸的 MBP 摔了。"
+        },
+        {
+            "title": "为什么编剧要在宾馆创作？",
+            "author": "胡戈",
+            "bio": "",
+            "imgs": [],
+            "content": "> 便于监视、监督。\r\n> 我正在家里写一个剧本，半年前我在写大纲，现在我还在写大纲。"
+        },
+        {
+            "title": "发现正在偷自己东西的小偷，该怎么办？",
+            "author": "知乎用户",
+            "bio": "神马都是半吊子。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "在过早年龄对书籍和电影的审美异于周围人，究竟是有害还是有益？",
+            "author": "晓峰张",
+            "bio": "我的回答都是编的，别信",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

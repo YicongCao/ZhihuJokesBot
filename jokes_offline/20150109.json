@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/3dac8e4e8028bd3965b63ab6e5c76b71.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "因为某些原因需要二十天瘦二十斤该怎么做？",
+            "author": "bom beba",
+            "bio": "",
+            "imgs": [],
+            "content": "> 截肢。"
+        },
+        {
+            "title": "你跑步的时候在想什么？",
+            "author": "抹什么茶",
+            "bio": "头像是自拍。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如果让克里斯托弗 · 诺兰来拍《变形金刚》系列，会怎么样？",
+            "author": "欧灏麟",
+            "bio": "太阳好大，我的幽默细胞都被晒黑了，",
+            "imgs": [],
+            "content": "> 其他不知道，但男主老婆肯定要死掉的。"
+        },
+        {
+            "title": "有公狐狸精吗？",
+            "author": "黄子奕",
+            "bio": "高二学生，全凭兴趣",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

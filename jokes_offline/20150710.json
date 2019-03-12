@@ -1,0 +1,38 @@
+{
+    "cover": "http://pic4.zhimg.com/8d6d02107b21f8caac3663173ce4c823.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "父母有哪些常见的逻辑、思维令人难以接受？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 「结了婚就好了。」"
+        },
+        {
+            "title": "天津大妈和北京大妈比谁更厉害？",
+            "author": "Sourire",
+            "bio": "什么都想知道一点",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "人在病死断气之前，吃人参就会活过来，是真的么？",
+            "author": "Vicki",
+            "bio": "^_^",
+            "imgs": [
+                "http://pic2.zhimg.com/70/5c6e88aee605340c16c1295da72e6f71_b.jpg"
+            ],
+            "content": "> 通常都是吃麦丽素的。"
+        },
+        {
+            "title": "误车 & 误机是怎样的一种体验？",
+            "author": "来思源",
+            "bio": "在银行的不懂银行业务的不专业HR，或许叫人教干事好点？",
+            "imgs": [
+                "http://pic3.zhimg.com/70/16f3dc38f46dc2ec59e92488ce42aac2_b.jpg"
+            ],
+            "content": "> 买了 26 号 0:38 的回家车票，26 号晚上在车站悠哉悠哉的等发车，到了 0 点后，日期就这么眼睁睁的变成了 27 号！！！"
+        }
+    ]
+}

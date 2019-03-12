@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/4daaed25eb6bb7f87748f32eef1316ba.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "怎样在大学课堂上用 iPad 做笔记不显得做作？",
+            "author": "王小强",
+            "bio": "坐在石头台阶上，看绿地前面的大楼旁边路上跑过的车。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何回答朋友「你为啥不用 iPhone 5s」的问题？",
+            "author": "知乎用户",
+            "bio": "请大家多多指教！",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "中文恶性西化是怎样的？",
+            "author": "方十一",
+            "bio": "十一",
+            "imgs": [],
+            "content": "> 就是答主问题描述里的那样，不能同意更多。所以，嘿，我很困惑于为什么你还要特意再问这个问题一次，当你完全理解它应有的答案的时候？"
+        },
+        {
+            "title": "高个子走在人群中是什么感觉？",
+            "author": "amp ash",
+            "bio": "a",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

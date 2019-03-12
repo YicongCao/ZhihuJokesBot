@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/f7bd23ba2d4f150038724d339e938946.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "女孩子真的猜不透吗？",
+            "author": "知乎用户",
+            "bio": "鲍牙叔",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如果说我有一个改变世界的 idea，打算辞职全身心去创业，你们觉得靠谱么？",
+            "author": "Fenng",
+            "bio": "Work@丁香园( DXY.cn ).",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "遇到了之前的女神勾引我该怎么办？",
+            "author": "顾扯淡",
+            "bio": "我只是路过的文盲。。。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "每次让你说一个笑话，你必讲的是哪个？",
+            "author": "高昊",
+            "bio": "知乎鼠标流",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

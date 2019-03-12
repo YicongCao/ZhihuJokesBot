@@ -1,0 +1,37 @@
+{
+    "cover": "http://pic4.zhimg.com/04ed7ac76870386c23f9074fea1d6797.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "太多有才华的人被埋没，你感受到了吗？",
+            "author": "白鸦",
+            "bio": "产品设计师",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "当人们说「不支持不反对也不歧视同性恋」时，在说什么？",
+            "author": "GabrielGao",
+            "bio": "严肃世界搅局者",
+            "imgs": [],
+            "content": "> 「我爷爷活到了 93 岁。」"
+        },
+        {
+            "title": "证件照好看是怎样的体验？",
+            "author": "徐墨钦",
+            "bio": "朴诚有勇 陶铸一堂 学盛国斯强",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "入住酒店如何晾挂换洗衣服？",
+            "author": "吴加栋",
+            "bio": "似有所好，不学无术。",
+            "imgs": [
+                "http://pic1.zhimg.com/70/b1aae77093969370cc3f7ba0653cbba0_b.jpg",
+                "http://pic4.zhimg.com/70/d3a1726e3afbb014a965ee8bd1fc8877_b.jpg"
+            ],
+            "content": "> 如果有带三脚架的习惯。"
+        }
+    ]
+}

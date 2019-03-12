@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/6ecf9ab68e20c6f39021ef5e4c094f7b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "当女生说「你没错，你哪里错了，你一点错也没有」如何回答才显得聪明伶俐，幽默风趣？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "Windows 为什么不开源？",
+            "author": "喻宙",
+            "bio": "非文, 非理",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "好多男生说我漂亮，为什么没有一个追我的？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 很多女生赞我很好人，可是也没有一个来追我。"
+        },
+        {
+            "title": "异性朋友之间能否有真正纯洁的朋友关系？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 行为上能。\r\n> 想法上不能。"
+        }
+    ]
+}

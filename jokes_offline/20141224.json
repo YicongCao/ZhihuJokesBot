@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/53e9db80563720dce92f6249a4536744.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "「哈哈」和「呵呵」有区别吗？",
+            "author": "SoulChef",
+            "bio": "闯红灯全国十强选手",
+            "imgs": [],
+            "content": "> 哈哈是 f*ck me，呵呵是 f*ck u。"
+        },
+        {
+            "title": "有哪些机智的圆场故事？",
+            "author": "曾经",
+            "bio": "3D-IC/MMIC PHD",
+            "imgs": [],
+            "content": "> 有一次收到一个女性好友的短信，内容很隐私，像是发错了。我把信息标记成未读。然后开始做高考模拟试题。不一会她跑到我这说要玩我手机的游戏。我说拿去，别打扰我做题。"
+        },
+        {
+            "title": "被自己蠢哭是一种怎样的体验?",
+            "author": "知乎用户",
+            "bio": "www.lagou.com专注互联网职业机会",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么国内总是有人说什么都看脸？",
+            "author": "知乎用户",
+            "bio": "钢铁爱人",
+            "imgs": [],
+            "content": "> 国外也一样，Facebook，face 在 book 前面。"
+        }
+    ]
+}

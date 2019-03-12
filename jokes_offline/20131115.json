@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/db1c9d99d7ffa42d3793dcbf1cca780c.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "IT 男身上哪些地方招女孩子讨厌？",
+            "author": "知乎用户",
+            "bio": "阿三的故事。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么美国人聊天不爱用「~」符号？",
+            "author": "nonolyli",
+            "bio": "。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "什么感觉让你确信你爱上一个人了？",
+            "author": "东东枪",
+            "bio": "文字/创意工作者。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "聊天时，对方说了不好的事情，该如何向下接话？",
+            "author": "知乎用户",
+            "bio": "专栏名字丧心病狂。zhuanlan.zhihu.com/majin",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

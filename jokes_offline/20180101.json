@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/v2-3796c2d1ca7bc3d44022315afb504b48.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何看待 18 岁照片刷屏的现象？",
+            "author": "韩迪",
+            "bio": "个人公众号：科研学徒（kystudent）",
+            "imgs": [],
+            "content": "> 昨天应该是人人网近几年的点击巅峰。\r\n> 知乎日报注：瞎扯篇幅所限只保留了第一句，点击查看 原回答。"
+        },
+        {
+            "title": "你见过的最搞笑的试卷题目是什么？",
+            "author": "路边吃瓜的",
+            "bio": "学生",
+            "imgs": [],
+            "content": "> - What language can you speak?\r\n> - English, Italian and french. What about you?\r\n> - Wow, you are so excellent, I can only speak chinese."
+        },
+        {
+            "title": "如果纹身写一行字你会纹什么？",
+            "author": "bbbb orbb",
+            "bio": "即将康复的抑郁症患者。准丁克，劣质基因，自行淘汰。特长：患病时间。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如果纹身写一行字你会纹什么？",
+            "author": "唐伟x",
+            "bio": "",
+            "imgs": [],
+            "content": "> 抵制不良游戏 拒绝盗版游戏\r\n> 注意自我保护 谨防受骗上当\r\n> 适度游戏益脑 沉迷游戏伤身\r\n> 合理安排时间 享受健康生活"
+        }
+    ]
+}

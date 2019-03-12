@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic1.zhimg.com/f50bf5c17ad01ba3e46dec427ff78bfc.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么微信不出电脑版?",
+            "author": "Gootor",
+            "bio": "爱屁屁专栏：http://zhuanlan.zhihu.com/aipipi/",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "努力了七年却依旧被中产阶级家庭子女完爆，我该如何调整心态？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "健身房的鄙视链是怎样的？",
+            "author": "张大笨",
+            "bio": "一个工科男",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "野比大雄既窝囊又猥琐还偷看静香冲凉，为什么静香最后还是嫁给他？",
+            "author": "知乎用户",
+            "bio": "星尘",
+            "imgs": [],
+            "content": "> 大雄有哆啦 A 梦的道具可以看各种美女冲凉，但他从来都只看静香。"
+        }
+    ]
+}

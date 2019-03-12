@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/dddfdf129d72c8d562fd68643f7a1b4a.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "公司万圣节搞活动，COS 哪个卡通人物最经济实惠？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "《哈利 · 波特》中，赫敏是不是应该选择更优秀的哈利？",
+            "author": "Vurcl",
+            "bio": "各种不要好",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么每次圣斗士出招前都要大喊一下招式？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为何对于那么多事实如此清楚的案子还是有律师替罪犯做无罪辩护呢？",
+            "author": "迷人的人生赢家",
+            "bio": "我是律师，但不普法。只发表观点，不辩论。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic2.zhimg.com/6aae6e47b340c60edffff3b96669c459.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "如果一个人从十层楼的高度落下，哪种落地姿势可以将伤害降到最低？",
+            "author": "知乎用户",
+            "bio": "我叫唐僧同志，求改名。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "一个文盲，一个字也不认识，那么他看到汉字的时候是什么感觉？",
+            "author": "知乎用户",
+            "bio": "鲍牙叔",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "清华重点培养290名学生，出言要培养一个诺贝尔来，大家怎么看？",
+            "author": "知乎用户",
+            "bio": "THU",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么有人说「女人永远是对的」？",
+            "author": "justjavac",
+            "bio": "迷津欲有问 http://justjavac.com",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么打群架的时候，普遍会脱掉上衣？",
+            "author": "王飞",
+            "bio": "一个脱离了高级趣味的人",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

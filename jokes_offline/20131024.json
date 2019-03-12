@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/90079f0d6596232f3d23dc1143fa4aea.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "男人喜欢一个女人的眼神是什么样的？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么广州叫羊城？",
+            "author": "徐知行",
+            "bio": "touzhe.taobao.com 个人店铺",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "拔了智齿会变傻么？或者有什么不好？",
+            "author": "邓卓",
+            "bio": "一个沉迷于逻辑与诡辩的玩家",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么有的人到了25岁以后，工作上也有了一定的成绩，婚姻也很幸福，有的人却还是在一无所有的起点上？",
+            "author": "王海时",
+            "bio": "我是一只大愣猫！",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic1.zhimg.com/2220cb9645eb910c25a35ea3692cce44.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "IT 工程师被叫「码农」时是否会不舒服？",
+            "author": "苏莉安",
+            "bio": "kanzhihu.com，用另一双眼睛看知乎",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "有没有可能存在故意不通过图灵测试的 AI？",
+            "author": "postcostanza",
+            "bio": "幼儿园入学考试全班第一/UIBE/财务管理",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "好莱坞 iCloud 艳照门给我们什么警示？",
+            "author": "Laughing man",
+            "bio": "信息安全",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如果世间所有的相遇都是久别重逢，那离别是为了什么？",
+            "author": "amory",
+            "bio": "Love&Peace",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

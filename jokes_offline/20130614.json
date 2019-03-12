@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic1.zhimg.com/2d0d95bc30cd46cec2c7a5b85505ee58.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "有哪些歌词是违背常识的？",
+            "author": "王不了",
+            "bio": "正在做读书计划",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何评价电影《富春山居图》？",
+            "author": "杨茂",
+            "bio": "。。。",
+            "imgs": [],
+            "content": "> 这是一部连杨丽娟都看不下去的电影。"
+        },
+        {
+            "title": "怎样用一个字表示「快速、精确」这个含义？",
+            "author": "Atsen Liu",
+            "bio": "与睡眠不足作斗争",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么深海里的鱼都长得那么难看？",
+            "author": "徐徐生活",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "人类历史上最重要的几个决定是什么？为什么？",
+            "author": "江疆",
+            "bio": "程序员，字体与排版技术爱好者",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/3b0a9f2ca504695839f1abdc3e916d55.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "刚生宝宝后，夫妻之间有哪些初为人父母的小趣事？",
+            "author": "知乎用户",
+            "bio": "less is more",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你看过的恐怖片里最恐怖的一个情节是怎样的？",
+            "author": "知乎用户",
+            "bio": "真胸不怕窄门",
+            "imgs": [],
+            "content": "> 妈的，关键时刻屏幕休眠，看到了自己。"
+        },
+        {
+            "title": "为什么一读书就困？",
+            "author": "justjavac",
+            "bio": "迷津欲有问 http://github.com/justjavac",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如果不考虑加速阶段，直接以光速飞向 Kepler - 452b，1400 光年的距离需要多长时间到达？",
+            "author": "淡月",
+            "bio": "做好自己！",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

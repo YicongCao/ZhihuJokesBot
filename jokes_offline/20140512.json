@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic4.zhimg.com/eb9f465ee442b33f5cdd75533239dfff.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么脾气好的人生气起来更不可理喻？",
+            "author": "吴政斌",
+            "bio": "码蚁",
+            "imgs": [],
+            "content": "> 因为你不知道他在发你脾气之前忍让（包容）了你多久。"
+        },
+        {
+            "title": "为什么法国短剧《总而言之》的 Bref  剪辑风格这么受欢迎？",
+            "author": "景雁",
+            "bio": "创业人猿",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "身为一个受欢迎的男生，你有什么秘籍和心得？",
+            "author": "知乎用户",
+            "bio": "极客Cxihu／我喂自己袋盐／安卓开发／网络工程师",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你在中国的火车上有什么奇特的经历？",
+            "author": "yumeng",
+            "bio": "·",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

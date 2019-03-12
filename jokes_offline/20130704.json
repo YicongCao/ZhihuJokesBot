@@ -1,0 +1,48 @@
+{
+    "cover": "https://pic2.zhimg.com/3c44cdf10f622eb8c03782e5693b4fc5.jpg",
+    "count": 6,
+    "jokes": [
+        {
+            "title": "屌丝如何移民？",
+            "author": "陆遥",
+            "bio": "理工科爱好者",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女网友发来 “wqshxygsn, wfcdxhn, sysrwmqkfb, wkybnkj”， 这是什么意思？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 其实她是在擦键盘，别想太多。"
+        },
+        {
+            "title": "《疯狂原始人》是一部怎样的动画片，为什么评分如此高？",
+            "author": "韋伯兄",
+            "bio": "猩猩，起来吃安眠药了……",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么程序员对待社会问题的观点大都比较激进？",
+            "author": "笑忘书",
+            "bio": "http://t.cn/zHDbgUZ 高三复读，等我一年 →_→",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女朋友允许我出轨，并且还介绍她闺密给我认识。在她真的很爱我的前提下，该如何理解她的行为？",
+            "author": "ScottDong",
+            "bio": "律师",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎么容忍智商低的人并与之沟通？",
+            "author": "moski ivan",
+            "bio": "医学生",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

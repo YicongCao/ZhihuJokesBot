@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/a93b17ee2ceaf3bc79531a2bf05f6956.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "遇到了之前的女神勾引我该怎么办？",
+            "author": "luckylichen",
+            "bio": "寻找有趣的问题，有趣的人。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "加班是能力差的表现吗？",
+            "author": "水云逸",
+            "bio": "帝都求兼職，文教类",
+            "imgs": [],
+            "content": "> 也可能是公司差的表现"
+        },
+        {
+            "title": "背上纹了对象的姓「谢」，以后分开怎么办？",
+            "author": "知乎用户",
+            "bio": "但是现在我他妈变成什么样了",
+            "imgs": [],
+            "content": "> 再纹个「邀」。一股知乎范儿"
+        },
+        {
+            "title": "WP 8 应用与 iOS 应用的差距在哪里？",
+            "author": "知乎用户",
+            "bio": "已经快适应一天三顿肉了!",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

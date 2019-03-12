@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/051c002aa40b018ba101b3564b3034e2.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你在《名侦探柯南》中学到了哪些知识？",
+            "author": "田文轩",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "中国未来会不会出现一个音乐产业集中乃至成为支柱产业的城市？",
+            "author": "邓柯",
+            "bio": "我们都是虫子",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "跟不优秀的人相处是怎样一种体验？",
+            "author": "巴山",
+            "bio": "算了。",
+            "imgs": [],
+            "content": "> 团队协作的时候，他只需要负责活着。"
+        },
+        {
+            "title": "如何在朋友圈伪装成饭局不断的美少女而不暴露独自吸溜面条的孤寡青年形象？",
+            "author": "shiner lau",
+            "bio": "blue ocean strategy",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

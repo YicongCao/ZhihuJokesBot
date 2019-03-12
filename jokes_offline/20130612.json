@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic3.zhimg.com/54c62ade65433efbce3509940db312a6.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "你最紧张的一次是什么事儿？",
+            "author": "小饮归来",
+            "bio": "言者在意，得意而忘言。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女生向我表白，可是她很丑，我当面拒绝，现在有点自责，怎么弥补？",
+            "author": "路之石",
+            "bio": "涨姿势",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "普通朋友生日，送黄金合适吗？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "有一些人喜欢 iPhone 的设计和体验，但是却用的是 Android 手机，为什么？",
+            "author": "猫责冬",
+            "bio": "iPad",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "解说的时候有什么技巧可以防止没话说冷场？",
+            "author": "冯黎明",
+            "bio": "把利物浦踢下他妈的王座才是我最伟大的成就！！！",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

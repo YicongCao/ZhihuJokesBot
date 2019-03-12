@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/b0dafe044482fdb47d326f8d784cf69c.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "粗跟高跟鞋怎么搭配才好看？",
+            "author": "腐生",
+            "bio": "失业中求兼职|文案方向",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为何图书馆不能穿拖鞋？",
+            "author": "ace zh",
+            "bio": "大地上 有我的足迹",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么每次我开车，坐在我旁边的妻子不时的来教训我，开的这个不好，那个不好？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎样含蓄地表达「我已经被收买了」？",
+            "author": "Icarus",
+            "bio": "三流学院法科狗",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

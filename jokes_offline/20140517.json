@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/5d3f8e917bcfa06e7ce47ffc5bf07ac4.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "毒蛇出没之处，七步之内必有解药。这是正确的么？如果是，依据是什么？",
+            "author": "比尔盖子",
+            "bio": "天下攘攘，皆为利往。http://caifujianghu.com",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么狗坐车的时候都喜欢把头探出窗外？",
+            "author": "知乎用户",
+            "bio": "专注神回复",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "大部分人的手机会贴膜，为什么更昂贵的手表镜面没有人去贴膜？",
+            "author": "申思",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "请用四个字概括你喜欢的人？",
+            "author": "李诺",
+            "bio": "哈哈，你打我呀",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

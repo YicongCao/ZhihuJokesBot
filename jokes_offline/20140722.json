@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/47be87892ff68e3eea8ca2289eb84aa7.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "什么东西女人觉得很好看，男人却并不认同？",
+            "author": "frank",
+            "bio": "the best is yet to come",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "人类文明最后的一个问题将会是什么？",
+            "author": "知乎用户",
+            "bio": "虽自由而无以言说",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何评价电影《小时代 3：刺金时代》？",
+            "author": "赵博文",
+            "bio": "学生一位",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如果深圳爆发丧尸病毒，逃跑路线是怎样的？",
+            "author": "润竺",
+            "bio": "只求心安理得...",
+            "imgs": [],
+            "content": "> 放开怀抱，张开双手，对丧尸说：来了就是深圳人，来了就当义工～～"
+        }
+    ]
+}

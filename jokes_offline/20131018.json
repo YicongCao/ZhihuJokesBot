@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic4.zhimg.com/19b22023f0257e393bb85b7ee8a3cfeb.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "iPhone和iPad一起可以做什么？",
+            "author": "唐文元",
+            "bio": "伪Geek，伪摄影师，伪动漫宅。",
+            "imgs": [],
+            "content": "> 做伟大的事。\r\n> 从5楼同时放手，看看是否同时落地。"
+        },
+        {
+            "title": "我是一名高中生，想这个寒假去乡村支教，这个想法天真么？怎么去实现？",
+            "author": "Liang",
+            "bio": "保洁员",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "自己的女友被别的男人追求，作为男朋友应该怎样处理比较好？",
+            "author": "知乎用户",
+            "bio": "菜鸟油藏技术员一枚",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "人就没有愚蠢的权利了吗？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 有。\r\n> 但是愚蠢的代价最好也要自己埋单"
+        },
+        {
+            "title": "情商不高的例子有哪些？",
+            "author": "梁励俊",
+            "bio": "idjeans.cn个人牛仔定制网跑腿",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

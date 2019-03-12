@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/d91d4814dd29a2e2d75ffce911f32b3a.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "地道的英式装修是怎样的？",
+            "author": "朱磊",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "用 iPad 的充电器给 iPhone 充电有什么后果？",
+            "author": "陈伟",
+            "bio": "产品设计师",
+            "imgs": [],
+            "content": "> iPhone 的电会被充满。"
+        },
+        {
+            "title": "一个 32 岁的有家庭有娃的男人每天将所有业余时间都用来玩魔兽世界，怎么才能拯救？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 妹子，把你男人的 ID 报上来，我找一帮 PVP 兄弟杀的他不想上线。"
+        },
+        {
+            "title": "哪些场景吸尘器代替不了扫把？",
+            "author": "West Chang",
+            "bio": "食欲旺盛的瘦子〜",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic1.zhimg.com/993ab7756ad4fee32887c579b8c01a4b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "不熟悉的邻居来敲门问我的 Wi-Fi 密码，说只是平时用下上网，我该怎么回绝？",
+            "author": "Ven",
+            "bio": "拆盒-重新认识玩具：www.chaihezi.com",
+            "imgs": [],
+            "content": "> 所以，请不要用门牌号做 Wi-Fi 名称。"
+        },
+        {
+            "title": "电视上经常播古人断肢后包扎就好了，但是大血管是怎么止血的呢？",
+            "author": "moski ivan",
+            "bio": "医学生",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男朋友长得非常帅是一种怎样的体验？",
+            "author": "吉吉",
+            "bio": "",
+            "imgs": [],
+            "content": "> 分手的时候比较纠结。"
+        },
+        {
+            "title": "如何对付情场老手，避免被他们欺骗？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 说句实话，情场老手一般不对底层女性出手，就跟您不会跟没工作的人约会一样。"
+        }
+    ]
+}

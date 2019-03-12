@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic1.zhimg.com/681e4a0803506366e74a781408e394b4.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "你对本拉登的第一印象是什么样的？",
+            "author": "经雷",
+            "bio": "我這麼好一人你們怎麼老罵我呢 (⊙o⊙)？",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "在羽毛球场如何搭讪？",
+            "author": "李淼",
+            "bio": "Portfolio Manager in Hedge Fund",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "有没有每年 8-12 月忙碌的且非坐班的工作？",
+            "author": "负二",
+            "bio": "抵制政治正确，还原残酷世界",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "约炮，如果对方长得不适合自己，不想开战，应该怎么停战？",
+            "author": "余佳原",
+            "bio": "环保工作者。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "目前你看到过或听过的最喜欢或者认为最好的文案是什么？",
+            "author": "知乎用户",
+            "bio": "在人间",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

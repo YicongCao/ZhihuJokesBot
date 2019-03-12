@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic2.zhimg.com/0c84b67aa98af7643a7ee70b50213175.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "当有人对你说「为什么放弃治疗」该怎么反驳？",
+            "author": "张晶",
+            "bio": "高三狗",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "清朝皇族后裔现在的生存状况是怎么样的？",
+            "author": "书记田",
+            "bio": "〜",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你最佩服你老婆什么？",
+            "author": "安江泽",
+            "bio": "酱人精神",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "什么事 iPad 能做，iPhone 不能做？",
+            "author": "孔二",
+            "bio": "小混蛋儿",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你给人帮过的倒忙中后果最严重的是哪一次？",
+            "author": "杨沁雨",
+            "bio": "房地产策划，土地测量技术员，色情小说作者",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

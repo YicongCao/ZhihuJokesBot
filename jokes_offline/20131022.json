@@ -1,0 +1,27 @@
+{
+    "cover": "https://pic4.zhimg.com/51ff7732576c3ed2d1ab60fa36d10e7b.jpg",
+    "count": 3,
+    "jokes": [
+        {
+            "title": "跟男朋友在略高档餐厅吃饭，男朋友总是会不高兴，该怎么办？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "新开了一家密室逃脱，临近开业却发现又开了3家差不多规模的，而且5家店都在一个大厦。有什么好的营销策略？",
+            "author": "金日驒",
+            "bio": "剧情派游戏的拥护者",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "过期三天的牛奶还能喝吗？",
+            "author": "Nimo Gou",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

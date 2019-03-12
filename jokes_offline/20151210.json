@@ -1,0 +1,41 @@
+{
+    "cover": "http://pic4.zhimg.com/78968c938d072fb6f167ecb5dda9332f.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "恋爱两个月女友连手也不让牵，该不该继续下去？",
+            "author": "知乎用户",
+            "bio": "我不是bug，我是bug的制造者。",
+            "imgs": [],
+            "content": "> 她知道你是她男朋友吗？"
+        },
+        {
+            "title": "怎样用一句话结束三体的故事？",
+            "author": "海东青",
+            "bio": "一生 一代 一双人.",
+            "imgs": [],
+            "content": "> 叶文洁：「诶？还可以撤回？」"
+        },
+        {
+            "title": "你遇见过哪些概率很小很小的事？",
+            "author": "苏佳佳",
+            "bio": "妹妹你大胆地往前走。。。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何评价 iPhone 原装充电壳 Smart Battery Case？",
+            "author": "Belleve",
+            "bio": "炼金术士",
+            "imgs": [],
+            "content": "> 好像 iPhone 6 怀了一个 iPhone 4。"
+        },
+        {
+            "title": "广告 · 和学霸坐同桌是一种怎样的体验？",
+            "author": "学而思培优",
+            "bio": "益起学吧",
+            "imgs": [],
+            "content": "> 那你得问我同桌。\r\n> 【点击查看更多品牌信息】"
+        }
+    ]
+}

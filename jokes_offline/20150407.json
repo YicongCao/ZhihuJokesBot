@@ -1,0 +1,36 @@
+{
+    "cover": "http://pic2.zhimg.com/2e3bfcdea9b290145c02cd1f87c16c6d.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "郭德纲返场时，主持人在对他说什么？",
+            "author": "太极堂主",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "拥有超能力是一种怎样的体验？",
+            "author": "理想的蘑菇",
+            "bio": "微信公众号：理想的蘑菇",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "有一个女儿是什么体验？",
+            "author": "梅源贝",
+            "bio": "金融小学生",
+            "imgs": [],
+            "content": "> 「宝贝，我愿意把这世界上的一切都给你。」\r\n> 「我想吃雪糕～」\r\n> 「不行！」"
+        },
+        {
+            "title": "哪些影视作品中出现了你的理想女性？",
+            "author": "苏猫",
+            "bio": "尤文蒂尼，运动控制工程师，博士在读",
+            "imgs": [
+                "http://pic1.zhimg.com/75862daaa088e80860b3fc06187d993c_b.jpg"
+            ],
+            "content": "> 天气预报算吗？"
+        }
+    ]
+}

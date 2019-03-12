@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/fedea8d939829aa87c734ca2a96722cc.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "孩子嫌任课老师长得太丑不愿意去上学，怎么办？",
+            "author": "白如冰",
+            "bio": "THU,C++,数学,物理学",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "「秀恩爱，散得快」有道理吗？",
+            "author": "葛易",
+            "bio": "大概善意",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何看待 ALS 冰桶挑战？",
+            "author": "张静年",
+            "bio": "我所知道的是我一无所知",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "在书店如何跟女生搭讪？",
+            "author": "屠钱钱",
+            "bio": "爱折折，爱改改，爱谁谁。#4461",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

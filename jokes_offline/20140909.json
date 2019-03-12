@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/e9dadd3bd2b387f7642362eeef0bdca0.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "当校草（校花）、班草（班花）的体验如何？",
+            "author": "许自嗨",
+            "bio": "哟！",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你认为美国历史上最差的一任总统是谁？",
+            "author": "严云峰",
+            "bio": "自闭症，焦虑症，社交恐惧症",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "教二年级的小朋友编程哪门语言入门好？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男人对女人好是不是都是为了和女人上床？",
+            "author": "王二小",
+            "bio": "(=ﾟДﾟ=) ▄︻┻┳━",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

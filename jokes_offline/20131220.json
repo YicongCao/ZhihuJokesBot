@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic4.zhimg.com/ca39c5415f6d57e3adff9a594ba039c7.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么很多女生都觉得会做菜的男生很有魅力？",
+            "author": "邹明宇",
+            "bio": "爱古文爱篮球爱历史的物理系学生",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么国人文身时喜欢在手腕稍上之处或上臂文个“忍”字或者刺上五点？",
+            "author": "Zakk",
+            "bio": "Mr. Crowley",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你知道的中国人与英语人士交流过程中因为语言或者习俗闹过什么笑话？",
+            "author": "Nina Rong",
+            "bio": "Royal Plummer in U of W",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "在麦当劳点一对鸡翅，为什么得到的是一个鸡腿和鸡翅？这算不算欺骗消费者？",
+            "author": "顾明明",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/79cbe4ea3ad4c63f7d7f74786e3cc7ca.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "什么叫见过大世面？",
+            "author": "张亮",
+            "bio": "没有坏问题，只有好答案",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何做到长时间（4个小时以上）精神专注？",
+            "author": "张明威",
+            "bio": "兰卡斯特运筹学",
+            "imgs": [],
+            "content": "> 明天是 deadline。"
+        },
+        {
+            "title": "狗的智力能高到什么程度？",
+            "author": "知乎用户",
+            "bio": "踢球，乡村民歌，轻摇滚，电影，玩狗，喜欢想象力。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你上次恋爱分手是什么原因？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

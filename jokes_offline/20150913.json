@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/bd5af891597110246948d2868d78b17b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你所经历的最巧合的事情是什么样的？",
+            "author": "知乎用户",
+            "bio": "技术都是来自对解决问题的渴望",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你见过的最想笑的，最奇葩的，最逗逼的代码是什么？",
+            "author": "Joker",
+            "bio": "代码开光员",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "礼仪和繁文缛节的差别在哪里？",
+            "author": "豆子",
+            "bio": "人民艺术家",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "放下一个很爱的人是什么心情？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

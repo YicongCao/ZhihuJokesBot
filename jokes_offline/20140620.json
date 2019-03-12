@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/df5fb79091c30157afc945949d4b5e18.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你做过最装逼的事是什么？",
+            "author": "温小乔",
+            "bio": "妈妈 我怕",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何回答孩子「你为什么把我生下来」的问题？",
+            "author": "知乎用户",
+            "bio": "闻过则喜，见贤思齐",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你为什么喜欢 Taylor Swift ？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 因为统计学上来说她是美国女星里最有可能被我泡到的"
+        },
+        {
+            "title": "混迹于 Twitter 的人有什么特点？",
+            "author": "轻飏",
+            "bio": "节操掉尽人清爽",
+            "imgs": [],
+            "content": "> 大多顶着二次元头像又没有女朋友（图片采用 Twilk | Put your twitter followers on your background 随机生成，请勿当真或对号入座）\r\n> 图二仅为娱乐，如有冒犯请联系删除，抱歉"
+        }
+    ]
+}

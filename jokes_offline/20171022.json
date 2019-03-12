@@ -1,0 +1,39 @@
+{
+    "cover": "https://pic1.zhimg.com/v2-7d8ecf870cfc8ada590989e314f20844.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "有哪些让人眼前一亮的函数？",
+            "author": "负一的平方根",
+            "bio": "宇宙的本质是计算",
+            "imgs": [],
+            "content": "> 当然是 Windows 系统提供的 SetMonitorBrightness 这个函数了！\r\n> 这个函数可以设置电脑屏幕的亮度，如果设置成 100%，你就会感到眼前一亮。\r\n> 参考资料：https://msdn.microsoft.com/en-us/library/windows/desktop/dd692972(v=vs.85).aspx"
+        },
+        {
+            "title": "有哪些东西你知道很贵，但开始的时候不知道居然这么贵？",
+            "author": "啊啊啊清",
+            "bio": "设计师",
+            "imgs": [],
+            "content": "> 去商场买东西，路过促销场地，随便看了下。看中一个外套，试了下，感觉还不错。但是标签掉了。\r\n> 我：请问这件外套多少钱？\r\n> 店员：打完折，3000。需要我帮你包起来吗？\r\n> 我：哦，不用，我帮你挂起来。"
+        },
+        {
+            "title": "你遇到的最「反人类」的设计是什么？",
+            "author": "菊花破坏神",
+            "bio": "下身穿童装 上身穿男装的文盲饼面女",
+            "imgs": [
+                "http://pic2.zhimg.com/70/v2-90973731885955e396bf16e68065db49_b.jpg"
+            ],
+            "content": "> 拍的不太清楚，但我告诉大家，厕所门是他妈密码锁。"
+        },
+        {
+            "title": "你遇到的最「反人类」的设计是什么？",
+            "author": "皮耶霍",
+            "bio": "经济学学士历史学硕士法学博士",
+            "imgs": [
+                "http://pic2.zhimg.com/70/v2-cb2c7bf11a0794e15f9ccde3f2c0d665_b.jpg",
+                "http://pic2.zhimg.com/70/v2-9b46b1c2ff3ec4035020af2468dc1f61_b.jpg"
+            ],
+            "content": "> 你们见过给顶楼连廊的天花板做凿空造型的么？\r\n> 方便我们临楼观雨么？"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/ebed45c6065d340ea1bea1836d6b6c5e.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么河道可以非常弯曲？",
+            "author": "成长",
+            "bio": "地球爱好者",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "哪些情况下女生会不理男生？",
+            "author": "知乎用户",
+            "bio": "终于混成高中生了 Σ( ° △ °|||)︴",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么课程表的 App 都是大学生的，但没有中学生的？",
+            "author": "陈章鱼",
+            "bio": "普通读者",
+            "imgs": [],
+            "content": "> 中学生需要什么课程表 APP……\r\n> 你缺一堂试试，班主任电话就直接打给你妈了……"
+        },
+        {
+            "title": "面对你喜欢的人，一般会是什么表现？",
+            "author": "和泰",
+            "bio": "(null)",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

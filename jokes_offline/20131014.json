@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/65b47dbbfa202449b3a13f75ecc24fac.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么电影院大都销售爆米花？",
+            "author": "曹小楊",
+            "bio": "幼師一枚",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何优雅地在工具只有筷子的情况下吃大虾螃蟹？",
+            "author": "知乎用户",
+            "bio": "I got the eye of the tiger",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么绝大多数的推理小说都以谋杀为主要题材？",
+            "author": "冯东",
+            "bio": "Adobe 程序员",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女朋友嫌我土，带出去嫌丢人，怎么办？",
+            "author": "索思",
+            "bio": "专注折叠三十年",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

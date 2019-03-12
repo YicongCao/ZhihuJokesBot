@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/b82d4f01a84773c0220990ce990c743e.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "怎样让女方给自己做饭洗衣服，并且女方感觉体验良好？",
+            "author": "蓝冰",
+            "bio": "放慢脚步",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你为什么从豆瓣离职？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你认为汉字里面哪个字最美，你最喜欢？为什么？",
+            "author": "Milo",
+            "bio": "Designer at Newegg",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你遇见过哪些毒舌？他们说过哪些很毒的话让你过耳不忘？",
+            "author": "顾lily",
+            "bio": "社会认知心理学~",
+            "imgs": [],
+            "content": "> “胖只是暂时的，矮是一辈子的。”"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/4cb32ce83eeb876df925bcc8d28f70c6.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "上厕所碰见领导怎么办？要不要招呼，怎么避免尴尬的氛围。",
+            "author": "刘易杰",
+            "bio": "我叫高级黑",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "名校和普通学校最大的差别在哪呢？如何克服这种差别？",
+            "author": "知乎用户",
+            "bio": "8.sina.cn 欢迎来玩",
+            "imgs": [],
+            "content": "> 说一下真实体会\r\n> 好学校：老师觉得你很牛逼，你也觉得老师很牛逼\r\n> 差学校：老师觉得你是 SB，你也觉得老师是 SB"
+        },
+        {
+            "title": "戒指为什么戴在无名指上？",
+            "author": "陈琴琴",
+            "bio": "Where are you, Mr.Right?",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女朋友不肯对所谓的「蓝颜」们公开恋情，这科学吗？",
+            "author": "大雄",
+            "bio": "插科打诨师",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

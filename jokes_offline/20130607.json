@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic4.zhimg.com/f461f221453f7e7c9897b8a89ea33543.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "想培养下气质，20 岁开始学钢琴有效吗？",
+            "author": "经雷",
+            "bio": "我這麼好一人你們怎麼老罵我呢 (⊙o⊙)？",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女友太胖，怎样提出分手比较好？",
+            "author": "纪阴阳",
+            "bio": "代码是可以改变世界，但是用代码改变世界多卑贱啊",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你有哪些奇怪的能力？",
+            "author": "Tassandar",
+            "bio": "认真答的题都被折叠了。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "猎头请求我提供公司在职员工联系方式 list，如何婉拒？",
+            "author": "Vans Hellsing",
+            "bio": "释道儒三修 天赋点不够",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "请问下您如果 Gmail 上不了是如何解决的呢？",
+            "author": "蔡奇",
+            "bio": "浙江省委组织部部长",
+            "imgs": [],
+            "content": "> 多试几次。"
+        }
+    ]
+}

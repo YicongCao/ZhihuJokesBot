@@ -1,0 +1,48 @@
+{
+    "cover": "https://pic3.zhimg.com/92212fd34e5bb1cfae232acd0cd2c5d6.jpg",
+    "count": 6,
+    "jokes": [
+        {
+            "title": "你读过的历史上最霸气的一句话是什么？",
+            "author": "王行成",
+            "bio": "学着点",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "用什么词代替「呵呵」好？",
+            "author": "蒋方舟",
+            "bio": "作家/媒体人",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "情侣在一起有四年多了，每次一起睡觉都会流汗，为什么？",
+            "author": "腐生",
+            "bio": "求仁得仁何憾之有",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "存在英语非常流利，却在从事 UI 视觉工作的人吗？",
+            "author": "Ivony",
+            "bio": "",
+            "imgs": [],
+            "content": "> 美国做 UI 的都是。"
+        },
+        {
+            "title": "如何和哥们的女友保持正常且良好的关系、避免因木讷而冷场？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么人有时候思考会仰起头向上看？",
+            "author": "张源",
+            "bio": "死宅",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

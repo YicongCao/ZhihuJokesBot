@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic4.zhimg.com/59efd365f0ff4503af764a1c2b7dbaf7.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "IT 界有哪些有意思的短笑话？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女人的哪些表现，让你感觉「很愚蠢」？",
+            "author": "Alden",
+            "bio": "零晨",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么男人喜欢女人素颜？",
+            "author": "顾扯淡",
+            "bio": "我只是路过的文盲。。。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "不从小就向孩子还原社会残酷的原因是什么？",
+            "author": "知乎用户",
+            "bio": "子不语怪力乱神",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

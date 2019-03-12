@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/497e534cc1aeba689f73fa910c3fcf90.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "电梯里遇到前面的马尾辫甩来甩去又动不了怎么办？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "经常下载 AV，怎样保护电脑？",
+            "author": "谢特",
+            "bio": "crazy shitter",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "金庸小说中最令人无语的武功是什么？",
+            "author": "子云",
+            "bio": "互联网从业人员，搞IT也在被IT搞。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "程序员一般晚上几点下班？",
+            "author": "偏右",
+            "bio": "前端工程师",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

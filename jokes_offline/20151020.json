@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic1.zhimg.com/f7fcf7eeda5b5c59aea940ac4d44a700.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "见到路上 3、4 岁的小孩子在那里走，总忍不住想把他踢飞是什么心理？",
+            "author": "左坷",
+            "bio": "理论力学研究生",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "软件支持显示中文是否比支持其它拼音文字更困难？",
+            "author": "vczh",
+            "bio": "专业造轮子，资深汕头人。github id: vczh",
+            "imgs": [],
+            "content": "> 不，很多软件支持多种语言但不支持中文完全就是因为大部分使用简体中文的人并不花钱，所以为什么要做。"
+        },
+        {
+            "title": "夫妻俩在同一家公司上班是什么体验？",
+            "author": "猫大叔",
+            "bio": "热烈祝贺关注突破5万大关！",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "哪些笑话只能具备一定的物理知识的人才能听懂？",
+            "author": "浅间",
+            "bio": "INTJ/猫奴/Civil engineer 在读",
+            "imgs": [],
+            "content": "> 羽毛球为什么会往下掉？\r\n> 因为有羽毛球场。"
+        }
+    ]
+}

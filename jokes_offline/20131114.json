@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/42671bb09ff241a158e184a91e0f9e68.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "大叔在 KTV、生活中哼唱红歌，心态及原因是什么？",
+            "author": "ScottDong",
+            "bio": "不离开知乎了，我这就是矫情。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "南方人第一次大冬天去东北，要注意和准备什么呢？",
+            "author": "知乎用户",
+            "bio": "专治死心眼儿",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女生问“你谈过几次恋爱”怎么回答？",
+            "author": "Kevin Lin",
+            "bio": "Rabbit, Run!",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "吉他到底是不是把妹的冲锋枪？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

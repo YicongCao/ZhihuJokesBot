@@ -1,0 +1,45 @@
+{
+    "cover": "https://pic4.zhimg.com/v2-639f5ca1849a53f0a21f21e5b3a9d813.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你听过最恐怖的一句诗是什么？",
+            "author": "知乎用户",
+            "bio": "我不完整，未完成，仍未成熟。",
+            "imgs": [
+                "http://pic2.zhimg.com/70/v2-5b4507e358cf7dfd5b16ec3aa6791005_b.jpg"
+            ],
+            "content": "> 危楼高百尺，手可摘星辰。\r\n> 不敢高声语，恐惊天上人。\r\n> ——唐·李白 《夜宿山寺 / 又名咏黑暗森林》"
+        },
+        {
+            "title": "食堂大妈不愿给同学们打肉，那食堂的肉都去哪了？",
+            "author": "知乎用户",
+            "bio": "我不完整，未完成，仍未成熟。",
+            "imgs": [
+                "http://pic1.zhimg.com/70/v2-ffaeedbd0d1d5cbfca55ddf9057773c8_b.jpg",
+                "http://pic2.zhimg.com/70/v2-27cabfeb8bcd69b3adb36924473cbc5d_b.jpg"
+            ],
+            "content": "> 每天都会有大怪物来偷吃肉，食堂大妈奋力从大怪物口中保护本就不多的肉，这颗怪兽牙就是他们战斗的证明。"
+        },
+        {
+            "title": "食堂大妈不愿给同学们打肉，那食堂的肉都去哪了？",
+            "author": "雷雨",
+            "bio": "数据挖掘|软件开发|情感导师(雾)",
+            "imgs": [],
+            "content": "> 我大学时在食堂吃饭，菜都是很多的。甚至说要毕业的那段时间，她们还会超标给我菜，点个肉还要额外舀给我一个鸡腿。\r\n> 为什么？\r\n> 跟你们这些妖艳货色不一样，我开口就是叫「姐」！\r\n> 其中一位阿姨有一次还跟我说，看到我就想起了她一样大在上学的儿子，我无以为报，只有多来几次。\r\n> 唯一一个问题就是经常米饭不够，因为打饭的是个大叔……"
+        },
+        {
+            "title": "有没有看到什么搞笑的新闻采访?",
+            "author": "杜璊",
+            "bio": "",
+            "imgs": [
+                "http://pic2.zhimg.com/70/v2-8ac3dac56081832606af7545637cc079_b.jpg",
+                "http://pic2.zhimg.com/70/v2-4fe7b888c5475f46cfa8620d82f93071_b.jpg",
+                "http://pic2.zhimg.com/70/v2-1ba85c15426d3df0f3fcaa136784f63d_b.jpg",
+                "http://pic1.zhimg.com/70/v2-a56af9d1de93e1fac727563446880ec8_b.jpg",
+                "http://pic1.zhimg.com/70/v2-a0b4ee7d61aaf2e97f62aeeca357e608_b.jpg"
+            ],
+            "content": "> "
+        }
+    ]
+}

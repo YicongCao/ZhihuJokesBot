@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/24052490976b0faf831deb5a23c04597.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "CBA 和 NBA 比赛的差距在哪？",
+            "author": "王敏达",
+            "bio": "学生",
+            "imgs": [],
+            "content": "> NBA：这球居然进了？ CBA：这球居然没进？"
+        },
+        {
+            "title": "一些父母是帅哥美女的组合，可为什么生出的孩子却不是很好看？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男士拿白色的 iPhone 4s 是在想什么？",
+            "author": "哲也",
+            "bio": "139759521武汉知乎群，还差4个",
+            "imgs": [],
+            "content": "> 马上 iPhone 6 就要上市了，老婆的那个白色 iPhone 5 就是我的啦！"
+        },
+        {
+            "title": "为什么我和父亲沟通的时候，他跟我讲现实，赚钱是硬道理，我跟他讲人生意义，他就说我还年轻不懂？",
+            "author": "Sven",
+            "bio": "无聊就答题",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

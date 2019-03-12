@@ -1,0 +1,43 @@
+{
+    "cover": "http://pic1.zhimg.com/41b300b18dfca4e0a9a84917610ef8a0.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "周杰伦巅峰时期有多火？",
+            "author": "子不语",
+            "bio": "多看多说多思考总会有收获。",
+            "imgs": [],
+            "content": "> 你不知道三年二班的同学多幸福。"
+        },
+        {
+            "title": "你小时候有什么公然与老师学校叫板反抗并且成功的往事？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 高中上课看「闲书」，被老师收掉了。\r\n> 但是是学校图书馆的书，书是我爸推荐的，可是老爸学校图书馆馆长……\r\n> 然后书又回到了我爸手上，跟我爸吃中饭的时候我爸又把书给我了……\r\n> 接着还是这个循环，基本无解。"
+        },
+        {
+            "title": "你们见过最搞笑的弹幕是什么？",
+            "author": "你犹豫了你撒谎了",
+            "bio": "五谷不辨 四体不勤 讨厌养狗 不爱洗头",
+            "imgs": [
+                "http://pic2.zhimg.com/70/0ce48f99920b7834aad9d52771183cf9_b.jpg"
+            ],
+            "content": "> 出自《鼹鼠的故事》。\r\n> （知乎日报注：图中弹幕为「我与父亲不相见已二年余了，最不能忘记的是他的背影」。）"
+        },
+        {
+            "title": "你们见过最搞笑的弹幕是什么？",
+            "author": "杨帆",
+            "bio": "游戏爱好者、化工、皮革、喜欢科幻",
+            "imgs": [
+                "http://pic4.zhimg.com/70/37557372f226679aa6e802062c5bd2c7_b.jpg",
+                "http://pic4.zhimg.com/70/bd04f65dec6fe004b9ce5800e50eef93_b.jpg",
+                "http://pic3.zhimg.com/70/c4e734626437e4657572a8cbe543f662_b.jpg",
+                "http://pic1.zhimg.com/70/dd6a71438b4a6cbddfbdc67327b90e3c_b.jpg",
+                "http://pic3.zhimg.com/70/d806068f31ab5defb632ff2441071c9a_b.jpg",
+                "http://pic4.zhimg.com/70/0400569248451a08f3628f1bd176153f_b.jpg"
+            ],
+            "content": "> （知乎日报注：最后一张图中弹幕为「给您拜年了！」）"
+        }
+    ]
+}

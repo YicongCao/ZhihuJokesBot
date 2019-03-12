@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic2.zhimg.com/7ba3f16f985aaf920451263a20c683a5.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "果汁里面的沉淀真的是果肉么？",
+            "author": "赵家峰",
+            "bio": "我是记者",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "「电影」这个名字是源自《金刚经》「一切有为法，如梦幻泡影；如露亦如电，应作如是观」吗？",
+            "author": "知乎用户",
+            "bio": "Yesterday you said tomorrow.",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "「拿得一手好牌还装孙子地打」这类行为是什么心态？",
+            "author": "刘云暄",
+            "bio": "湖南人在滨海",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "冷笑话为什么以小明开头？",
+            "author": "张春",
+            "bio": "最近被知友誉为说书人，",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

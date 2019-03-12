@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/dafd81f913aa23c3e5b800865672519e.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么许多围棋爱好者对电视剧里出现围棋深恶痛绝？",
+            "author": "kubisoft",
+            "bio": "kubisoft创始人",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎样看待「我纹身、抽烟、喝酒、说脏话，但我是好女孩。婊子都装清纯装害羞」这句话？",
+            "author": "张心欣",
+            "bio": "paint my palette mathy phase",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "什么是 Peer Review（同行评审）？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女朋友因为文章出轨而不开心，觉得男人都不是好东西，如何安慰？",
+            "author": "叶十三",
+            "bio": "饥渴的求知者，只缘身在此山中。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

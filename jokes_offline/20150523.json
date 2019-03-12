@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/cbc25582641ba5e0bbb915b6526db299.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "治疗多重人格障碍算是谋杀么？",
+            "author": "清风无忧",
+            "bio": "",
+            "imgs": [],
+            "content": "> 唔…… 这么说来他家超生了呃……"
+        },
+        {
+            "title": "一艘 500 人的船即将沉没，只能逃生 50 人，你会让哪些人上船？",
+            "author": "多喝",
+            "bio": "身体健康多喝",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男朋友在女朋友面前行为幼稚是什么心理？",
+            "author": "mu peng",
+            "bio": "less is more",
+            "imgs": [],
+            "content": "> 因为你是他的 comfort zone。"
+        },
+        {
+            "title": "用诗句的形式描述下你的现男友（女友）?",
+            "author": "刘松霖",
+            "bio": "数学专业，精通小学奥数",
+            "imgs": [],
+            "content": "> 十方无影像，六道绝形踪。\r\n> 跳出三界外，不在五行中。"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/8bc8f81f06aec7afa3528a730e91fb5e.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你们做过的最离奇的梦是怎样的？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "做鸡蛋汤如何把鸡蛋打出完美的絮状？",
+            "author": "邢旸",
+            "bio": "头像是我自己板绘的~",
+            "imgs": [],
+            "content": "> 我曾经看到我们高中食堂的师傅，用一根筷子（差不多粗细吧，不过据说后期换成了针）捅破鸡蛋壳，然后放在一个网兜里在锅里不停的甩。以后就飘出絮状蛋花了。顺便一提。那么大的一桶汤啊，就一个鸡蛋，还每碗都有蛋花，想想也醉了。"
+        },
+        {
+            "title": "用诗句的形式描述下你的现男友（女友）？",
+            "author": "知乎用户",
+            "bio": "自我若是軟弱無力，再多的自由又有何用？",
+            "imgs": [],
+            "content": "> 400 Bad Request,401 Unauthorized502 Bad Gateway,403 Forbidden,503 Service Unavailable,301 Move Permanently,404 Not Found."
+        },
+        {
+            "title": "男友不回信息，什么情况？",
+            "author": "夏吉吉",
+            "bio": "傲娇萌主",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

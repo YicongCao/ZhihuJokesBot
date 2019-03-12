@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic2.zhimg.com/c4616e12287fbc46203833554be12a59.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "如何用一句话来描述北京的大风天气？",
+            "author": "知乎用户",
+            "bio": "暂时一无是处",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何用一句话来描述北京的大风天气？",
+            "author": "楚沐风Felix",
+            "bio": "创意人，影评人。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何用一句话来描述北京的大风天气？",
+            "author": "知乎用户",
+            "bio": "少上知乎，多看书。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你会怎么写三行情书？",
+            "author": "一颗米",
+            "bio": "只会说情话。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么设计师不愿意被人称为美工？",
+            "author": "张春",
+            "bio": "最近被知友誉为说书人",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

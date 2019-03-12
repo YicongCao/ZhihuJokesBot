@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic1.zhimg.com/4b20e87dcad7c74e4332870fbdd632ac.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "HBO片头的雪花屏是不是已经过时了，为什么还在使用？",
+            "author": "平坂黄泉",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么一些人总拿高中成绩，或者高考成绩吹牛？",
+            "author": "知乎用户",
+            "bio": "公众微信yinjiaoshou886",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "世界上有哪些在当时为最高机密但现已被公开的重大历史事件？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 1999 年外星人入侵。"
+        },
+        {
+            "title": "给子女名字没起好会对子女造成多大的伤害？",
+            "author": "知乎用户",
+            "bio": "插画",
+            "imgs": [],
+            "content": "> 当年取名为翔的，万万想不到会有今天……"
+        }
+    ]
+}

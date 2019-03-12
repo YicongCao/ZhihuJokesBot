@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic2.zhimg.com/4f2e63221e7b9087fb6df9789c2a2a19.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "「别让孩子输在起跑线上」有道理吗？",
+            "author": "负二",
+            "bio": "科幻作家/专栏写得比小说多",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么老师能让台下每个人都打哈欠，自己却不打？",
+            "author": "刘贺",
+            "bio": "UCSD计算机博士生",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你见过中国教育最反人类的地方有哪些？",
+            "author": "ycswaves",
+            "bio": "Guns for show, knives for a pro",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "高中生应该破除哪些认知局限？",
+            "author": "姜槿仪",
+            "bio": "特别世界里的普通人",
+            "imgs": [],
+            "content": "> 第一个就是：大学以后可以好好玩"
+        },
+        {
+            "title": "有一个朋友 26 岁，已经在某著名公司工作了三年，现在要辞去工作去日本留学三年，值得吗？",
+            "author": "走嗅",
+            "bio": "",
+            "imgs": [],
+            "content": "> 普通玩家选择标准配置，高端玩家选择自定义配置。"
+        }
+    ]
+}

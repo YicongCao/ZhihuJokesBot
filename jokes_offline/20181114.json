@@ -1,0 +1,39 @@
+{
+    "cover": "https://pic4.zhimg.com/v2-2786424b53f61f7f38218c28f5c78e53.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如果杨过救了蛇，那会怎么样？",
+            "author": "乐舟川",
+            "bio": "一个看似普通却喜欢装文艺的第三种青年",
+            "imgs": [
+                "http://pic3.zhimg.com/70/v2-250aab2d1c2136a025c9a065a2cd844a_b.jpg"
+            ],
+            "content": "> 那他就要杀雕了啊~"
+        },
+        {
+            "title": "如何评价《精灵宝可梦：大侦探皮卡丘》（DetectivePikachu）大电影真人版预告片？",
+            "author": "芝士喵",
+            "bio": "希望提的问可以绕地球八圈/喜欢所有活着的东西",
+            "imgs": [
+                "http://pic3.zhimg.com/70/v2-2efa21c3e5212e6c5f816e92c4d9b012_b.jpg",
+                "http://pic1.zhimg.com/70/v2-a48e4d08a064c586624a9340d2bea23c_b.jpg"
+            ],
+            "content": "> 长毛是隐性基因，短毛是显性，由此可见这只皮卡丘是只隐性纯合子。\r\n> 上图则是一只受显性基因调控的短毛皮卡丘。（图片来源：宝可梦拳）"
+        },
+        {
+            "title": "《西游记》中取经团队如果变更为孙悟空、黄眉老佛和金翅大鹏鸟，会怎么样？",
+            "author": "rabbitor",
+            "bio": "",
+            "imgs": [],
+            "content": "> 灵山脚下，孙悟空说师傅您先在这儿少歇，我们哥仨跟如来不对付，先解决一下私人恩怨再来领您去取经书。\r\n> 大鹏往后一招手：小的们，跟我们哥仨办事去。带领着路上收降的一众妖精浩浩荡荡上山。\r\n> 留下唐僧在后面大喊：徒弟们，万万不可伤他性命，还有千万别毁了经书。\r\n> 黄眉回头答了一句，师傅没事，真烧了我再给您写。"
+        },
+        {
+            "title": "新加坡式英语（Singlish）有什么特点？",
+            "author": "桃桃",
+            "bio": "2 peaches 可以说是相当可爱了",
+            "imgs": [],
+            "content": "> 还有比 singlish 更简洁更有力更直白更接地气的语言么？\r\n> 摈弃了所有英文的繁文缛节，什么动词变化啥，不要在意这些细节，我们用 got, don't 这两个即可。\r\n> 什么半咬舌发音，不要在意这些细节，我们要响亮。\r\n> 什么意味深长的语意音调，不要在意这些细节，我们有丰富的语气助词直白地表达感情。\r\n> 语法直接用中文思维，加入方言和马来语的词汇，简直是大融合大和谐的代表。\r\n> Brother! Where you? Wad?you are still in Buangkok, Walau Eh! Aiya don't talkkok talkkok lah quickly quickly come to Boon Keng lah ... The makan place you know or not? Sala you so blur ... Okay okay, got one Starbucks in MRT, I nua there first and wait for you K?\r\n> 请穿上人字拖大裤衩体会咋们 singlish 的阳光力量。"
+        }
+    ]
+}

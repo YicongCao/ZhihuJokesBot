@@ -1,0 +1,48 @@
+{
+    "cover": "https://pic4.zhimg.com/2b2eb64e8c7961ed420be60c58129c8b.jpg",
+    "count": 6,
+    "jokes": [
+        {
+            "title": "你为什么从百度离职？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你为什么从豆瓣离职？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你为什么从 Facebook 离职？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你为什么从微软 (Microsoft) 离职？",
+            "author": "啐楼",
+            "bio": "为什么不是一个人",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你为什么从腾讯离职？",
+            "author": "知乎用户",
+            "bio": "纯天然橙序猿一只",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你为什么从奇虎 360 离职呢？",
+            "author": "莊大咖",
+            "bio": "二是一种精神面貌。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

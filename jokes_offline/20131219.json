@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic3.zhimg.com/2149ea30b513bb2e9db7e64c9d06d97e.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "什么是腐女？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男人的魅力到底是什么？",
+            "author": "知乎用户",
+            "bio": "呃",
+            "imgs": [],
+            "content": "> 吊诡的是，男人的魅力恰恰是和女人无关时：他完全沉浸在他自己领域里，并游刃有余时，反而让旁边的女人觉得魅力无穷。"
+        },
+        {
+            "title": "分手后你会留着前任送的东西吗？",
+            "author": "颧骨熊猫",
+            "bio": "学无止境",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么觉得接触的中国妹子普遍保守？",
+            "author": "杨沁雨",
+            "bio": "房地产策划，土地测量技术员，色情小说作者",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你见过办公桌上最牛或最装的摆设是什么？",
+            "author": "Raymond Wang",
+            "bio": "lawyer",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

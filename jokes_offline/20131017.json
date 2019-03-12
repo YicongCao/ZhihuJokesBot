@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/4a1e667f57602f83cd7d360b659408d2.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "怎么解读 Apple 在 2013 年 10 月发布会的邀请函上所写 “We still have a lot to cover” 这句话？",
+            "author": "祝博韬",
+            "bio": "海盗船船员",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "自己练习美声要注意什么问题？",
+            "author": "徐汉宇",
+            "bio": "山有大美而不言，四时有名法而不易，万物有成理而不说",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你有哪些奇怪的恋爱经历？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何一招让女朋友瞬间不开心？",
+            "author": "叶云飞",
+            "bio": "么么哒",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

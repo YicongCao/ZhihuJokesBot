@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic4.zhimg.com/380bc0f90ee46cc58116096bb57ad14b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "身为一个设计师，你觉得最悲哀的事或者最悲哀的时刻是什么？",
+            "author": "肖扬",
+            "bio": "瞎落落…………",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "人这一生为什么要努力？",
+            "author": "冯勇",
+            "bio": "理解，尊重，信任",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男朋友什么都懂，完全没办法在智商上压制他，怎么办？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "包子脸如何买衣服？",
+            "author": "银叫兽",
+            "bio": "喜剧编剧、脱口秀撰稿人。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

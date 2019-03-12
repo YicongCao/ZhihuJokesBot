@@ -1,0 +1,47 @@
+{
+    "cover": "https://pic1.zhimg.com/v2-cd3245dededcc58fe0f46917362c0530.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你是怎么发现自己和别人不同的？",
+            "author": "lee jax",
+            "bio": "健身和家庭料理爱好者",
+            "imgs": [],
+            "content": "> 我身高 192，可以看到他们的头顶，而大部分人都没有发现我脱发。"
+        },
+        {
+            "title": "你收到的最奇葩的礼物是什么？",
+            "author": "sy DDDD",
+            "bio": "",
+            "imgs": [
+                "http://pic2.zhimg.com/70/30c1d69fe107ee1fea4f41876f4ac875_b.jpg",
+                "http://pic1.zhimg.com/70/f498011aec6a1ccd88ca55b9017792f0_b.jpg"
+            ],
+            "content": "> 直接上图吧："
+        },
+        {
+            "title": "你收到的最奇葩的礼物是什么？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [
+                "http://pic2.zhimg.com/70/v2-6005e4d106da1e983f1f1eb5cb2299d9_b.jpg"
+            ],
+            "content": "> 把我三年的体重数据，手动，一个一个的，输入到 Excel 里进行回归统计，做成了一个大盘走势图，然后忧心忡忡的提醒我要多吃点。\r\n> 多！吃！点！\r\n> 好不容易减下来的肥，他让我多吃点。\r\n> 真 · 实验室待傻了 · 老实人。"
+        },
+        {
+            "title": "你收到的最奇葩的礼物是什么？",
+            "author": "与人为善",
+            "bio": "私信免去客套直奔主题，不免费回复文章中已详解过的问题，谢谢合作(｡ì _ í｡)",
+            "imgs": [
+                "http://pic2.zhimg.com/70/v2-7ca5ccc3fe078b0b6130a444f2264d81_b.jpg",
+                "http://pic3.zhimg.com/70/v2-de658281a7b5a4e3c5bffc82ae2bd3f6_b.jpg",
+                "http://pic2.zhimg.com/70/v2-74235bbc59bcd8d549c5a392642bd82d_b.jpg",
+                "http://pic3.zhimg.com/70/v2-aa8f7b1b0c24d11b796d48c5d18d47ba_b.jpg",
+                "http://pic4.zhimg.com/70/v2-9d2d4fa88efa2d35f784a5d8d16f320b_b.jpg",
+                "http://pic4.zhimg.com/70/v2-657ea7b95a4b6b489ff8745c87b7542f_b.jpg",
+                "http://pic3.zhimg.com/70/v2-4d5781e672515e14cf57e8bed48d097a_b.jpg"
+            ],
+            "content": "> 看到这里都是女生回答，我作为男生来扳回一局吧。\r\n> 昨天我和朋友们过生日，我收到了一件让我有意外惊喜的生日礼物。\r\n> 它\r\n> 是\r\n> 一\r\n> 只\r\n> 鸡\r\n> ！\r\n> 它长这样\r\n> 另一边长这样\r\n> 正面长这样\r\n> 高能预警，背面是密集恐惧症的福音\r\n> 我的花屁股好看吗？\r\n> 我下巴上的鸡屎（胶水）性感吗？\r\n> 我的眼睛很迷人\r\n> 爱我，你怕了吗？\r\n> 怕\r\n> 了\r\n> 吗\r\n> 吗\r\n> 吗\r\n> 吗\r\n> 吗\r\n> ？\r\n> ╮(￣▽￣\"\")╭"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/aac7f78305051cab000d1131ab2319a2.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "开一家音乐公司，重点发掘校园歌手，主要利用网络资源进行包装和宣传，请问该注意些什么？",
+            "author": "梁源",
+            "bio": "你们终究都会变成骗子",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么现在同性恋这么火？",
+            "author": "张志东",
+            "bio": "无知青年",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎样自然地去联系已经许久未联系的人？",
+            "author": "雷斌",
+            "bio": "思考武术的后生",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "林黛玉大解之后怎么揩拭？",
+            "author": "Max King",
+            "bio": "腹有詩書氣自華",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

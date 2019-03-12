@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/9ae2aa76d64d0765e9c6332c1c6beed2.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "女生买车，40W~120W 的预算，买什么好？",
+            "author": "小野",
+            "bio": "起舞弄清影，喝死在人间。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何评价视频：「转基因赌局：用生命下注」？",
+            "author": "谭大毛",
+            "bio": "H6N6",
+            "imgs": [],
+            "content": "> 这个视频非常好，我很喜欢这个视频，看到外国人民也这么　　我就心安了。"
+        },
+        {
+            "title": "计算机世界里有哪些经典谣言？",
+            "author": "知乎用户",
+            "bio": "PKU, IME/CS，Computer Architecture.",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "在知乎你有耐心看完 5 行字以上的回答吗？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

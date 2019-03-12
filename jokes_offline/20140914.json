@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/2366631c1611dbcff7239d42f3dffe26.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你是从哪个细节发现女朋友出轨的？",
+            "author": "知乎用户",
+            "bio": "php ，少私寡欲数学好。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "「熊孩子」用英语怎么说？",
+            "author": "减减",
+            "bio": "我明明辣么可爱",
+            "imgs": [],
+            "content": "> Son of a bitch."
+        },
+        {
+            "title": "为什么现在日本歌手给人一种不组团不会唱歌的感觉？",
+            "author": "金多多",
+            "bio": "早教界的一朵奇葩、",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "各种科幻星舰，飞船等的设计思路是什么？",
+            "author": "知乎用户",
+            "bio": "感谢所有题主的不折叠之恩",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

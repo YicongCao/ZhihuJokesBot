@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/c75b48bab01ad0d883aea553a0537cc9.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "和美女谈恋爱是怎样一番体验？",
+            "author": "赵真典",
+            "bio": "我是来打酱油的",
+            "imgs": [],
+            "content": "> 感觉自己很有钱的样子。"
+        },
+        {
+            "title": "什么东西价钱很贵，但是长期看来其实很便宜？",
+            "author": "Edison Chen",
+            "bio": "老天爱笨小孩",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "西甲联赛三雄那么强，其他小球队为什么还要努力踢球？",
+            "author": "余明炜",
+            "bio": "运营商从业ing~",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "当超级火山喷发时，人类除了逃跑或者等死还能做什么？",
+            "author": "玉箫沙",
+            "bio": "",
+            "imgs": [],
+            "content": "> 拍照发微博。"
+        }
+    ]
+}

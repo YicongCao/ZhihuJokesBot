@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/b3bbb0b7580f56972d37c9f242658494.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何评价电影《饥饿游戏 3：嘲笑鸟（上）》？",
+            "author": "李珊",
+            "bio": "时尚栏目编辑，妈妈，护士",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何面对年末/年初离职潮引发的伤感情绪？",
+            "author": "赵劼",
+            "bio": "知乎“温赵轮”三大软狗之一。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "学英语一定要学语法么？",
+            "author": "lu Lu",
+            "bio": "北美bio PHD candidate",
+            "imgs": [],
+            "content": "> Yes. Learn English need learn grammar. Only know vocabulary is not enough. If you don't listen me, you talk like this."
+        },
+        {
+            "title": "哪些因素会阻止未来粮食产量的增加？",
+            "author": "Ivony",
+            "bio": "，，，",
+            "imgs": [],
+            "content": "> 崔永元……"
+        }
+    ]
+}

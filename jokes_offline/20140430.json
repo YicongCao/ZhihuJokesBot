@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic2.zhimg.com/7cbf66d2430db7ca61ce9e26fd82af99.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你写过最动人的情书是哪一封？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "「业界良心」的反义词是什么？",
+            "author": "刘小慧",
+            "bio": "重度〔B站〕依赖症    ( ゜- ゜)つロ    我练功发自真心。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "同学出去旅游回来之后炫耀坐过地铁，该怎么回应他？",
+            "author": "Rei Violet",
+            "bio": "Time can kill & cure me ?",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎样知道自己适合做什么？",
+            "author": "林进鑫",
+            "bio": ".",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

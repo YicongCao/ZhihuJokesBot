@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic4.zhimg.com/3554b6850078c75e5609401c825c4c7b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如果下一秒自己与月球相对静止，我会怎么样？",
+            "author": "知乎用户",
+            "bio": "一句话介绍好难",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么有些人那么喜欢删微博或说说，心理学上怎样解释这个现象？",
+            "author": "知乎用户",
+            "bio": "我想找个女朋友",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "假如美国和加拿大开战，原因可能有哪些？",
+            "author": "诺诺粒粒",
+            "bio": "砖栏：http://zhuanlan.zhihu.com/nuonuolili",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为儿子以后泡妞着想，是让他学吉他好，还是学钢琴好？",
+            "author": "陈二狗",
+            "bio": "汪",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

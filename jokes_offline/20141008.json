@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/4ec498819f163d4e6553da3201b54ef6.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "馋和饿在生理上区别是什么？",
+            "author": "Gundam",
+            "bio": "The truth is what it is, not what you c",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "和「作」女谈恋爱是怎样一番体验？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 就是。。。即使已分手了，也不大敢在知乎回答这个问题。"
+        },
+        {
+            "title": "那些花几百、上千块钱买副耳机的人是什么心态？",
+            "author": "云舒",
+            "bio": "阿里巴巴集团资深安全专家，http://www.icylife.net",
+            "imgs": [],
+            "content": "> 就像早上出门随便买个包子当早餐吃，心里根本没怎么思考过。"
+        },
+        {
+            "title": "喜欢一个不可能在一起的人是什么感觉？",
+            "author": "贺兰乔月",
+            "bio": "才不足取，貌不足凭。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

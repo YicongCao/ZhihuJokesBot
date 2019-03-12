@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/39491a5793698fd3431b429a171efdf0.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "浴缸使用中最令人烦恼的是什么？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "电梯里遇到前面的马尾辫甩来甩去又动不了怎么办？",
+            "author": "刘逸溪",
+            "bio": "希望能有永不匿名的勇气..",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "回文联「画上荷花和尚画」是否有合适的应对下联？",
+            "author": "刘火华",
+            "bio": "伪文艺蠢货青年",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎么看待女朋友的蓝颜？",
+            "author": "eno-one",
+            "bio": "广告人/梦想家/好老师",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

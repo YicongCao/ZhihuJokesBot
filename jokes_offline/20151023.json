@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/01fbb6377afe08a88996d1cbf7d25ebd.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何看待深圳港大医院挂号费收 100 元这个事？",
+            "author": "知乎用户",
+            "bio": "在天命的另一端",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何培养孩子「迎难而上」的思维习惯？",
+            "author": "ianzhang",
+            "bio": "门萨/工业工程/PMP",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "电子游戏对人类文明发展有什么贡献？把玩游戏的时间花到正经的事情上是不是更好？",
+            "author": "BigMoyan",
+            "bio": "什么也不研究僧在读",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "追求女生要放弃时，被告知「坚持一下，会有未来」，怎么办？",
+            "author": "艾萱萱",
+            "bio": "越努力越幸运",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic4.zhimg.com/5bd8bbb3dd2f79fc50a5c886de12f04b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "肥是什么感觉？",
+            "author": "何雨",
+            "bio": "一个走江湖的 艺人",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男人喜欢聪明女生吗?",
+            "author": "王路",
+            "bio": "文集《其实，你所知道的世界很陌生》、《练习场》。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "遇见一群 13 ~ 18 岁的街头小混混挑衅你，该如何应对？",
+            "author": "菠菜",
+            "bio": "豆瓣阅读作品《情感问答》上架，欢迎选购",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女朋友不开心的时候怎么哄？",
+            "author": "高海波",
+            "bio": "互联网，图书馆学。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

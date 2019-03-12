@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic1.zhimg.com/44f8714870d0a68ca7443bd5b1601629.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "小孩子挑食有必要纠正吗？",
+            "author": "张诗琳",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "Cocos2d-x 的作者王哲说 Cocos2d-x 的开发借鉴了 OpenGL 的跨平台思想，是哪部分思想？",
+            "author": "王哲",
+            "bio": "cocos2d-x",
+            "imgs": [],
+            "content": "> 题主你好，我没说过这句话。"
+        },
+        {
+            "title": "「死不认错」有着怎样的心理因素？",
+            "author": "彭斯",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女人的必杀技是「你敢吼我」，男人的必杀技是什么？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

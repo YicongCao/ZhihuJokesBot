@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/1accf3a3447b557ee8035c44f2e77094.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么说薪酬超过一万的时候都用几十 k 或者十几 k 而不是直接说几万，是因为比较直观还是显得多一点?",
+            "author": "alongChen",
+            "bio": "程序员/厨子/单身",
+            "imgs": [],
+            "content": "> 10k 比 1w 多 240 块钱。。。"
+        },
+        {
+            "title": "当年欠你钱不还的人现在都过得怎么样？",
+            "author": "nnnan",
+            "bio": "lucid dream",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你学生时代最糟心的感觉是什么？",
+            "author": "穆纛雠",
+            "bio": "学名「拖沓健忘待催情妄想症病人 Tatanj'Lavo Nyklia Danj」",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何让自己喜欢且有女友的男生喜欢自己？",
+            "author": "Eno-Bea",
+            "bio": "电商/广告/营销/策划/职场/商业/设计",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

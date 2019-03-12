@@ -1,0 +1,38 @@
+{
+    "cover": "http://pic3.zhimg.com/67de49be4c12e4f8a17869cebdcaa7a2.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何评价 2015 年 11 月 17 日国足同中国香港的比赛？",
+            "author": "jianyu wang",
+            "bio": "来知乎学习姿势",
+            "imgs": [],
+            "content": "> 感觉自己又老了四岁……"
+        },
+        {
+            "title": "大家一直说的「蛋疼」究竟有多痛？",
+            "author": "宋玉",
+            "bio": "就不告诉你就不告诉你就不~~~~告诉你",
+            "imgs": [],
+            "content": "> 这么跟你说吧，有一次我们一起踢足球……\r\n> 后来我就再也没碰过足球。"
+        },
+        {
+            "title": "你爱上某一个人时，最奇特的一次是因为什么？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "真正打动过你的一个设计是什么？",
+            "author": "胡灵焕",
+            "bio": "老乔已经走了，我们难道要抱着老乔的设计爽100年吗？",
+            "imgs": [
+                "http://pic4.zhimg.com/70/d98ca107975b693b1a7927a7c81a48cf_b.jpg",
+                "http://pic3.zhimg.com/70/379de1c1d3b09474ce300afba653a72a_b.jpg",
+                "http://pic3.zhimg.com/70/0f17c6b55d08e6ac91e484133a5b322a_b.jpg"
+            ],
+            "content": "> 我来吐槽我们学校的神奇大门了！\r\n> 什么叫做一秒钟变重庆大学！\r\n> 变身前\r\n> 变身后！\r\n> 每次都被这个强大的设计而折服\r\n> 毕业时间怎能不在「重庆大学」来张照片！"
+        }
+    ]
+}

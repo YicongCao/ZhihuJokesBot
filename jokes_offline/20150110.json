@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/ba6fdddfbbec10343cbcf112b8e040f2.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么找男朋友那么难？",
+            "author": "camen",
+            "bio": "未来警察",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "职场人士取英文名，有什么需要注意之处？",
+            "author": "宋文博",
+            "bio": "FDU工科狗 从不黑人",
+            "imgs": [],
+            "content": "> 不要叫 null 吧，会把公司的系统弄垮……"
+        },
+        {
+            "title": "要怎样努力，才能成为很厉害的人？",
+            "author": "杨凌枫",
+            "bio": "不是好人，保持最坏的恶意揣测",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "非洲人为什么用冲锋枪都这个姿势？",
+            "author": "Arthur Wang",
+            "bio": "男公关……",
+            "imgs": [],
+            "content": "> 大概是因为这样可以防止伤到敌人吧。"
+        }
+    ]
+}

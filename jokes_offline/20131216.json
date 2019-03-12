@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic4.zhimg.com/7720164f5866307d4a5c7dff331e4667.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么我总被朋友骂装逼？",
+            "author": "Moxos Yuri",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "iOS 移动开发者们，亲身收到过哪些 App 提交被拒的原因？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "究竟有没有孑孓一身的说法？",
+            "author": "卡卡",
+            "bio": "新浪微博@卡卡mocha",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "拒绝了我的人偶尔来我空间看一看，是抱着什么样的心态来看？是想看看有没有交往的可能吗？还是我想太多了？",
+            "author": "卢百万",
+            "bio": "梦里字谜：大于等于根号10除以根号11。答案是涯。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

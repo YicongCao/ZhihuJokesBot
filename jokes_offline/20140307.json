@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic2.zhimg.com/17f882c5293cc60e9ac249a3591586ed.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "读了很多书，但是都忘掉了，那么读书的意义又在哪呢？",
+            "author": "Boyan",
+            "bio": "I'm Still In Beta...",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "计算机世界里有哪些经典谣言？",
+            "author": "北上",
+            "bio": "反对唯Mac论",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "内裤和袜子放到洗衣机里一起洗有问题吗？",
+            "author": "Yofa Huang",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "情侣间平时都谈什么？",
+            "author": "TheLoverZ",
+            "bio": "TheLover_Z, 大四，程序猿，重金属。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

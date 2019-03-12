@@ -1,0 +1,40 @@
+{
+    "cover": "https://pic1.zhimg.com/v2-1df6689bbb2c68765f868c81abebf280.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你见过哪些让你瞠目结舌的英语翻译？",
+            "author": "知乎用户",
+            "bio": "盲流于帝都的精神病",
+            "imgs": [],
+            "content": "> 我当中学老师那会儿，学校政教处铭牌上写着：department of state and church……"
+        },
+        {
+            "title": "你见过哪些让你瞠目结舌的英语翻译？",
+            "author": "fumanchu2015",
+            "bio": "",
+            "imgs": [],
+            "content": "> 刚刚看迪斯尼的《花木兰》，中间有一个片段新兵刚入伍，纪律涣散。\r\n> 宰相训话：Order people,order！\r\n> 新兵回答：l would like a pan-fried noodle.\r\n> 对应中文翻译\r\n> -「吵什么吵！」\r\n> -「我要炒个葱花蛋。」\r\n> 这样都能用到双关梗，\r\n> 简直膜拜。"
+        },
+        {
+            "title": "你见过哪些让你瞠目结舌的英语翻译？",
+            "author": "蓝小狗",
+            "bio": "混美帝/灵魂画手/好厨子/冷知识爱好者/靠谱男朋友",
+            "imgs": [
+                "http://pic1.zhimg.com/70/b38ed72cf1ead6f6758a91cd5d970dec_b.jpg"
+            ],
+            "content": "> 前段时间，我帮一哥们检查英语作文，作文大概就是写他如何思念家乡以及家乡的父老乡亲什么的。\r\n> 他作文里有一句话是这样的:\r\n> 这个「rhubarb dog」是什么狗呢？\r\n> 我想，大概是什么品种狗的专有名词吧，“鲁巴布犬”，听起来像模像样。\r\n> 而且因为这个哥们英语一直不是很好，我当时还有点震惊，心想你小子竟然都学到我不认识的词了，厉害！\r\n> 然后我怀着好奇的心情，去网上一查。当时就笑喷了。\r\n> 这「rhubarb dog」中的「rhubarb」，意思是一味中药，大黄。\r\n> 好一条大黄狗。"
+        },
+        {
+            "title": "你见过哪些让你瞠目结舌的英语翻译？",
+            "author": "蔺佳",
+            "bio": "来都来了",
+            "imgs": [
+                "http://pic1.zhimg.com/70/8fc00c115ab48ef530df4b85db3642ec_b.jpg",
+                "http://pic4.zhimg.com/70/8ef215cea57d664e90e2ff6a5800dd73_b.jpg",
+                "http://pic1.zhimg.com/70/71f390794ca10682d99e8f85c9590b24_b.jpg"
+            ],
+            "content": "> 特别鸣谢我司旁边云南菜做出的这本菜单，我非常非常想知道是哪个翻译软件的大作：\r\n> 先来一个 tunnel 的预热……\r\n> 文慧，你听\r\n> 这是椰汁和露露的声音\r\n> 下面祭出两瓶神酒：\r\n> The Great Wall Ganhong Samsung 长城 干红 三星\r\n> The United States and the Soviet Union castle in Bordeaux 美苏 古堡 波尔多"
+        }
+    ]
+}

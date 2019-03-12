@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/d68450c652a658f21fd2b6082bb71cbe.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何才能拍出一张特别好看的自拍照？",
+            "author": "琬纸",
+            "bio": "媒体从业者",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "2014 年世界杯最感动你的瞬间是什么？",
+            "author": "陈希 Chris",
+            "bio": "转行谐星中",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "世界是善意的吗？",
+            "author": "苏簌",
+            "bio": "我就是要给这悲惨的世界带来笑声。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男人能轻易看穿女人的哪些谎言和行为？",
+            "author": "温丞",
+            "bio": "苦逼的大三狗。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

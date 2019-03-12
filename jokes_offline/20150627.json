@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/96fdbaeff068b013b81e50f63333fa3f.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "单身究竟有多好？",
+            "author": "梧桐",
+            "bio": "斯人若彩虹，遇上方知有！",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "单身究竟有多好？",
+            "author": "陈哮天",
+            "bio": "工地搬砖狗",
+            "imgs": [],
+            "content": "> 单身有多好，谈了恋爱才知道。"
+        },
+        {
+            "title": "单身究竟有多好？",
+            "author": "漂泊中忘却",
+            "bio": "原来过的很快乐 只我一人未发觉",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "单身究竟有多好？",
+            "author": "大momo",
+            "bio": "脾气不好，别逗我笑",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "cover": "http://pic4.zhimg.com/fbef3a79b_is.jpg",
+    "count": 6,
+    "jokes": [
+        {
+            "title": "女朋友发短信说“我想你了”，应该怎么回短信才好？",
+            "author": "梁晨",
+            "bio": "野蛮体魄，文明精神",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "追到女生后马上失去兴趣，怎么办？",
+            "author": "知乎用户",
+            "bio": "但愿剪来一片云 裁做锦衣裙",
+            "imgs": [],
+            "content": "> “诗人只有在吻到姑娘之前，才歌颂爱情。 他们得到一个女人之后，就开始歌颂自由。”"
+        },
+        {
+            "title": "喜欢一女生，她说大学不想谈恋爱，怎么整？",
+            "author": "余佳原",
+            "bio": "环保工作者。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男生对女生忽冷忽热是什么意思？",
+            "author": "GayScript",
+            "bio": "微信公众平台：GayScript",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "程序员女朋友如何给程序员男朋友过生日？",
+            "author": "知乎用户",
+            "bio": "游戏程序员",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么有人说「女人永远是对的」？",
+            "author": "Raymond Wang",
+            "bio": "lawyer",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

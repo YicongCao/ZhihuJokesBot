@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/53029cf3f8542f2e7689a90c0393c862.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么喜欢一个人时候，看她是有光的？",
+            "author": "Closures blocks",
+            "bio": "招聘女朋友。简历到kevin_samuel@foxmail.com",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "让你感觉最孤独的一句话是什么？",
+            "author": "gogo",
+            "bio": "奇闻异事爱好者，兼有很多恶趣味",
+            "imgs": [],
+            "content": "> 就差你没交作业了。"
+        },
+        {
+            "title": "一个完整的 PPT 做下来，最让你头疼的是什么？",
+            "author": "Simon阿文",
+            "bio": "《我懂个P》作者，很色",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男生有男朋友是怎样的体验？",
+            "author": "知乎用户",
+            "bio": "感觉自己萌萌哒。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

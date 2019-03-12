@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic2.zhimg.com/ea3371806459da689de85e4c4a4ff6d5.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么遮半边脸的照片会比较好看？",
+            "author": "Liang",
+            "bio": "保洁员",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "使用成语对汉语有危害吗？",
+            "author": "周杨",
+            "bio": "智障儿童欢乐多",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "不熟悉的邻居来敲门问我的 Wi-Fi 密码，说只是平时用下上网，我该怎么回绝？",
+            "author": "Vans Hellsing",
+            "bio": "释道儒三修 天赋点不够",
+            "imgs": [],
+            "content": "> 什么是 Wi-Fi 密码？"
+        },
+        {
+            "title": "一个暴露在正常语音环境下却没人教他说话的婴儿是否能自己学会语言？",
+            "author": "vczh",
+            "bio": "专业造轮子 www.gaclib.net",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "cover": "http://pic2.zhimg.com/9cc6ae3ccac14bc01af504a72ae04575.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "你什么时候向命运妥协的？",
+            "author": "知乎用户",
+            "bio": "医疗器械公司售后，专业领域历史，文学，兴趣是写小说，听音乐，在床上翻身。",
+            "imgs": [],
+            "content": "> 我记得是有一次，我妈说：「国家不让养熊猫。」"
+        },
+        {
+            "title": "东北人有哪些令你难以忘怀的特点？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 吃饭前说他是东北的。\r\n> 喝酒后说东北是他的。"
+        },
+        {
+            "title": "北大的同学凌晨四点半真的在看书吗？",
+            "author": "",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "",
+            "author": "李树琛",
+            "bio": "此刻就是最好！",
+            "imgs": [],
+            "content": "> 清华同学表示，这有可能是真的。\r\n> 北大我不知道，估计也差不多。\r\n>  \r\n> 因为欧冠一般 3:45 开始，四点半正好上半场踢完。\r\n> 看会书减少熬夜看球的负罪感是很正常的事。"
+        },
+        {
+            "title": "《武林外传》里的bug有哪些？",
+            "author": "英雄重聚首",
+            "bio": "医疗健康/财务/西部片电影爱好者",
+            "imgs": [
+                "http://pic4.zhimg.com/70/3e9e5242c0c64208610596a6db3bf38b_b.jpg",
+                "http://pic1.zhimg.com/70/c0f276cb3fca3945a92cac0174964104_b.jpg",
+                "http://pic2.zhimg.com/70/fcdb652508f31a9ce05f3ff07324f381_b.jpg",
+                "http://pic4.zhimg.com/70/449a7ed7e46aaad6374149940e88f9bf_b.jpg",
+                "http://pic1.zhimg.com/70/63848fcf42c92600f1e90f84aedaee7c_b.jpg"
+            ],
+            "content": "> 我只说一点，大家请看图：\r\n> 在这个店里，李秀莲有什么资格叫「大嘴」……"
+        }
+    ]
+}

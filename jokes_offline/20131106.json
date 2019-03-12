@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic4.zhimg.com/794eaa18ba81b1c278463206c4194723.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "中国的工业设计（外观设计）和发达国家比差多少年？",
+            "author": "子丹",
+            "bio": "首席打杂官",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么橙子用手剥出来的比用刀切的要好吃？",
+            "author": "Zakk",
+            "bio": "Mr. Crowley",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "招聘要求中提到的热爱生活具体是什么意思？",
+            "author": "安雅",
+            "bio": "简单粗暴，胸大无脑",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "就明清两朝比较而言，为何明朝皇帝多昏庸无能，清朝皇帝多励精图治？",
+            "author": "麻痹",
+            "bio": "我比想再当一个傻逼了",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

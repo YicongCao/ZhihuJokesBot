@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic2.zhimg.com/7e857517b51f1e30f459c4736f13e9e9.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "你听过的最绝望的一句话是什么？",
+            "author": "杨索索",
+            "bio": "该用户不存在",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如果不借助外力（比如水），人仅靠摒住呼吸能否自杀成功？",
+            "author": "知乎用户",
+            "bio": "肯德基都不卖原味鸡了你们还有心思说这些！",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么 iPhone 4S 不能使用 Twitter？",
+            "author": "Cascade",
+            "bio": "知道得越多，不知道的也就越多。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "因为异地恋，还错过了女友的生日，女友突然说要分手，怎么办？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "员工辞职最主要的原因是什么？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

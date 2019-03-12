@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/c472c1f337ba3adcc79353cfbb22f4d6.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "穷游的意义是什么？",
+            "author": "Veggiegirl",
+            "bio": "头发乱了",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "初次跟女生吃牛排时，女生对服务员说要八分熟，该说些什么来缓解尴尬？",
+            "author": "邓文博",
+            "bio": "专业分发互联网领域优质问答",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "富坚连载《猎人》老休刊，是饥饿营销吗？",
+            "author": "陈双獒",
+            "bio": "呱",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "何种主题的科幻或童话故事会让你特别期待？",
+            "author": "知乎用户",
+            "bio": "呃……",
+            "imgs": [],
+            "content": "> 三十岁还是处男就会变成魔法师。"
+        }
+    ]
+}

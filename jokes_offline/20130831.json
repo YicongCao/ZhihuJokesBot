@@ -1,0 +1,27 @@
+{
+    "cover": "https://pic1.zhimg.com/b8520d5f369d42e014cfca5af21016e8.jpg",
+    "count": 3,
+    "jokes": [
+        {
+            "title": "周鸿祎和方舟子吵架谁会赢？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "晚上一个人，遇到持刀抢劫，应该如何应对以确保自身安全？",
+            "author": "杨光",
+            "bio": "灿烂。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你听过让你最无语的剧透是什么？",
+            "author": "刘远航",
+            "bio": "爱谁谁",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

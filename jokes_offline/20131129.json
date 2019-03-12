@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/479d59db1bb66b704b1cf3e663a7ecc4.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么这么多人会在夜里三点半爬起来看地球另一端的足球比赛？",
+            "author": "雷天宇",
+            "bio": "喜欢幻想星人",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "我匿名向老师检举了考试中作弊的人，感觉自己很卑鄙，这样做对吗？",
+            "author": "魏立乾",
+            "bio": "不定期发小米手机F码，知友群312945701",
+            "imgs": [],
+            "content": "> 对，在一个三观不正的世界，做点对的事情感觉忐忑不安太正常了\r\n> 另外，我TM大学经常作弊，现在认个错。"
+        },
+        {
+            "title": "为什么 Apple 官网上 MacBook MagSafe 充电器的评分低得可怜？",
+            "author": "Kenny",
+            "bio": "写过程序",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "鲁迅对你的生活有什么影响？",
+            "author": "知乎用户",
+            "bio": "話不投機半句多。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

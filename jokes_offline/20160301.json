@@ -1,0 +1,46 @@
+{
+    "cover": "http://pic3.zhimg.com/05b1fbc6b47b8953168565e1b3873eae.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "有哪些封建迷信看似荒谬却有一定科学依据？",
+            "author": "待富者",
+            "bio": "未来程序员",
+            "imgs": [],
+            "content": "> 看路边烧纸会倒霉。\r\n> 上次我骑自行车一直看，结果摔了。"
+        },
+        {
+            "title": "有哪些封建迷信看似荒谬却有一定科学依据？",
+            "author": "唐缺",
+            "bio": "写小说的",
+            "imgs": [],
+            "content": "> 不要在床头挂风铃。\r\n> 因为真的很吵啊！"
+        },
+        {
+            "title": "世界上存在动漫少女般完美的身体吗？",
+            "author": "张文璟",
+            "bio": "微博：旋猫 微信号：xmbkball 微店：t.cn/RApzgIa",
+            "imgs": [
+                "http://pic4.zhimg.com/70/e0797d23c87014b1fe35e029ffb8dfef_b.jpg"
+            ],
+            "content": "> "
+        },
+        {
+            "title": "当你对一个国家一无所知的时候，如何装作对这个国家很了解?",
+            "author": "Floyd Sonnet",
+            "bio": "美哉人心 悲哉人情",
+            "imgs": [
+                "http://pic2.zhimg.com/70/3b14ae7a7f7c8ac1404df4264e00ac79_b.jpg",
+                "http://pic4.zhimg.com/70/3cd91a76f726f1594c23aa33bf5aaa23_b.jpg",
+                "http://pic4.zhimg.com/70/258a090e1de337320a5e6a3b51b7c52b_b.jpg",
+                "http://pic3.zhimg.com/70/7799be4d1737c04f575dfd1b5a34ab6a_b.jpg",
+                "http://pic4.zhimg.com/70/79ffc8e93f441d740b2d4ea5d5afb453_b.jpg",
+                "http://pic3.zhimg.com/70/c1c4abca3f6dba45a845ef02542d2a02_b.jpg",
+                "http://pic1.zhimg.com/70/fee63ae0042b7b7aaacaf67653bb8288_b.jpg",
+                "http://pic3.zhimg.com/70/e7973c13eef36f319a9b6965baa0f9b6_b.jpg",
+                "http://pic3.zhimg.com/70/f4a628644f0d50a7da05c0d8b4b55fda_b.jpg"
+            ],
+            "content": "> 很简单，只需要用 「福利非常好，水费全免，电费非常便宜」来描述就可以。\r\n> 亲测有效，带换成任何国家和地区都有人信。\r\n> 以下为图片证据：\r\n> 只要发在朋友圈，肯定有人信系列。\r\n> 评论区有人提示这些福利在俄罗斯是真的（未经我本人验证）。"
+        }
+    ]
+}

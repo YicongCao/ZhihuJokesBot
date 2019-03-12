@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/cc238c3d42bbb0f46bc65f79ef48b55b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么现在的人有钱了大多数要先买一辆车而不选择继续坐公交呢？",
+            "author": "知乎用户",
+            "bio": "被自由束缚",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "《上海滩》这首歌为什么是用粤语而不是上海话唱的？",
+            "author": "sunxiao",
+            "bio": "索粉",
+            "imgs": [],
+            "content": "> 因为那是一部港片。"
+        },
+        {
+            "title": "吸毒上瘾有多难戒？",
+            "author": "ZiGmaX",
+            "bio": "",
+            "imgs": [],
+            "content": "> 小时候觉得烟瘾毒瘾如果自己沾染上了，一定可以凭借顽强的毅力戒掉，直到后来我学会了自慰……"
+        },
+        {
+            "title": "为什么妹子喜欢自称为猫？",
+            "author": "知乎用户",
+            "bio": "梦想成为金融民工",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

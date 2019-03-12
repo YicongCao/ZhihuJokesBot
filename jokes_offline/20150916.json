@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/1d175acc6cffc11e3c9ec99105f25f62.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你是在什么场景下第一次意识到自己长得好看的？",
+            "author": "程小雨",
+            "bio": "I'm patient. I can wait.",
+            "imgs": [],
+            "content": "> 家里卫生间装了浴霸之后。"
+        },
+        {
+            "title": "在一起一年多女孩毫无征兆说累了不想在一起了是怎样？",
+            "author": "知乎用户",
+            "bio": "跑步入门者",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "请大家鉴赏一下，看看我这几首诗写的如何？",
+            "author": "王逍瑕",
+            "bio": "考上研只要两个月，研究艺术却要用一辈子。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如果把张无忌放在乔峰的位置上会发生什么事？",
+            "author": "杨舒",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

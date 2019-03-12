@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/91c0f96549b5aa67a3be0ca9e640c937.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "一只猫在井盖上待了几个小时，它会在想什么？",
+            "author": "Andreas Vladimir",
+            "bio": "In Party we trust, all others we crab",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "什么使你第一眼就看穿一个人？",
+            "author": "鲤鱼门",
+            "bio": "只给鸡汤不给勺都是扯淡",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "每次去超市女朋友都要坐到购物车里，我该怎么办？",
+            "author": "劉歡歡",
+            "bio": "编辑出版学  金融",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "生活中有哪些很常见但很致命的东西？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 微信聊天记录。"
+        }
+    ]
+}

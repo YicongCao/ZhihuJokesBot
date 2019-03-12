@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/682c21e1e3581fde4e26afc3ee330b34.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你曾被老师如何评价？",
+            "author": "高广泽",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "大学本科，是选赚钱多，就业易的经管专业？还是选自己喜欢的人文学科？",
+            "author": "带三个表",
+            "bio": "气死提问者。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女生给男生发 QQ / 可爱的表情，是否代表信任对方？",
+            "author": "RAN RAN",
+            "bio": "hallo  你好",
+            "imgs": [],
+            "content": "> 发表情只能代表我找不到话说了！！！"
+        },
+        {
+            "title": "哪些专业问题在本专业是常识，但在日常生活中却不被人所知？",
+            "author": "Lachel",
+            "bio": "关注思考，生活，方法论",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

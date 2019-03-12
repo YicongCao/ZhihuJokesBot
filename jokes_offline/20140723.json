@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/1c107e849e40f66f732ae12f8bc1a2c6.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "高中生因为怕影响学习拒绝恋爱，正确吗？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何机智地回答「你怎么一个人来看电影」？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "什么时候你会由衷地吐槽「愚蠢的人类啊」？",
+            "author": "吕晓艺",
+            "bio": "我是来围观的。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "「月亮本身不发光，发光的是太阳」这样的知识究竟有什么用处？",
+            "author": "魏柏槐",
+            "bio": "Computer Guy",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

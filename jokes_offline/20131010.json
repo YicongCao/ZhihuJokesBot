@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/c2e138f6e16962de91f50bff2b9668b6.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "男生说什么话，女生会觉得特大气？",
+            "author": "知乎用户",
+            "bio": "广告人/梦想家/好老师",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何认识北大清华北京外交学院的女生？",
+            "author": "知乎用户",
+            "bio": "Heterogeneous Computing/GPU",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "有哪些在各自领域出现过的公认的王者级人物？",
+            "author": "尽管",
+            "bio": "三脚猫   知乎上的政治不正确",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "晚上尤其是半夜 12 点以后会听到楼上弹球掉地上的声音，这是怎么回事？",
+            "author": "岳意贺",
+            "bio": "学建筑，建筑学",
+            "imgs": [],
+            "content": "> 不过是有看不见的小孩子淘气罢了。"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic1.zhimg.com/54c9284dc92a39454875df0faa3f2aa4.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "人类是不是只是生活在电脑模拟出来的宇宙之中？",
+            "author": "Arnu Xie",
+            "bio": "码农",
+            "imgs": [],
+            "content": "> 那么，我希望他们能顺手给我 new 一个对象。"
+        },
+        {
+            "title": "梁家辉、吴镇宇和任达华在饰演黑帮老大的时候，各自有哪些特点？",
+            "author": "唐缺",
+            "bio": "写小说的",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "我是一个比较传统的人，结果现在女友怀孕，家里闹翻了，我该怎么办？",
+            "author": "知乎用户",
+            "bio": "I AM WHAT I AM 专栏http://zhuanlan.zhihu.com/wangmou王某的自留地",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎样含蓄地表达「我已经被收买了」？",
+            "author": "知乎用户",
+            "bio": "字乐网：http://joy.xy19.net",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

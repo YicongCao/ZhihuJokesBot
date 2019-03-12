@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/e5c3199c12e89ea40086617cc4a53c93.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "朋友对我说「不要和一个喜欢看书的女孩子谈恋爱」，这句话应该如何理解？",
+            "author": "知乎用户",
+            "bio": "有底线/不营销/没书卖/无微信微博/专拆人艰/玻璃心碾压机",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "华语女歌手中 Rap 最出色的是哪位？",
+            "author": "Moon Child",
+            "bio": "Taylor Gang Or Die",
+            "imgs": [],
+            "content": "> 赵丽蓉，元祖级女 Rapper。"
+        },
+        {
+            "title": "不超过 10 元，每天怎样吃饭最便宜？",
+            "author": "henry",
+            "bio": "一直在走",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "MacBook 上安装 Windows 后的使用体验如何？",
+            "author": "罗文益",
+            "bio": "知识廉价，求道而已。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic2.zhimg.com/c42381f410dd87c32e77ad5fb0004475.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么总黑处女座？",
+            "author": "怪蜀黍",
+            "bio": "瘦不了的永远在骚动，吃不胖的都有恃无恐",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "我家用无线路由器作交换机，这样会让黑客蹭网吗？",
+            "author": "知乎用户",
+            "bio": "我说话很直，不爽你就憋着",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男生做饭会显得很娘吗？",
+            "author": "JasonWang",
+            "bio": "肉食者鄙",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "员工辞职最主要的原因是什么？",
+            "author": "路飞",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

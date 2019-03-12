@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/a253f53af200d5cec408b99175f88686.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "有没有异性跟你暗示跟你交往，但你却木讷地错过了？",
+            "author": "谢荣琦",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如果每一代鸡都砍掉两只脚若干代小鸡会不会没脚？",
+            "author": "汪惟",
+            "bio": "吃吃白相相",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "爱因斯坦一年睡3小时是真实的吗？",
+            "author": "Teddy Vic",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "我没有学过繁体字，为什么可以看得懂？",
+            "author": "ice",
+            "bio": "IT民工",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

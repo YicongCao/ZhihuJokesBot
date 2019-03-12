@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/ee77072dce648032f6be55d88cbcc623.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你见过的情商最低的行为是怎样的？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "牛顿为什么没有获得诺贝尔奖？",
+            "author": "Cross Lucifer",
+            "bio": "高效源于懒惰",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "什么都想知道，算不算是一种心理疾病？",
+            "author": "Edison Chen",
+            "bio": "老天爱笨小孩",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎样含蓄地表达「我已经被收买了」？",
+            "author": "妲褒蹇",
+            "bio": "弱智儿童",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

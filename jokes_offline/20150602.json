@@ -1,0 +1,36 @@
+{
+    "cover": "http://pic4.zhimg.com/840623a72ec3ff1d0c9b2c65326482bf.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "网上流传的「生男生女示意表」是真的吗？",
+            "author": "知乎用户",
+            "bio": "妄求菩萨来电话，渡我素贞出凡尘",
+            "imgs": [],
+            "content": "> 已经 50%准确率了你还想怎么样？"
+        },
+        {
+            "title": "女孩子出了林徽因的上句「是爱，是暖，是希望，你是人间四月天」，如何对下句？",
+            "author": "起司尼",
+            "bio": "曾经是CIRM（全称CHINAINTERNETREDMAN）",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "有哪些在影视剧里很常见但是在现实中几乎没有人会说的话？",
+            "author": "霍真布鲁兹老爷",
+            "bio": "休息，休息一下。微信公众号：ddz_233",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "印度人真的很逗比吗？",
+            "author": "Hao Wang",
+            "bio": "知之为知之，不知为不知",
+            "imgs": [
+                "http://pic3.zhimg.com/70/f2d6e235fd6049115cc0f7ce8f2402ca_b.jpg"
+            ],
+            "content": "> 来个粗暴点的，本人珍藏印度 2 块钱硬币一枚，你敢信？"
+        }
+    ]
+}

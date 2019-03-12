@@ -1,0 +1,42 @@
+{
+    "cover": "http://pic4.zhimg.com/95e2682301d7087e2ca405becde007b7.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "什么黑科技可以干翻二向箔？",
+            "author": "miku的胖次",
+            "bio": "耳鼻咽喉头颈外科医师，知乎只打脸，不看病",
+            "imgs": [],
+            "content": "> 归零膏。"
+        },
+        {
+            "title": "小提琴速成，靠谱吗？",
+            "author": "pianofanie",
+            "bio": "专业找中央C",
+            "imgs": [],
+            "content": "> 靠谱，而且要靠五线谱。"
+        },
+        {
+            "title": "你家的猫做过哪些不可思议的事？",
+            "author": "羊小趴",
+            "bio": "语言学，猫奴，能吃能睡。",
+            "imgs": [
+                "http://pic4.zhimg.com/70/v2-52bace679b489dd9619d69563dd2a9e7_b.jpg",
+                "https://pic2.zhimg.com/v2-a583be64b2f0a50267eca5f3cd85d74d_b.jpg",
+                "http://pic3.zhimg.com/70/v2-c71742637c169b69efd24c69f7f4886e_b.jpg"
+            ],
+            "content": "> 有一次他在电脑上踩出了这行字：\r\n> 我觉得我对他的教育出了很严重的问题。"
+        },
+        {
+            "title": "有哪些看起来很高端的技术其实原理很暴力很初级？",
+            "author": "Solo Hu",
+            "bio": "测试工程师",
+            "imgs": [
+                "http://pic1.zhimg.com/70/v2-f987ecb23d2a4a1b0930945d221c07b0_b.jpg",
+                "http://pic4.zhimg.com/70/v2-356e2a7695a3fbaae47388ed91f8907b_b.jpg",
+                "http://pic4.zhimg.com/70/v2-4a555ffca2ab93f09661ad868bfab61b_b.jpg"
+            ],
+            "content": "> 出差在前台问标间价格，前台热情地说有豪华大床房，价格一样，要不要。我说反正是一个人出差，就大床房吧。\r\n> 她又很热情地说，要 1.8 米的大床房还是 2.4 米的大床房。我心里就黑人 what 了，2.4 米？老子这么大还真没有睡过这么大的床。好！就要这个！\r\n> 到了房间，果然是超级宽的床。就是宽比长还有长的宽。像我这种腰围都能完整打滚两周。\r\n> 这真哔哔爽。\r\n> 打滚之余，我脑中灵光一闪，和双人间一样的价格？2.4 米？\r\n> 掀起床罩一看，果不其然：\r\n> 嗯，由于这个发现太过震撼，以至于把房间号这个亮点给盖过了：\r\n> 好像在说「哼，单人出差狗也配住大床房？」"
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "cover": "http://pic4.zhimg.com/a3a2ea952ac6a20c5fe251d5ed5af257.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "在你的专业里最棒的死法有哪种？",
+            "author": "刘松霖",
+            "bio": "数学专业，精通小学奥数",
+            "imgs": [],
+            "content": "> 「不要弄坏我的圆！」"
+        },
+        {
+            "title": "明知女孩已有男朋友还去追求的男生通常是怎样的人？",
+            "author": "谢芬",
+            "bio": "Dying in the sun.",
+            "imgs": [],
+            "content": "> 深谙法律。\r\n> 因为爱情之初都是善意的，而未经登记不得对抗善意第三人。"
+        },
+        {
+            "title": "拥有汽车的生活和没有汽车有什么差别？",
+            "author": "知乎用户",
+            "bio": "做事要对得起良心",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "股票软件如果有弹幕功能会怎么样？",
+            "author": "Belleve",
+            "bio": "炼金术士",
+            "imgs": [
+                "http://pic1.zhimg.com/70/4cc74a650a99d60c29016232405eb644_b.jpg",
+                "http://pic2.zhimg.com/70/c7875ab94b00002bd06e9f1375203dad_b.jpg",
+                "http://pic1.zhimg.com/70/b481d06c74042d59b1a3284ce7ef8698_b.jpg"
+            ],
+            "content": "> "
+        }
+    ]
+}

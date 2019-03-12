@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/88617ebd1ca6fd8e92fa2c84b5b2bd24.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "段子手的一天是如何度过的？",
+            "author": "seanfreestyle",
+            "bio": "即将广告人",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "表白被拒绝时听过最狠的话是什么？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "埃博拉如果在中国爆发，我们该如何应对？",
+            "author": "CRH380AL",
+            "bio": "铁路、火车、轨交、自干五、工业党",
+            "imgs": [],
+            "content": "> “建议买入白云山（600332）和恒顺醋业（600305）这两支股票”"
+        },
+        {
+            "title": "我们是个业余足球队，皇马认真踢，能踢我们 30:0 吗？",
+            "author": "张榆枫",
+            "bio": "足球电影",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

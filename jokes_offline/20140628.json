@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/73a40de62aa91903ba330faa7e488168.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "女生把她腿放我大腿上，是不是对我有意思？",
+            "author": "知乎用户",
+            "bio": "眼睛大",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "有哪些垃圾手机软件？",
+            "author": "温馨",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么有的大公司经常泄漏内部邮件？",
+            "author": "keso",
+            "bio": "洪波 t.qq.com/keso-me",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "手机默认字体为什么没有使用楷体？",
+            "author": "厉向晨",
+            "bio": "字体设计师 / 文字研究 / 前端",
+            "imgs": [],
+            "content": "> 说明各个公司负责图形用户界面的人员即使再差劲也没有缺心眼到那个地步。"
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic1.zhimg.com/95dee0e02ff270b72cfdbeabd4230fd3.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "袁隆平是否被严重过誉？",
+            "author": "张啸",
+            "bio": "",
+            "imgs": [],
+            "content": "> 这就叫「吃饱了撑的」。"
+        },
+        {
+            "title": "你见过的情商最高的行为是什么？",
+            "author": "老奶奶骑大象",
+            "bio": "我是多多姐姐的脑残粉",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "电影《一天》那句「我爱你，我只是不再喜欢你了」是种怎样的感情？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你见过哪些奇葩的 Wi-Fi 名和密码？",
+            "author": "郭森",
+            "bio": "",
+            "imgs": [],
+            "content": "> 我电脑的 WiFi 名字：what does fox say\r\n> 密码是 ahhhhhhh\r\n> 别人问的时候直接唱出来了，跟个傻逼似得。。。"
+        }
+    ]
+}

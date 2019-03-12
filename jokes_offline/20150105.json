@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/761c620210df3eed1ed8c7711ac30369.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "与律师谈恋爱是什么感受？",
+            "author": "韩彻",
+            "bio": "子非鱼，安知鱼之乐。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "「心灵鸡汤」式的文章错在哪？",
+            "author": "Raymond Wang",
+            "bio": "lawyer",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "什么是伪善？",
+            "author": "WEITING MAO",
+            "bio": "我想一个人静静，别问我静静是谁(╯‵□′)╯︵┻━┻！",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么有人会花几百、上千块钱买副耳机？",
+            "author": "郭小羊",
+            "bio": "",
+            "imgs": [],
+            "content": "> 因为买不起上万的……"
+        }
+    ]
+}

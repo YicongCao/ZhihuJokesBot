@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/8fc183b9f0e30add2e198bc88366358b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你曾经成功改变过父母的哪些观点？",
+            "author": "子香",
+            "bio": "一个不想脱离低级趣味的人",
+            "imgs": [],
+            "content": "> 这孩子将来一定有出息。"
+        },
+        {
+            "title": "PPT 最后一页写什么结束语既得体又能瞬间提升格调？",
+            "author": "Tianying Chu",
+            "bio": "好厨子",
+            "imgs": [],
+            "content": "> Thank you for your listening and sleeping."
+        },
+        {
+            "title": "典型的「学生思维」有哪些？",
+            "author": "白如冰",
+            "bio": "诗酒趁年华",
+            "imgs": [],
+            "content": "> 找工作不好意思谈待遇。"
+        },
+        {
+            "title": "野球场上，你见过最装腔的是什么？",
+            "author": "张磊",
+            "bio": "",
+            "imgs": [],
+            "content": "> 说个足球的。\r\n> 高一那年学校组织足球联赛，场地就是学校中间的沙土场。隔壁班上场时，11 个人，每人竟然牵一个球童！估计是不知道从哪里找的小学生。那真是亮瞎我们的狗眼了。\r\n> 有道是装逼遭雷劈，他们那场球踢得好垃圾。我至今仍念念不忘。"
+        }
+    ]
+}

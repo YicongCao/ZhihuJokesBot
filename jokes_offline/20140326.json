@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/cfd1d02971e261c684e2b62dc704cf32.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "Google Glass 的启动命令「OK, Glass」，中文翻译为什么最合适？",
+            "author": "HolyPerry",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "有没有狠下心买了却后悔的东西？",
+            "author": "郑文龙",
+            "bio": "不自拍，不旅行，不摄影，不文青。",
+            "imgs": [],
+            "content": "> 某品牌羊毛大衣，咬了一个月牙，赶在打折的时候买的，质量非常好，款式非常有型，也非常暖和。\r\n> 我家养狗。"
+        },
+        {
+            "title": "中国比较少见的姓有哪些?",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "约妹子看电影时对影片的选择有分歧，该怎么办？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

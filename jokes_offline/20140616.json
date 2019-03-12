@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic2.zhimg.com/c4f047adc712f150a089a768d6c8fb61.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么感觉马刺的球迷近几年越来越多？",
+            "author": "mephistoid",
+            "bio": "一个不羁的胖子",
+            "imgs": [],
+            "content": "> 证明当年的马刺球迷连儿子都看球了"
+        },
+        {
+            "title": "室友总带女友在寝室住，怎么办？",
+            "author": "Looper Lvy",
+            "bio": "身残志不坚",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么有些事对别人来说只是举手之劳可他们却不愿帮忙？",
+            "author": "知乎用户",
+            "bio": "不是码农",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "35 岁了还不结婚的男人是什么心态？和他们谈恋爱靠不靠谱？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

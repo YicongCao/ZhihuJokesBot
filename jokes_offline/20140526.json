@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/833e136648e0fce9e8328db6e0b995bc.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "朋友的哪些行为或细节让你后来疏远了他（她）？",
+            "author": "吴显豪",
+            "bio": "一直活在矛盾里",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "约会时发现女生的肩带露出来了该如何反应？",
+            "author": "尤旭",
+            "bio": "IT，php工程师",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "意识到减肥是个非常大的市场，应该如何深度挖掘？",
+            "author": "邓文博",
+            "bio": "-",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "身为一个设计师，你觉得最悲哀的事或者最悲哀的时刻是什么？",
+            "author": "孟爽paula",
+            "bio": "问与答都是为了更好的了解自己。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

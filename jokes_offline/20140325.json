@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/0fed3dd54a7d1ac2a170bffa115a648c.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "怎样提升一个人的文笔？",
+            "author": "白孺子",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "是不是胖子更容易找到女朋友？或者女生更喜欢胖一点的？为什么？",
+            "author": "蔷小微",
+            "bio": "文字 逻辑 计算 有趣很重要",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何克服紧张时全身发抖？",
+            "author": "Sageras",
+            "bio": "活明白",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "曾蹦过极的你，世界观是否因此有了更新？",
+            "author": "知乎用户",
+            "bio": "福音派基督徒 /  私募股权 / 闲书 / 伪文艺",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

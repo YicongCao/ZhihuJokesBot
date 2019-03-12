@@ -1,0 +1,38 @@
+{
+    "cover": "http://pic3.zhimg.com/7890be6bac0572a741277fb76a836bfa.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何追巨蟹座的女生？",
+            "author": "知乎用户",
+            "bio": "怎么有那么多回答？",
+            "imgs": [],
+            "content": "> 先买一艘宇宙飞船。"
+        },
+        {
+            "title": "你在电梯里做过的最有意思的事情是什么？",
+            "author": "知乎用户",
+            "bio": "空间设计师，业余摄影师",
+            "imgs": [],
+            "content": "> 嗯，有次夜里一个人坐电梯，觉得夜里大概不会有人，就在电梯里唱歌，唱的还挺大声。\r\n> 突然电梯停了，上来一个人，我觉得挺尴尬赶紧收声了。\r\n> 然后……\r\n> 他接着我的继续唱了。"
+        },
+        {
+            "title": "哪些事情让你觉得「哇！还可以这么干」？",
+            "author": "司马落星",
+            "bio": "I'm fucking unfuckable.",
+            "imgs": [],
+            "content": "> 我一个同学，有一天拿了一把吉他表演，台底下喝倒彩，他就捏了个纸团用吉他弦弹了过去……"
+        },
+        {
+            "title": "睁着眼睛说瞎话是什么体验？",
+            "author": "有川姬",
+            "bio": "明尊座下满（da）语（wu）喵（shi）",
+            "imgs": [
+                "http://pic1.zhimg.com/70/v2-a3471d57c2ed4ac44dac2c5f09c97acc_b.jpg",
+                "https://pic4.zhimg.com/v2-a17e66b983e02555b0e502f03f89e93b_b.jpg",
+                "https://pic4.zhimg.com/v2-9c4d1073775c210547c988dc7bfe97e3_b.jpg"
+            ],
+            "content": "> 我去你大爷的鹩哥……\r\n> （摄于会稽山鸟语林）"
+        }
+    ]
+}

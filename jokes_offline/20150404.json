@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/5e08ee953dcc3b258beb68aef67a9082.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "直男是否真的认不出女朋友换没换眼影？",
+            "author": "ianzhang",
+            "bio": "门萨会员、工业工程硕士",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何应对桀骜不驯的优秀应届生？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "买了部 Kindle，被同事们鄙视了个遍怎么办？",
+            "author": "袁荣",
+            "bio": "www.zhiketang.com 接地气的商学院",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "开过飞机、坦克、潜艇的人再开家用轿车是什么感觉？",
+            "author": "花燃山色",
+            "bio": "腹有詩書氣自華",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

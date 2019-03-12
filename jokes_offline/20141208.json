@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/57409185db5d05ed942af656d5e5ddd7.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "男生家里很少有女生出入为什么每天拖地都能看见长发？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何用通俗语言解释一下量子力学?",
+            "author": "Harry 张",
+            "bio": "物理系 undergraduate",
+            "imgs": [],
+            "content": "> 不自量力这个成语告诉我们不要自学量子力学。"
+        },
+        {
+            "title": "从《断背山》到《少年 Pi 的奇幻漂流》，李安的导演手法有了怎样的改变？",
+            "author": "知乎用户",
+            "bio": "鲜嫩多汁。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "是不是越漂亮的女人真的越危险？为什么会有这个观点的产生呢？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

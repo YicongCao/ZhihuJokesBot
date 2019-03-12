@@ -1,0 +1,36 @@
+{
+    "cover": "http://pic3.zhimg.com/bd53a895c879c39f1dc0b1759d18889e.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "是否日本的很多地名比中国的听起来有味道？",
+            "author": "卢诗翰",
+            "bio": "做了个竞猜电竞赛事的应用叫彩猫体育",
+            "imgs": [],
+            "content": "> 我国：航母名字叫辽宁号，好土啊\r\n> 老外：Silence Space 广域静默号 三体感扑面而来酷毙了简直\r\n> 我国：最新的超级电脑名字叫神威，好土啊\r\n> 老外：Power of God 去死吧你们这群无神论者！\r\n> 我国：北京不好听，北平多有历史感\r\n> 老外：Capital of North 北裂境之都 为何中国城市名字这么炸裂"
+        },
+        {
+            "title": "你拖稿用过什么借口？",
+            "author": "罗登",
+            "bio": "World Builder",
+            "imgs": [],
+            "content": "> 有了一个全新的想法，很兴奋！\r\n> 原稿已经全删了，毫无意义！"
+        },
+        {
+            "title": "为何现在的汽车外形越来越大，可乘坐空间却大不如前？",
+            "author": "HOFC",
+            "bio": "此生愿望就是学习终生",
+            "imgs": [],
+            "content": "> 你胖了。"
+        },
+        {
+            "title": "你见过的最强考试题是什么样的？",
+            "author": "Secant",
+            "bio": "an INTeresting Person",
+            "imgs": [
+                "http://pic3.zhimg.com/70/3fc59c60dc6335a18542cf424faef822_b.jpg"
+            ],
+            "content": "> 真的，这门课的期末卷子，就这一道题。"
+        }
+    ]
+}

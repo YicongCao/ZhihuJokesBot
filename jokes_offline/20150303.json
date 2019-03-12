@@ -1,0 +1,27 @@
+{
+    "cover": "http://pic2.zhimg.com/d726b558ba9f1d6d868be3c271ab1c10.jpg",
+    "count": 3,
+    "jokes": [
+        {
+            "title": "你有哪些压箱底的装逼的句子？",
+            "author": "王不二",
+            "bio": "微土豪",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎么用一句话，写出一个悲情的有诗感的爱情故事？",
+            "author": "Edison Chen",
+            "bio": "从小爱体育。",
+            "imgs": [],
+            "content": "> 系统提示:\r\n> 你们有 67 个共同朋友，是否添加她为好友？"
+        },
+        {
+            "title": "中国大学排名是怎样的？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> Top2 有 2 所大学\r\n> Top3 大概有 5 所\r\n> Top5 至少有 10 所\r\n> Top10 估计 30 起吧"
+        }
+    ]
+}

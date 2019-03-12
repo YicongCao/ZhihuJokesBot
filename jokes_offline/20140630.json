@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/32d1e0587e4470da6294ff4cc581bd87.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么每届世界杯，央视都要请个不懂足球的女主播来参加解说？",
+            "author": "白如冰",
+            "bio": "THU,C++,数学,物理学",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "矮是什么感觉？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "有哪些话一说出来就感觉那个人很 low？",
+            "author": "moski ivan",
+            "bio": "医学生",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男生最讨厌女生什么？",
+            "author": "梁海霞",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/466df9116a6f4bd6909009142228f44b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "26 岁女朋友因为没吃到一种蛋糕哭了，这正常吗？",
+            "author": "Zoey Go",
+            "bio": "我尽量友善",
+            "imgs": [],
+            "content": "> 姨妈期的时候，我有时候怔怔的看朵云就哭了。"
+        },
+        {
+            "title": "我和男朋友因为男闺蜜分手了，是谁的错?",
+            "author": "周诺",
+            "bio": "其实，我是一个文案。微信号:Nowayzhou",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "出差只住五星级酒店是一种怎样的体验？",
+            "author": "VivaQ",
+            "bio": "话太多，不如不说",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何一本正经地胡说八道?",
+            "author": "马伯庸",
+            "bio": "市场营销",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

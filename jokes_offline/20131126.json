@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/650ff93d0268334ed9a37e6a6baf04d4.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么游戏中最后最厉害的怪被叫做 boss？",
+            "author": "徐湘楠",
+            "bio": "http://www.wenjuan.com/s/iUNzuu 请帮忙填个小问卷",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "《神盾局特工》中的 Coulson 是如何复活的？",
+            "author": "蔡司",
+            "bio": "专业摄影 兼职流氓",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "2013 年的应届毕业生有 699 万，面对这种局势，应届本科生应该选择读研还是就业？",
+            "author": "徐来清",
+            "bio": "奴隶，是被欲望战胜理性的人。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如果和女友逛街，看见一个更漂亮的女孩，该怎么回答女友问谁更漂亮的问题？",
+            "author": "知乎用户",
+            "bio": "本来的签名被用滥了……",
+            "imgs": [],
+            "content": "> 好吧，其实我的保留方法是『啥妹子？』"
+        }
+    ]
+}

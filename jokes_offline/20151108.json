@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/3064c1da703d7846d66a4c293b618861.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "面试的时候被人问到为什么你没有去清华大学，你该怎么回答？",
+            "author": "知乎用户",
+            "bio": "less is more",
+            "imgs": [],
+            "content": "> 「去了，但保安没让进。」"
+        },
+        {
+            "title": "以你的水平踢欧冠决赛，是一种什么样的场面？",
+            "author": "逃课侠",
+            "bio": "人",
+            "imgs": [],
+            "content": "> 紧张到手柄上全是汗。"
+        },
+        {
+            "title": "有哪些十年前的看似不靠谱的预测成真了？",
+            "author": "知乎用户",
+            "bio": "Vetenskap och konst",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎么让钢琴的声音听起来像人的声音？",
+            "author": "Thinkraft",
+            "bio": "Obsessive-Compulsive-Personality-Disorde",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

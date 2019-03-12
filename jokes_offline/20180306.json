@@ -1,0 +1,40 @@
+{
+    "cover": "https://pic4.zhimg.com/v2-dab9b315f98c5aa48c5b2200587578b3.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何看待张小龙想「约战」3000 分以上的跳一跳玩家？",
+            "author": "yugi li",
+            "bio": "别思考了，你使这里弥漫着一股愚蠢的气息",
+            "imgs": [],
+            "content": "> 钓鱼执法！可见腾讯对外挂的打击力度之大！"
+        },
+        {
+            "title": "计算机领域中有什么高大上的术语其实描述的是很简单的事物？",
+            "author": "caticd",
+            "bio": "程序猿",
+            "imgs": [],
+            "content": "> 全自动区分计算机和人类的公开图灵测试（Completely Automated Public Turing test to tell Computers and Humans Apart，简称CAPTCHA）\r\n> 说白了就是个验证码。"
+        },
+        {
+            "title": "女朋友涂着她前男友送的口红来和我约会，我该怎么办？",
+            "author": "周明",
+            "bio": "吃点好的。",
+            "imgs": [],
+            "content": "> 她前男友估计比你还难受呢。\r\n> 「前女友涂着我省吃俭用一个礼拜给她买的口红跟现男友约会……」"
+        },
+        {
+            "title": "为什么黑猫警长明明是一只奶牛猫，偏偏被叫做黑猫？",
+            "author": "羽颀",
+            "bio": "风起闻林竹萧萧，雪霁折梅花琰琰",
+            "imgs": [
+                "http://pic3.zhimg.com/70/v2-f42476a0b7993098395b45709336561a_b.jpg",
+                "http://pic1.zhimg.com/70/v2-a294161671d67dafbd6bf49aa3f2da0c_b.jpg",
+                "http://pic3.zhimg.com/70/v2-373a20f598ad57b31eded644a6aa4ab2_b.jpg",
+                "http://pic2.zhimg.com/70/v2-b3081519a40ccd532a5ebe44937fd2ed_b.jpg",
+                "http://pic4.zhimg.com/70/v2-4c4298f425eafc5884b1907bfc541e4b_b.jpg"
+            ],
+            "content": "> 我也是最近在 B 站看弹幕的时候才发现，不仅黑猫警长是只神经病奶牛猫，就连白猫警士都是只压塌炕的橘猫\r\n> 所以他们平时脱下警服跑圈搏斗时其实是这样的。\r\n> 回到问题，之所以叫黑猫白猫也许和邓公的抓老鼠论有关，动画里也一直在抓一只耳。所以问题可能要反过来问，为什么黑猫警长被设定成了奶牛猫，白猫警士设定成了橘猫？我猜大概是为了配合他们的警服颜色，毕竟纯白警士倒还好，纯黑警长的颜值会悬崖式下跌 23333\r\n> 有人觉得白猫在笑，这个大概是我的渣 P 图造成的，其实最销魂的是白鸽。"
+        }
+    ]
+}

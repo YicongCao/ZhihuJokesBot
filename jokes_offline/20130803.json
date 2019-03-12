@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/d8e69cfde87fcf34741a8558fa1a6b44.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "最厉害的忍术是什么？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何优雅地表达愤怒？",
+            "author": "AlpLee",
+            "bio": "现实的理想主义者",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "程序员转行烧烤需要做哪些准备，有哪些优势和劣势？",
+            "author": "白驹",
+            "bio": "放假了，上知乎的时间少了",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "到底什么叫爱？爱一个人到底什么感觉？",
+            "author": "腐生",
+            "bio": "料也觉人间无味，是梦久应醒矣。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

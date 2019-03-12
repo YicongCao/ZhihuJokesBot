@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/1109cc7c2a591bc9ec8a088e206e80f8.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "一滴水如果从足够高的地方落下，能不能打死人？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎样委婉的让男朋友平时给自己多打电话？",
+            "author": "余非鱼",
+            "bio": "五行缺钱",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何挤出时间锻炼身体？",
+            "author": "talich",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何打破青少年对于想休学去从事电子竞技的不切实际的幻想？",
+            "author": "Zydrate",
+            "bio": "",
+            "imgs": [],
+            "content": "> 小小年纪干啥不好，偏要去卖肉松饼。。多想不开。。"
+        }
+    ]
+}

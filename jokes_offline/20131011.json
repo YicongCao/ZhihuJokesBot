@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic1.zhimg.com/37ad7206b3577dbde42aa7b98ffddf80.jpg",
+    "count": 5,
+    "jokes": [
+        {
+            "title": "哪件事，让你对自己的无知感到震惊？",
+            "author": "白驹",
+            "bio": "找工作中",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "售价上万的马桶，商家却为什么强调节水效果？",
+            "author": "茉茉",
+            "bio": "Enrahah",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "“和尚是日本三大有钱人之一”，那另外两个是？",
+            "author": "余志恒",
+            "bio": "美（chi）食（huo）家",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "知乎上回答问题最霸气的开场白是什么？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "于正为什么选陈妍希演小龙女？",
+            "author": "陈黑脸",
+            "bio": "脑袋空空，问题多多。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

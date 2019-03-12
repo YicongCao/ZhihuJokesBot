@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/f1a94d9b0547e4aa4e981ae9860e3b64.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何吐槽一部电影很烂？",
+            "author": "李亚京",
+            "bio": "签名很长的人都不是好东西标点都不加的就更不用说了",
+            "imgs": [],
+            "content": "> 影厅座位有 17 排，每排 32 个座位，天花板上共有 48 盏灯，荧幕的左下角有个黑点总是出现，频率大概是 1 分 20 秒一次。"
+        },
+        {
+            "title": "伏地魔为什么不一早把哈利 · 波特杀了？",
+            "author": "郑冉",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么很多人喜欢在 QQ 签名上炫耀或表达自己的情感或状态？",
+            "author": "苏菲",
+            "bio": "猫嘴小超人",
+            "imgs": [],
+            "content": "> 因为他 qq 没加他爸妈。"
+        },
+        {
+            "title": "什么样性格的人会被夸性格好？",
+            "author": "明溪",
+            "bio": "http://jianshu.io/users/sZag7L  个人简书link",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic3.zhimg.com/86bfeea41d05b688c95ce1f83df9419b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "国庆想去游北京，有哪些好建议？",
+            "author": "Ophelia Sweetie",
+            "bio": "一只傲娇小野兔",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "耳垂有什么用？",
+            "author": "阿鹿德波顿",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "怎样有效阻止警察抽查身份证？",
+            "author": "达达",
+            "bio": "服务端程序员，主页：http://1234n.com",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "男性更看重女人的身材、脸蛋还是思想？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 脸蛋和身材决定了我是否想去了解她的思想。\r\n> 思想决定了我是否会一票否决掉她的脸蛋和身材。"
+        }
+    ]
+}

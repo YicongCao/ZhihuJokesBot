@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/1f3d9bed5360687352509cec8aecdae5.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "在全速运行的高铁内抛一枚硬币会怎样？",
+            "author": "Travis L",
+            "bio": "Do not invite if you are a moron!",
+            "imgs": [],
+            "content": "> 会被人捡去。"
+        },
+        {
+            "title": "西方国家的人如何看待撒娇？",
+            "author": "Siyu Yang",
+            "bio": "写答案也是一种学习",
+            "imgs": [],
+            "content": "> 在厕所手机打了半小时，发现不是撤侨。\r\n> 而我已经截瘫。\r\n> 邀请我的朋友，我眼神不好，不要这样玩我，好吗\r\n> (ノдヽ)"
+        },
+        {
+            "title": "早上老师去放生鱼了，法师颂佛经，鱼儿抬起头是什么原因？",
+            "author": "良知无畏",
+            "bio": "段子手业余三段",
+            "imgs": [],
+            "content": "> 缺氧憋的。"
+        },
+        {
+            "title": "有哪些你们觉得看起来就很配的荧幕情侣？",
+            "author": "陈超",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

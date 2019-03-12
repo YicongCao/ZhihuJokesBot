@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/09c9fdde86b0df778f28d88f0019cf67.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "女生第一次被男朋友牵手，一般会想什么？",
+            "author": "知乎用户",
+            "bio": "伪技术宅，死宅女",
+            "imgs": [],
+            "content": "> 「这显然是一双劳动人民的手。」"
+        },
+        {
+            "title": "家里所有有关产品都用苹果产品是一种什么体验？",
+            "author": "知乎用户",
+            "bio": "一个一不小心学习好了的差生……",
+            "imgs": [],
+            "content": "> 来个电话全家都响了起来。"
+        },
+        {
+            "title": "分手很久了，突然有一天她发短信说她很想你，怎样回复会比较合适？",
+            "author": "朱莎",
+            "bio": "天地之间  我们俯首称臣",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "中国有没有本地创造的桌上角色扮演游戏（TRPG）？",
+            "author": "Thinkraft",
+            "bio": "Obsessive-Compulsive-Personality-Disorde",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

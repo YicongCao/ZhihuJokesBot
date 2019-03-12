@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/9780d15a416d096f27176f83dfa116fc.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何巧妙地躲避随份子？",
+            "author": "张素素",
+            "bio": "你当我聒噪吧",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么总是相爱容易相处难？",
+            "author": "知乎用户",
+            "bio": "虚伪让人难受，犀利让人受不了。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "像我这种程序员还有必要继续做下去吗？",
+            "author": "赵劼",
+            "bio": "知乎“温赵轮”三大软狗之一。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "女生如何不臃肿地穿衣过冬？",
+            "author": "umping j",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

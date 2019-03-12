@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/dc109883c3cddf8943d0578666e9628b.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "程序员要供祖师爷的话该供谁？",
+            "author": "kldnyuan",
+            "bio": "有线通信设备测试",
+            "imgs": [],
+            "content": "> 沈从文，他在 1934 年就用汉语写了一本书叫 biancheng。"
+        },
+        {
+            "title": "如何充分利用闲置的 Android 手机，让其发挥余热？",
+            "author": "知乎用户",
+            "bio": "曷不委心",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "骑了近 36 年的永久自行车现在能卖多少钱？",
+            "author": "知乎用户",
+            "bio": "世界和平",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你在旅途中遇到过最厉害的人是什么样的？",
+            "author": "一味",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

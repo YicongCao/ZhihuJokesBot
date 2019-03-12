@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic1.zhimg.com/51ce59005ef7c2eb0d9544f58918b1f8.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "每天早起两小时（80年下来就多出将近7年），你会用来干什么？",
+            "author": "张志浩",
+            "bio": "精英级别回答法医问题，屌丝级别回答政治问题，优秀级别回答日本问题的奇怪混合体",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "在美國生活，作为学生有哪些省錢的技巧？",
+            "author": "张冠晨",
+            "bio": "Code wins argument.",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "30岁学编程靠谱么？",
+            "author": "Derre Caunl",
+            "bio": "人类建这个城市只是为了把你藏起让我找不到",
+            "imgs": [],
+            "content": "> 种一棵树最好的时间是十年前，其次是现在。"
+        },
+        {
+            "title": "家用健身是跑步机还是动感单车好？为什么？",
+            "author": "知乎用户",
+            "bio": "PDS Admin",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

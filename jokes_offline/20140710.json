@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/54d1a9fb96c069f7564f35445d575365.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你在篮球场上最讨厌碰到哪种人？",
+            "author": "冯明鹏",
+            "bio": "腾讯无线PM",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你听过的最好的比喻是什么？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> John Coltrane 有一次掉了一颗门牙，Miles Davis 说他笑起來像钢琴。"
+        },
+        {
+            "title": "如果母鸡有思想，它会想些什么？",
+            "author": "Trickie",
+            "bio": "厌恶争执，不善演说",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "当你有了你人生中第一辆车的时候你当时在想什么或者当时什么感觉？",
+            "author": "Heinrich",
+            "bio": "生娃学工打折腿",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

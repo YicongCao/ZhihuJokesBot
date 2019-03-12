@@ -1,0 +1,36 @@
+{
+    "cover": "http://pic1.zhimg.com/ccc7fe8a5132c755cdc0cea49e4a758c.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "你为什么会追星？",
+            "author": "Veri",
+            "bio": "小狐狸精之绿宝石盒子",
+            "imgs": [],
+            "content": "> 学天文的，不追星，追什么呢？"
+        },
+        {
+            "title": "大家觉得最好看的汽车钥匙是什么样子?",
+            "author": "Ric Li",
+            "bio": "汽车人，变形，咯吱咯吱",
+            "imgs": [
+                "http://pic4.zhimg.com/70/660ab98c8cbc8798fc257e5d81ca557f_b.jpg"
+            ],
+            "content": "> 都闪开！我们来聊一聊情怀。"
+        },
+        {
+            "title": "你收到过最暖心的纸条是什么样的?",
+            "author": "吴小闲",
+            "bio": "小宝的爸爸",
+            "imgs": [],
+            "content": "> 前几天，家里遇到点困难时，儿子写的。"
+        },
+        {
+            "title": "广告 · 小时候打拳皇 98 你遇到过最强大的对手是谁？",
+            "author": "拳皇 98 终极之战 OL",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

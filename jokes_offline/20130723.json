@@ -1,0 +1,48 @@
+{
+    "cover": "https://pic4.zhimg.com/e85534d5d5bd5cd1bac839a87f27580f.jpg",
+    "count": 6,
+    "jokes": [
+        {
+            "title": "给小孩起名有什么技巧和注意事项？",
+            "author": "陈达",
+            "bio": "无业游民",
+            "imgs": [],
+            "content": "> 勿用「翔」字。"
+        },
+        {
+            "title": "为什么那么多人说自己寂寞、孤单、想找个男／女朋友，却还是单身？",
+            "author": "许甜甜",
+            "bio": "女流氓★★★★，好姑娘★★★★★。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "吃火锅先放、后放什么有何讲究？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "各行业有哪些外行不知道的事？",
+            "author": "张少杰",
+            "bio": "羞愤的记录者、纸上谈兵的球迷、流行音乐听众",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "如何评价马云先后结交李一、王林？",
+            "author": "Roy Li",
+            "bio": "微信公众号 mintshow 人生如戏",
+            "imgs": [],
+            "content": "> 因为马云觉得人类已经阻止不了他了。"
+        },
+        {
+            "title": "进击的巨人是在暗讽中国吗？",
+            "author": "Zhang Fuguang",
+            "bio": "犬儒主义可能是哲学家死前最后的追求。",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

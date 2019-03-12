@@ -1,0 +1,39 @@
+{
+    "cover": "http://pic3.zhimg.com/12ae14db1681fa2ef4dc03ba7f42e59e.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "撩妹力负 max 是什么体验？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 曾经和一个有好感的妹子打赌，输了请吃饭。结果我们各输一次，也就是一人请一顿。\r\n> 结果我脑子一抽，居然说抵消……然后就没有然后了……"
+        },
+        {
+            "title": "你见过最不人性化的设计是什么？",
+            "author": "常三毛",
+            "bio": "你当温柔，却有力量 /知乎专栏-街头极限健身运动",
+            "imgs": [],
+            "content": "> 学校给厕所安声控灯，30 秒灭一次，边拉屎边给自己鼓掌？"
+        },
+        {
+            "title": "你们见过最丑的家装是怎样的？",
+            "author": "eve",
+            "bio": "最近在餐厅刷盘子",
+            "imgs": [
+                "http://pic2.zhimg.com/70/274ed8065dd6309be860dab6211e1c79_b.jpg",
+                "http://pic1.zhimg.com/70/e3ddcef4fa6f6772f7ecacee98543308_b.jpg"
+            ],
+            "content": "> 说好的书柜呢？\r\n> 说好的书桌呢？\r\n> 记得我爸笑眯眯的指着我屋子门外阳台这个桌子跟我说，你在这里学习。\r\n> 后来我成了国家的栋梁。\r\n> 今天郑州下雪了，来个图，好可爱。"
+        },
+        {
+            "title": "你们见过最丑的家装是怎样的？",
+            "author": "chanderlier",
+            "bio": "心有猛虎 我会拴链",
+            "imgs": [
+                "http://pic1.zhimg.com/70/dcf4decf0f8227de19051f29f7767998_b.jpg"
+            ],
+            "content": "> 楼上一堆说丑得像 KTV 似的，这尼玛才是真正的 KTV，这尼玛是我家客厅！"
+        }
+    ]
+}

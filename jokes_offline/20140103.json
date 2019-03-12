@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic2.zhimg.com/8471bd2d96beb9d88e0c908d5a2cf09d.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "同龄人中不少人结婚生子了，对你有什么影响吗？",
+            "author": "卢百万",
+            "bio": "梦里字谜：大于等于根号10除以根号11。答案是涯。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "现在有哪些顶级耳塞？",
+            "author": "银教授",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "在晚上的时候，为什么北京路边可以经常看到有人在烧冥币呢？",
+            "author": "Roy Feng",
+            "bio": "不知为知之，知之为不知",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "你收到的最雷的表白语是什么？",
+            "author": "程冬冬",
+            "bio": "想去当兵了",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

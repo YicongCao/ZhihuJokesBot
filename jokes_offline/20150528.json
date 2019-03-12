@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic2.zhimg.com/74c85f2d7194bd29eb7d27b987908051.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何用一句话来安慰失恋的人？",
+            "author": "clown39",
+            "bio": "博士在读，稀里糊涂",
+            "imgs": [],
+            "content": "> 去吃火锅还是烧烤？"
+        },
+        {
+            "title": "为什么穿丝袜的一般是文科生，而理科生不太爱穿丝袜？",
+            "author": "lulu",
+            "bio": "一枚爱好心理学的吃货",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "央视报道「不要吃隔夜西瓜，细菌数量难以数清」是否属实？",
+            "author": "知乎用户",
+            "bio": "图书馆是个好地方。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "陪伴是最长情的告白，那等待是什么？",
+            "author": "Edison Chen",
+            "bio": "从小爱体育。",
+            "imgs": [],
+            "content": "> 等待是最矫情的自 high。"
+        }
+    ]
+}

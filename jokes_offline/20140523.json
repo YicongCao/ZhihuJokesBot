@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic4.zhimg.com/20d64519d69eba520a791ddc2984a047.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何做到为人和善又不失强硬？",
+            "author": "ls Shaw",
+            "bio": "奔跑的思考者",
+            "imgs": [],
+            "content": "> 我前大大大 boss 说的：\r\n> 从不说硬话；从不做软事。"
+        },
+        {
+            "title": "喜欢一个男生，要不要表白？",
+            "author": "王豖",
+            "bio": "静如瘫痪，动若癫痫...",
+            "imgs": [],
+            "content": "> 他如果也喜欢你，你的表白就是通往幸福的最后一扇门；\r\n> 如果他不喜欢你，你表白就是压死骆驼的最后一根稻草。\r\n> 看着办……"
+        },
+        {
+            "title": "iOS 不越狱的理由有哪些？",
+            "author": "鼓鼓",
+            "bio": "awake and unafraid.asleep or dead.",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "国外留学老师几乎每节课都要大骂中国，作为中国留学生该怎么办？",
+            "author": "叶君樟",
+            "bio": "狼山支云塔看门大爷",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

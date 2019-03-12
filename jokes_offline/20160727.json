@@ -1,0 +1,46 @@
+{
+    "cover": "http://pic4.zhimg.com/c0196d423e8dcb9951aab1e8a8518e73.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "旅游的时候你遇到过哪些搞笑的事情？",
+            "author": "jing hu",
+            "bio": "",
+            "imgs": [],
+            "content": "> 去青城山的时候遇到大雪，地上台阶上都又湿又脏，偶尔遇到殿里有凳子的，也被年纪大的大爷大妈或者带着小孩的爸爸妈妈占领了。我实在累又找不着地方，于是找了一个香火不旺的真人，在他面前跪着休息了十几分钟。"
+        },
+        {
+            "title": "旅游的时候你遇到过哪些搞笑的事情？",
+            "author": "长眠不醒",
+            "bio": "法学生 兼职看手相",
+            "imgs": [
+                "http://pic2.zhimg.com/70/f77861f2c0bffda540fb0528b0056c99_b.jpg",
+                "http://pic3.zhimg.com/70/4afde8a81bc40c39000f602e7e1fec22_b.jpg"
+            ],
+            "content": "> 第一次去厦门，晚上出去吃烧烤大排档。\r\n> 想吃各种鱼啊……但是生长在西南的我们一家不知道如此丰富的海鱼们究竟长啥样。\r\n> 犹豫了一下决定各点一两条尝尝。\r\n> 于是点了两条多春鱼。\r\n> 对，两条。\r\n> 装在一个大盘子里。\r\n> 然后怀着忐忑之心……会不会点多了吃不完……\r\n> 然后烤完端上来之后。\r\n> 沿海的朋友你们懂的。\r\n> ……\r\n> 算了为了方便大家理解我还是补个图吧。\r\n> @烤多春鱼（图片来自网络）"
+        },
+        {
+            "title": "旅游的时候你遇到过哪些搞笑的事情？",
+            "author": "开枪手杰克",
+            "bio": "PS4港服:frankycqf,约!约!约!",
+            "imgs": [],
+            "content": "> 我亲戚经历。\r\n> 他去香港时，正准备上一辆停在路边的出租车，结果发现一个人钻他前面，抢先开了出租车「副驾驶」的门。\r\n> 他立马不干了：「你这人怎么能插队啊，这车我先来的。」\r\n> 对方很客气的回答：「不好意思我是司机。」\r\n> 香港是右舵的。"
+        },
+        {
+            "title": "有哪些我们以为是中国特色的东西，其实全世界都一样？",
+            "author": "林浩轩",
+            "bio": "居然有知友和我同名",
+            "imgs": [
+                "http://pic2.zhimg.com/70/5b38a9cce543a808ded83cee0b54d1e9_b.jpg",
+                "http://pic3.zhimg.com/70/a624b841c221c29a7c3a7fc8cf6ddbda_b.jpg",
+                "http://pic2.zhimg.com/70/7cd2e5e249ab9a4daa08065be9f1d085_b.jpg",
+                "http://pic1.zhimg.com/70/bf7333cd44e5f027702cb799d820b648_b.jpg",
+                "http://pic2.zhimg.com/70/b25bf855c2bfab693936c9e3ae6c3315_b.jpg",
+                "http://pic3.zhimg.com/70/0b818a78411f2f34ce0e24a395c1eb3a_b.jpg",
+                "http://pic3.zhimg.com/70/1a2130a0df867d57c3b93e4e3197a06e_b.jpg",
+                "http://pic2.zhimg.com/70/4dd3dbf643f9059601e156d6ee6bbde9_b.jpg"
+            ],
+            "content": "> 有图有真相=_="
+        }
+    ]
+}

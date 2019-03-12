@@ -1,0 +1,27 @@
+{
+    "cover": "http://pic1.zhimg.com/5a4ef9e73cc0281ce9150b64f909ce61.jpg",
+    "count": 3,
+    "jokes": [
+        {
+            "title": "你做过的最大胆的事情是什么？",
+            "author": "李倩云",
+            "bio": "我不在恋爱中做梦，就在梦中谈恋爱。",
+            "imgs": [],
+            "content": "> 跟准 BF 在野外坟地露营……结果从此以后他再也没有转正的希望了。"
+        },
+        {
+            "title": "做备胎是什么感觉？",
+            "author": "Wild Alexander",
+            "bio": "DPs",
+            "imgs": [],
+            "content": "> 每一句话都是密码。"
+        },
+        {
+            "title": "你小时候有哪些神奇的误解？",
+            "author": "颜桢",
+            "bio": "雁神脑残粉",
+            "imgs": [],
+            "content": "> 红领巾是五星红旗的一角。\r\n> 生产红领巾的时候要先做好一面国旗，再剪下来。\r\n> 好浪费啊。"
+        }
+    ]
+}

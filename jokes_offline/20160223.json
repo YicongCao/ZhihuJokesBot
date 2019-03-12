@@ -1,0 +1,39 @@
+{
+    "cover": "http://pic2.zhimg.com/5b88712ed0bf7bd446ca2a9ec337d1f1.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么张学良抽大烟酗酒杀人玩女人却如此长寿？",
+            "author": "雨前羽街",
+            "bio": "关注一下微信公众号（plumestreet）呗",
+            "imgs": [],
+            "content": "> 因为他知道他是个好男孩儿╮(￣⊿￣\")╭"
+        },
+        {
+            "title": "老虎宝宝从小养到大，它会攻击我吗？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 人家本来只是轻拍你肩膀打个招呼，谁知你就粉碎性骨折了。\r\n> 大猫表示很无辜，因为他从没见过如此脆弱的生物。"
+        },
+        {
+            "title": "有哪些国外人常用的 APP，而中国人会惊讶「老外竟然有这个需求」？",
+            "author": "知乎用户",
+            "bio": "TU/e 建筑物理",
+            "imgs": [
+                "http://pic2.zhimg.com/70/8da6a0eec9745162b7e0d18f9a3c4061_b.jpg"
+            ],
+            "content": "> 冰岛因为人口太少，很多人之间都有亲属关系，\r\n> 于是当地的年轻男女交（yue）往（pao）之前要先用一个 APP 查亲缘关系。\r\n> 这个 APP 叫做 Islendingabok（「冰岛人家谱」），\r\n> 前几天去冰岛玩的时候当地导游证实了这个说法。\r\n> 官方介绍：https://www.islendingabok.is/English.jsp\r\n> 补充：冰岛人除了丹麦血统的贵族都没有姓氏，父亲叫什么名字，儿子就姓什么 son，女儿就姓什么 dottir，每一代都不一样。"
+        },
+        {
+            "title": "人死后去哪里？",
+            "author": "云上彩",
+            "bio": "SkyLab首席成员，编号001。",
+            "imgs": [
+                "http://pic1.zhimg.com/70/cac2afd0b02cf808c26bdbef17b619f8_b.jpg",
+                "http://pic4.zhimg.com/70/040e0cb2b32b27955d13f87131024103_b.jpg"
+            ],
+            "content": "> 曾经有小朋友是这么问的：\r\n> 然后看了很多书知道很多大道理的老师是这么回答的："
+        }
+    ]
+}

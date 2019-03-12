@@ -1,0 +1,41 @@
+{
+    "cover": "https://pic3.zhimg.com/v2-1f3d258a4d1cffe7591ef6bfb2954dc6.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "怎样在朋友圈晒娃不让人烦？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 如果晒自己二十岁的单身女儿也算的话。"
+        },
+        {
+            "title": "你都见过什么样的地理盲？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> 开着鄂 A 的车被人问：你是鄂尔多斯的呀？"
+        },
+        {
+            "title": "男生应该怎么搭配复古风的衣装？",
+            "author": "威廉少校",
+            "bio": "学生",
+            "imgs": [
+                "http://pic2.zhimg.com/70/v2-b07e610d246a5845b857f21b154b9fed_b.jpg"
+            ],
+            "content": "> 复古风，晚上适合夜跑。"
+        },
+        {
+            "title": "你吃过最累的食物有哪些？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [
+                "http://pic2.zhimg.com/70/v2-3f3b33d9b455950704f84fdb49f58fad_b.jpg",
+                "http://pic2.zhimg.com/70/v2-439eeff62bbe91d7bd8636c8ffae8389_b.jpg",
+                "http://pic4.zhimg.com/70/v2-97a884cbee65c2e616d37c8d90ef15fb_b.jpg",
+                "http://pic4.zhimg.com/70/v2-750ef766354a7e8f0cd554654db39e23_b.jpg"
+            ],
+            "content": "> 掰这玩意儿我手都要抽筋了，从进店坐下到吃到这东西，我掰了得有 45 分钟，妈蛋……不管好不好吃都是好吃的……话说有掰好的，好吧，别人掰的我不敢吃……谁知道他有没有抠脚……\r\n> 机器搞的据说口感不好……\r\n> 反正整个店里都是掰这玩意儿的……\r\n> 不适合做快餐，太麻烦，掰起来太累手……\r\n> 这玩意儿端上来我都不饿了，饿过头了……"
+        }
+    ]
+}

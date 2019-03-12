@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/9e615fdfebef8875d00f7fcd135f60fc.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如何评价微信 6.0？",
+            "author": "连勋",
+            "bio": "除了写代码什么都擅长的程序猿",
+            "imgs": [],
+            "content": "> 打开朋友圈，感觉自己像在看《预言家日报》。"
+        },
+        {
+            "title": "黏人的男朋友都有哪些优点？有哪些缺点？",
+            "author": "Iris.Wu",
+            "bio": "心理学/小说/吃货",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么很多乖女孩没有对象？",
+            "author": "Sophie-Pan",
+            "bio": "学法律者，爱好生活专业户，各种有意思的东西控",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "在你所在的行业里，国内最顶尖高手在国际上是什么水平？",
+            "author": "老苏",
+            "bio": "新锐投行民工/滞销app开发者",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

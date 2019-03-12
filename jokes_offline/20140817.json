@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/b4a62190e87df343fa6c3ffa08e19510.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "以瘦为美的观念是社会对胖子施加的精神暴力吗？",
+            "author": "周羊羊",
+            "bio": "书是人类催眠的利器",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "杀气是一种什么感觉？",
+            "author": "张起灵",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "分手时男友跪下了，如何处理？",
+            "author": "知乎用户",
+            "bio": "懒…………",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "三行求职信怎么写？",
+            "author": "vczh",
+            "bio": "专业造轮子 www.gaclib.net",
+            "imgs": [],
+            "content": "> 我是 vczh，\r\n> 我一个顶你们十个，\r\n> 而且才拿五份工资。"
+        }
+    ]
+}

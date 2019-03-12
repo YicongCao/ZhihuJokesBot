@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/9b3b42d5afc1b2fb7d2aeaa1edaefc1a.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "年收入上亿的人生活是怎样的？",
+            "author": "yolfilm",
+            "bio": "",
+            "imgs": [],
+            "content": "> 饭桌上听到过的名言：「我们家族实施供给制，已经进入共产主义了。」"
+        },
+        {
+            "title": "数学系和物理系学生有什么差别？",
+            "author": "钝重",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "是否应该因为辐射而赶走住宅小区内的通信基站？",
+            "author": "Heinrich",
+            "bio": "生娃学工打折腿",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "浅睡眠的人，女朋友睡觉黏人怎么办？",
+            "author": "chen chen",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

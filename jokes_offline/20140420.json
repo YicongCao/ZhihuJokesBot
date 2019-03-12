@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic3.zhimg.com/8126dbf8ae8ca6118c61ac452cf70872.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "男生长相到底有多重要？",
+            "author": "陈提莫",
+            "bio": "不会做视觉的交互不是好产品。",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "在男女交往中，男人希望女人早点明白哪些事和观点？",
+            "author": "知乎用户",
+            "bio": "本来的签名被用滥了……",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "同学出去旅游回来之后炫耀坐过地铁，如何才能神回复她？",
+            "author": "周妤墨",
+            "bio": "努力阅读中",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "老的感觉是什么？",
+            "author": "知乎用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

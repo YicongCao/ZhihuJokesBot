@@ -1,0 +1,34 @@
+{
+    "cover": "https://pic2.zhimg.com/48eefa38045702d8581c4db423529c4d.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "毕业了要不要 Gap Year？",
+            "author": "Moxos Yuri",
+            "bio": "",
+            "imgs": [],
+            "content": "> 大学都 gap 4 年了还没够啊。"
+        },
+        {
+            "title": "男朋友被我气得很可怜，怎样哄他？",
+            "author": "白费",
+            "bio": "但见旁人谈情何引诱，问到何时葡萄成熟透。你要静候，再静候。",
+            "imgs": [],
+            "content": "> 多半是装的\r\n> 揍一顿就好了"
+        },
+        {
+            "title": "你经历过的最不解风情的事是什么？",
+            "author": "知乎用户",
+            "bio": "莫名其妙被人拉黑，好伤心",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "哪些作家的性爱描写很糟糕？代表作有哪些？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        }
+    ]
+}

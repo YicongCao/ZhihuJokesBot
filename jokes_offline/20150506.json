@@ -1,0 +1,36 @@
+{
+    "cover": "http://pic4.zhimg.com/3e74a5f21744890f100d8333a4d6e163.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "大圆脸是什么样的一种体验？",
+            "author": "知乎用户",
+            "bio": "喜剧编剧",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "世界级大企业有哪些匪夷所思离本行极远的副业？",
+            "author": "知乎用户",
+            "bio": "创业公司咨询邮件weiliqianjsnj@gmail.com",
+            "imgs": [],
+            "content": "> 曾经风靡兰州的 504 雪糕.....\r\n> 实际上 504 是核工业部的厂，90 年代发不出工资，被迫做雪糕了。"
+        },
+        {
+            "title": "在美国吃赛百味从点餐到结账都需要哪些英文？",
+            "author": "王帆",
+            "bio": "做机",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "哪些高科技掌握在中国人手里？",
+            "author": "陈皮",
+            "bio": "抖机灵小公举！",
+            "imgs": [
+                "http://pic2.zhimg.com/27f4f978606e20b80d280e69866985d5_b.jpg"
+            ],
+            "content": "> 天朝黑科技，大米放大器。"
+        }
+    ]
+}

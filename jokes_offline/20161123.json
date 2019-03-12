@@ -1,0 +1,36 @@
+{
+    "cover": "http://pic4.zhimg.com/adcb6d8ed429ed9a60271d3afaa6700f.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "为什么名校不收差生并将其教育成人才？",
+            "author": "Serena Yu",
+            "bio": "Don't be evil.",
+            "imgs": [],
+            "content": "> 你看多少国内外知名教练执教过国足了......."
+        },
+        {
+            "title": "被人说「我小时候还抱过你呢」应该如何回复？",
+            "author": "深白",
+            "bio": "初级编剧",
+            "imgs": [],
+            "content": "> 不然现在我也抱抱您？"
+        },
+        {
+            "title": "外国人对中国有哪些会令中国人大吃一惊的刻板印象？",
+            "author": "caolu yan",
+            "bio": "",
+            "imgs": [],
+            "content": "> 你们中国人竟然叫黑眼圈叫熊猫眼，好萌啊啊啊啊。\r\n> 没有熊猫的法国人从来都用「僵尸眼」......"
+        },
+        {
+            "title": "运气到底存不存在？",
+            "author": "羽田中山",
+            "bio": "鲜嫩多汁。",
+            "imgs": [
+                "http://pic3.zhimg.com/70/v2-8b63e6020457555fbd71fda22b756786_b.jpg"
+            ],
+            "content": "> "
+        }
+    ]
+}

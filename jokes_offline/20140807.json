@@ -1,0 +1,34 @@
+{
+    "cover": "http://pic4.zhimg.com/3954f3e66e7468f16ce7a51308dde848.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "人类骨灰可否烧制骨瓷作为新的“殡葬”方式呢？",
+            "author": "子丹",
+            "bio": "首席打杂官",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "为什么会有不敢与别人对视的现象？",
+            "author": "匿名用户",
+            "bio": "",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "听说小孩不能带碧玺，是真的吗？",
+            "author": "EddieBao",
+            "bio": "LAW student. 旅行狂热者  WOWer",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "大四了，旅行还是实习？",
+            "author": "唐缺",
+            "bio": "写小说的",
+            "imgs": [],
+            "content": "> 这年头还真有人相信出门玩比认真工作对年轻人更有益。这年头还真有人相信出门玩比认真工作更能让年轻人懂得社会。"
+        }
+    ]
+}

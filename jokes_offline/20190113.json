@@ -1,0 +1,38 @@
+{
+    "cover": "https://pic1.zhimg.com/v2-fec7985bf39735d13cfa42c40248e1e8.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "有哪些糟糕的英文翻译被广泛使用？",
+            "author": "Katharsis",
+            "bio": "",
+            "imgs": [],
+            "content": "> 英尺= feet\r\n> 英寸= inch\r\n> 可是英尺跟 inch 听起来就是一样的啊哭哭。"
+        },
+        {
+            "title": "有哪些糟糕的英文翻译被广泛使用？",
+            "author": "五档起步",
+            "bio": "喝酒 读书 打老婆",
+            "imgs": [],
+            "content": "> 成都一家豚骨米线店的菜单上，中文店名的下方写着 dolphinbone……"
+        },
+        {
+            "title": "有哪些糟糕的英文翻译被广泛使用？",
+            "author": "QQQW",
+            "bio": "",
+            "imgs": [
+                "http://pic2.zhimg.com/70/v2-c57f252a50bae62d58289e91ebf58175_b.jpg"
+            ],
+            "content": "> 偏个题，并不广泛使用。"
+        },
+        {
+            "title": "有哪些糟糕的英文翻译被广泛使用？",
+            "author": "michaelH20",
+            "bio": "行者",
+            "imgs": [
+                "http://pic2.zhimg.com/70/v2-5d84e08ecc7619a19de04ad7f97465b5_b.jpg"
+            ],
+            "content": "> 对于这个问题，大家都让开，都让开，我收藏的核武器终于要派上了。\r\n> 先交待下背景，是 2017 年的春天，拍摄于广东省惠州市惠东县万科双月湾某海景酒店。\r\n> 入住登记的时候拍的："
+        }
+    ]
+}

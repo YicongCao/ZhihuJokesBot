@@ -1,0 +1,36 @@
+{
+    "cover": "http://pic4.zhimg.com/db36daeb7ddb0cf837c06bd79f021ddf.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "能否将抑郁症归于自身知识量不够，或者是不够理性？",
+            "author": "知乎用户",
+            "bio": "这是一个悲伤的故事",
+            "imgs": [],
+            "content": "> 你这种想法倒可以归为这个原因。"
+        },
+        {
+            "title": "为什么现在的手机都趋向于不可更换电池？",
+            "author": "vczh",
+            "bio": "专业造轮子，www.gaclib.net",
+            "imgs": [],
+            "content": "> "
+        },
+        {
+            "title": "生活中有那些事情让你觉得就这么短暂的时间为何过的如此漫长？",
+            "author": "呆呆鱿鱼桑",
+            "bio": "",
+            "imgs": [],
+            "content": "> 英语听力前半部分就没听懂，打算放弃了，然后发现它就一直念一直念。"
+        },
+        {
+            "title": "有一个不会拍照的男朋友是一种怎样的感受?",
+            "author": "古月",
+            "bio": "catherine",
+            "imgs": [
+                "http://pic2.zhimg.com/70/c4d67bf78ff07cfedaa7ba425e208381_b.jpg"
+            ],
+            "content": "> 他已经尽力了。"
+        }
+    ]
+}

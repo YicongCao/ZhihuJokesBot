@@ -1,0 +1,39 @@
+{
+    "cover": "http://pic2.zhimg.com/5bb62fbb358dca949aafe7182cf3789d.jpg",
+    "count": 4,
+    "jokes": [
+        {
+            "title": "如果美国队长参加奥运会能拿多少块金牌？",
+            "author": "Outman",
+            "bio": "",
+            "imgs": [],
+            "content": "> 除了乒乓球。"
+        },
+        {
+            "title": "在美国的中国人遇到老奶奶倒地，扶不扶？",
+            "author": "vczh",
+            "bio": "专业造轮子，拉黑抢前排。gaclib.net",
+            "imgs": [],
+            "content": "> 没见过，老奶奶都在开车。"
+        },
+        {
+            "title": "有哪些中国产的顶级食材？",
+            "author": "Jenny泱",
+            "bio": "UE",
+            "imgs": [
+                "http://pic4.zhimg.com/70/b12c5fd180ce0004dec8170b5138b03f_b.jpg"
+            ],
+            "content": "> 唐长老"
+        },
+        {
+            "title": "你是如何学会撒谎的？",
+            "author": "小酒",
+            "bio": "灵魂段子手",
+            "imgs": [
+                "http://pic3.zhimg.com/70/bf0fe816056352660c5869245150a342_b.jpg",
+                "https://pic2.zhimg.com/v2-611b70f7bddece8ca72a65f9f4a17671_b.jpg"
+            ],
+            "content": "> "
+        }
+    ]
+}
