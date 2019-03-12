@@ -55,7 +55,7 @@ def generate_markdown(jokes_json):
         md_body += MD_FOOT.format(**joke)
         md_bodys.append(md_body)
     md_result = MD_HEADER + " \r\n---\r\n" + "\r\n---\r\n".join(md_bodys)
-    print(md_result)
+    # print(md_result)
     return md_result
 
 
@@ -69,17 +69,24 @@ def generate_rtx_markdown(jokes_json):
     return data
 
 
-def generate_rtx_cardinfo(jokes_json, ori_url):
+def generate_rtx_cardinfo(jokes_json, ori_url, today=True):
     if None == jokes_json:
         print("jokes_json is None")
         return None
     articles = []
-    articles.append({
-        'title': '今日份的沙雕',
-        'url': ori_url,
-        'picurl': jokes_json['cover'],
-        'description': '今天是 ' + utils.get_date_str()
-    })
+    if today:
+        articles.append({
+            'title': '今日份的沙雕',
+            'url': ori_url,
+            'picurl': jokes_json['cover'],
+            'description': '今天是 ' + utils.get_date_str()
+        })
+    else:
+        articles.append({
+            'title': '往期沙雕',
+            'url': ori_url,
+            'picurl': jokes_json['cover']
+        })
     data = {}
     data['msgtype'] = 'news'
     data['news'] = {}
