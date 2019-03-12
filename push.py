@@ -97,7 +97,7 @@ def generate_rtx_cardinfo(jokes_json, ori_url, today=True):
 
 if __name__ == "__main__":
     # ori_url = spider.get_today_joke_url()
-    ori_url = "http://daily.zhihu.com/story/9707327"
+    ori_url = "http://daily.zhihu.com/story/9707113"
     myhtml = spider.get_html_from_url(ori_url)
     if None == myhtml:
         print("spider failed")
@@ -105,6 +105,6 @@ if __name__ == "__main__":
     if None == myjokes:
         print("parse failed")
     rtx_md = generate_rtx_markdown(myjokes)
-    rtx_card = generate_rtx_cardinfo(myjokes, ori_url)
+    rtx_card = generate_rtx_cardinfo(myjokes, ori_url, today=False)
     push_to_rtx(rtx_card)
     push_to_rtx(rtx_md)

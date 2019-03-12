@@ -1,4 +1,7 @@
 # coding=utf-8
+import os
+import codecs
+import csv
 import json
 from bs4 import BeautifulSoup
 
@@ -84,6 +87,17 @@ def check_if_is_time(hour, minute):
         return True
     else:
         return False
+
+
+def clear_list_to_text(filename):
+    file = open(str(filename) + ".txt", 'w', encoding='utf-8')
+    file.close()
+
+
+def save_list_to_text(filename, id_list):
+    with open(str(filename) + ".txt", 'a', encoding='utf-8') as f:
+        for id in id_list:
+            f.write(str(id) + "\r\n")
 
 
 if __name__ == "__main__":
