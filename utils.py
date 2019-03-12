@@ -100,6 +100,12 @@ def save_list_to_text(filename, id_list):
             f.write(str(id) + "\r\n")
 
 
+def load_list_from_text(filename):
+    with open(str(filename) + ".txt", 'r', encoding='utf-8') as f:
+        lines = f.readlines()
+        return lines
+
+
 if __name__ == "__main__":
     import sys
     import io
