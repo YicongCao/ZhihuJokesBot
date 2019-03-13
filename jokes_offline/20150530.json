@@ -7,28 +7,32 @@
             "author": "Travis L",
             "bio": "Do not invite if you are a moron!",
             "imgs": [],
-            "content": "> 会被人捡去。"
+            "content": "会被人捡去。"
         },
         {
             "title": "西方国家的人如何看待撒娇？",
             "author": "Siyu Yang",
             "bio": "写答案也是一种学习",
             "imgs": [],
-            "content": "> 在厕所手机打了半小时，发现不是撤侨。\r\n> 而我已经截瘫。\r\n> 邀请我的朋友，我眼神不好，不要这样玩我，好吗\r\n> (ノдヽ)"
+            "content": "在厕所手机打了半小时，发现不是撤侨。\r\n而我已经截瘫。\r\n邀请我的朋友，我眼神不好，不要这样玩我，好吗\r\n(ノдヽ)"
         },
         {
             "title": "早上老师去放生鱼了，法师颂佛经，鱼儿抬起头是什么原因？",
             "author": "良知无畏",
             "bio": "段子手业余三段",
-            "imgs": [],
-            "content": "> 缺氧憋的。"
+            "imgs": [
+                "http://pic4.zhimg.com/49c977e6c68beccfe8f594258b397067_b.jpg"
+            ],
+            "content": "缺氧憋的。"
         },
         {
             "title": "有哪些你们觉得看起来就很配的荧幕情侣？",
             "author": "陈超",
             "bio": "",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "http://pic4.zhimg.com/70/87e3f76f97df3c9980e9942a8d189ed3_b.jpg"
+            ],
+            "content": ""
         }
     ]
 }

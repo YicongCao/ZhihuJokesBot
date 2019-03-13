@@ -7,28 +7,30 @@
             "author": "知乎用户",
             "bio": "有底线/不营销/没书卖/无微信微博/专拆人艰/玻璃心碾压机",
             "imgs": [],
-            "content": "> "
+            "content": "我觉得后半句是：“就你这水平，迟早被甩，妥妥的。”"
         },
         {
             "title": "华语女歌手中 Rap 最出色的是哪位？",
             "author": "Moon Child",
             "bio": "Taylor Gang Or Die",
             "imgs": [],
-            "content": "> 赵丽蓉，元祖级女 Rapper。"
+            "content": "赵丽蓉，元祖级女 Rapper。"
         },
         {
             "title": "不超过 10 元，每天怎样吃饭最便宜？",
             "author": "henry",
             "bio": "一直在走",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "http://pic3.zhimg.com/8b602633d4469d9ee5dac76bb08aa060_b.jpg"
+            ],
+            "content": "上图，其实这么吃很好吃的，真的！五菜一汤！"
         },
         {
             "title": "MacBook 上安装 Windows 后的使用体验如何？",
             "author": "罗文益",
             "bio": "知识廉价，求道而已。",
             "imgs": [],
-            "content": "> "
+            "content": "真的笑，笑出声。"
         }
     ]
 }

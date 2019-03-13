@@ -10,7 +10,8 @@ import offline
 DB_NAME = 'zhihu_jokes'
 COLLECTION_NAME = 'papers'
 
-client = pymongo.MongoClient('mongodb://localhost:27017/')
+# client = pymongo.MongoClient(os.environ['DB_PORT_27017_TCP_ADDR'], 27017)
+client = pymongo.MongoClient(host='db', port=27017)
 db = client[DB_NAME]
 collection = db[COLLECTION_NAME]
 
@@ -33,4 +34,5 @@ def test_joke_from_mongo():
 
 if __name__ == "__main__":
     do_file_to_mongo()
+    jokes = test_joke_from_mongo()
     print(test_joke_from_mongo())

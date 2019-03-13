@@ -7,21 +7,24 @@
             "author": "白鸦",
             "bio": "产品设计师",
             "imgs": [],
-            "content": "> "
+            "content": "认为自己是人才的人总是被埋没，被别人认为是人才的人总是被重用。"
         },
         {
             "title": "当人们说「不支持不反对也不歧视同性恋」时，在说什么？",
             "author": "GabrielGao",
             "bio": "严肃世界搅局者",
             "imgs": [],
-            "content": "> 「我爷爷活到了 93 岁。」"
+            "content": "「我爷爷活到了 93 岁。」"
         },
         {
             "title": "证件照好看是怎样的体验？",
             "author": "徐墨钦",
             "bio": "朴诚有勇 陶铸一堂 学盛国斯强",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "http://pic3.zhimg.com/70/f4fc250a61dfdb13a6d7a483f5bbf3b2_b.jpg",
+                "http://pic4.zhimg.com/70/e001c48fc31940e4b26e3942fde1307b_b.jpg"
+            ],
+            "content": ""
         },
         {
             "title": "入住酒店如何晾挂换洗衣服？",
@@ -31,7 +34,7 @@
                 "http://pic1.zhimg.com/70/b1aae77093969370cc3f7ba0653cbba0_b.jpg",
                 "http://pic4.zhimg.com/70/d3a1726e3afbb014a965ee8bd1fc8877_b.jpg"
             ],
-            "content": "> 如果有带三脚架的习惯。"
+            "content": "如果有带三脚架的习惯。"
         }
     ]
 }

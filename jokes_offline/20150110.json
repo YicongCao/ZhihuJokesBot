@@ -7,28 +7,30 @@
             "author": "camen",
             "bio": "未来警察",
             "imgs": [],
-            "content": "> "
+            "content": "没有一见钟情的资本，又缺少日久生情的条件"
         },
         {
             "title": "职场人士取英文名，有什么需要注意之处？",
             "author": "宋文博",
             "bio": "FDU工科狗 从不黑人",
             "imgs": [],
-            "content": "> 不要叫 null 吧，会把公司的系统弄垮……"
+            "content": "不要叫 null 吧，会把公司的系统弄垮……"
         },
         {
             "title": "要怎样努力，才能成为很厉害的人？",
             "author": "杨凌枫",
             "bio": "不是好人，保持最坏的恶意揣测",
             "imgs": [],
-            "content": "> "
+            "content": "只要保持努力，就已经是很厉害的人了。"
         },
         {
             "title": "非洲人为什么用冲锋枪都这个姿势？",
             "author": "Arthur Wang",
             "bio": "男公关……",
-            "imgs": [],
-            "content": "> 大概是因为这样可以防止伤到敌人吧。"
+            "imgs": [
+                "http://pic2.zhimg.com/87ebfaa4a62fbfdbb041a7e541b94ee0_b.jpg"
+            ],
+            "content": "大概是因为这样可以防止伤到敌人吧。"
         }
     ]
 }

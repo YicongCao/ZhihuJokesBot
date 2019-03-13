@@ -7,28 +7,30 @@
             "author": "袁浩瀚",
             "bio": "诗者无心韵自成",
             "imgs": [],
-            "content": "> 我不知道 Sheldon 和 Sherlock 能否成为朋友，但我知道 Leonard 和 Watson 会的~"
+            "content": "我不知道 Sheldon 和 Sherlock 能否成为朋友，但我知道 Leonard 和 Watson 会的~"
         },
         {
             "title": "什么是真正的吃货？",
             "author": "哲也",
             "bio": "139759521武汉知乎群",
             "imgs": [],
-            "content": "> "
+            "content": "一寸国土都不能丢，谁知道会长出什么好吃的！"
         },
         {
             "title": "学霸的性生活与一般人有什么不同吗？",
             "author": "邢明",
             "bio": "您好，欢迎来到知(tian)乎(ya)",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "https://pic2.zhimg.com/221f7febc6843647275de4d307749329_b.jpg"
+            ],
+            "content": "看图"
         },
         {
             "title": "怎么在下雨天提高心情指数？",
             "author": "杨小彻",
             "bio": "微信ID：conviction12346",
             "imgs": [],
-            "content": "> "
+            "content": "对面的车辆都在用雨刷器跟你打招呼，这是雨天独有的善意。"
         }
     ]
 }

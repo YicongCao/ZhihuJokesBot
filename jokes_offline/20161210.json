@@ -7,7 +7,7 @@
             "author": "Veri",
             "bio": "小狐狸精之绿宝石盒子",
             "imgs": [],
-            "content": "> 学天文的，不追星，追什么呢？"
+            "content": "学天文的，不追星，追什么呢？"
         },
         {
             "title": "大家觉得最好看的汽车钥匙是什么样子?",
@@ -16,21 +16,24 @@
             "imgs": [
                 "http://pic4.zhimg.com/70/660ab98c8cbc8798fc257e5d81ca557f_b.jpg"
             ],
-            "content": "> 都闪开！我们来聊一聊情怀。"
+            "content": "都闪开！我们来聊一聊情怀。"
         },
         {
             "title": "你收到过最暖心的纸条是什么样的?",
             "author": "吴小闲",
             "bio": "小宝的爸爸",
-            "imgs": [],
-            "content": "> 前几天，家里遇到点困难时，儿子写的。"
+            "imgs": [
+                "http://pic4.zhimg.com/70/391cea8ef242d74eb68dce81737a08ab_b.jpg",
+                "https://pic4.zhimg.com/v2-d146a629228330b8f5e9e11aefe8c023_b.jpg"
+            ],
+            "content": "前几天，家里遇到点困难时，儿子写的。"
         },
         {
             "title": "广告 · 小时候打拳皇 98 你遇到过最强大的对手是谁？",
             "author": "拳皇 98 终极之战 OL",
             "bio": "",
             "imgs": [],
-            "content": "> "
+            "content": "小学的班主任。\n \n点击链接，2.0 拳新时代降临"
         }
     ]
 }

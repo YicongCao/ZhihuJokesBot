@@ -40,9 +40,14 @@ def get_qa_from_html(html_text):
             for span in answer.find_all('span', class_="bio"):
                 bio = span.text
             for cnt in answer.find_all('div', class_="content"):
+                have_para = False
                 for p in cnt.find_all('p'):
                     paras.append(p.text)
-                for img in cnt.find_all('img', class_="content-image"):
+                    have_para = True
+                if not have_para:
+                    paras.append(cnt.text.strip())
+                # for img in cnt.find_all('img', class_="content-image"):
+                for img in cnt.find_all('img'):
                     imgs.append(img.attrs['src'])
             content = "\r\n".join(paras)
             # remove multiple \r\n
@@ -113,7 +118,7 @@ if __name__ == "__main__":
     sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 
     # myhtml = spider.get_html_from_url(spider.get_today_joke_url())
-    myhtml = spider.get_html_from_url("http://daily.zhihu.com/story/9707327")
+    myhtml = spider.get_html_from_url("http://daily.zhihu.com/story/889862")
     if None == myhtml:
         print("spider failed")
     print(get_qa_from_html(myhtml))

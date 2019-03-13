@@ -1,3 +1,4 @@
-requests==2.20.0
-pymongo==3.7.2
-beautifulsoup4==4.7.1
+pymongo
+Flask
+requests
+beautifulsoup4

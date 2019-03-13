@@ -7,28 +7,30 @@
             "author": "知乎用户",
             "bio": "",
             "imgs": [],
-            "content": "> 不是没反应过来，而是没胆子接话茬。"
+            "content": "不是没反应过来，而是没胆子接话茬。"
         },
         {
             "title": "如何优雅地炫富？",
             "author": "那么多要思考",
             "bio": "",
             "imgs": [],
-            "content": "> 我今年 19 岁。"
+            "content": "我今年 19 岁。"
         },
         {
             "title": "胖但是颜值高是一种什么样的体验？",
             "author": "梁润泽",
             "bio": "爱上古诗产品经理",
             "imgs": [],
-            "content": "> 骗照的细分领域都有了……"
+            "content": "骗照的细分领域都有了……"
         },
         {
             "title": "怎么把一张照片调出电影感？",
             "author": "知乎用户",
             "bio": "好孩子不要看",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "http://pic1.zhimg.com/b3419d7681d3bef2d3f022306f67ce08_b.jpg"
+            ],
+            "content": "_(:3」∠)_"
         }
     ]
 }

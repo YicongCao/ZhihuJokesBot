@@ -4,6 +4,7 @@ import json
 import spider
 import utils
 import requests
+import random
 
 RTX_WEBHOOK_URL = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=d79c6373-d966-426f-9736-0baf8ecff172"
 RTX_WEBHOOK_URL_FOR_TEST = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=fb99373d-bd25-40d3-803d-64997f84df1b"
@@ -43,6 +44,28 @@ def push_to_sand(msg_json):
     r = requests.post(SAND_WEBHOOK_URL, json=msg_json)
     print(r.text + "\r\n")
     print(r.status_code, r.reason, "\r\n\r\n")
+
+
+def generate_markdown_minimal(jokes_json):
+    md_bodys = []
+    joke = jokes_json['jokes'][random.randrange(len(jokes_json['jokes']))]
+    if len(joke['imgs']) > 0:
+        joke = jokes_json['jokes'][random.randrange(len(jokes_json['jokes']))]
+    md_body = ""
+    # body add ref syntax
+    content_bak = joke['content']
+    content = joke['content']
+    content = "> " + \
+        "\r\n> \r\n> ".join(list(filter(None, content.split("\r\n"))))
+    joke['content'] = content
+    md_body += (MD_BODY.format(**joke))
+    for img in joke['imgs']:
+        md_body += MD_IMGS.format(**{"img": img})
+    md_body += MD_FOOT.format(**joke)
+    md_bodys.append(md_body)
+    joke['content'] = content_bak
+    md_result = "\r\n---\r\n".join(md_bodys)
+    return md_result
 
 
 def generate_markdown(jokes_json):

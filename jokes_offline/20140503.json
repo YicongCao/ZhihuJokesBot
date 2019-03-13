@@ -7,42 +7,44 @@
             "author": "知乎用户",
             "bio": "",
             "imgs": [],
-            "content": "> "
+            "content": "写在学校厕所里的四六级小广告：本机构实力胜过厕所内所有同行！！"
         },
         {
             "title": "你见过哪些让你印象深刻的广告语？",
             "author": "王圣",
             "bio": "jumpy",
             "imgs": [],
-            "content": "> "
+            "content": "垃圾分类，从我做起"
         },
         {
             "title": "你见过哪些让你印象深刻的广告语？",
             "author": "林平之",
             "bio": "尘埃落定",
             "imgs": [],
-            "content": "> 苏泊尔电饭煲，烧出妈妈的味道……"
+            "content": "苏泊尔电饭煲，烧出妈妈的味道……"
         },
         {
             "title": "你见过哪些让你印象深刻的广告语？",
             "author": "LcSansSavoir",
             "bio": "",
             "imgs": [],
-            "content": "> 联通，改变移动生活"
+            "content": "联通，改变移动生活"
         },
         {
             "title": "你见过哪些让你印象深刻的广告语？",
             "author": "知乎用户",
             "bio": "Live for curiosity.",
             "imgs": [],
-            "content": "> 800-820-8820"
+            "content": "800-820-8820"
         },
         {
             "title": "你见过哪些让你印象深刻的广告语？",
             "author": "赵维",
             "bio": "广告创意人",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "https://pic3.zhimg.com/48133fff2b1951c070f49779e6dee3ae_b.jpg"
+            ],
+            "content": "一家三口，三代同堂"
         }
     ]
 }

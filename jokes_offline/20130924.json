@@ -7,35 +7,37 @@
             "author": "知乎用户",
             "bio": "一瓶不满半瓶晃……",
             "imgs": [],
-            "content": "> "
+            "content": "不确定。所以设定了三个闹钟……"
         },
         {
             "title": "崇祯皇帝这么勤政，为什么明朝仍然亡国了？",
             "author": "张睿",
             "bio": "Was a maths student",
             "imgs": [],
-            "content": "> "
+            "content": "题主有没有过考试前通宵复习，但最终还是挂科了的经历？"
         },
         {
             "title": "螃蟹被五花大绑的活活蒸死，人类为了口腹之欲而残忍如此，第一个吃螃蟹的人真的值得称赞么？",
             "author": "林觉主",
             "bio": "@林教主 地球人，你们好！我爱你们！谢谢！",
             "imgs": [],
-            "content": "> "
+            "content": "你不理解捆绑的艺术，不代表螃蟹不理解。"
         },
         {
             "title": "为什么会有人说初恋是来练手的？",
             "author": "知乎用户",
             "bio": "⎝≧⏝⏝≦⎠",
             "imgs": [],
-            "content": "> "
+            "content": "放屁。单身才是用来练手的。"
         },
         {
             "title": "我的想法总和众人不一样，这是不是有问题？",
             "author": "知乎用户",
             "bio": "死大。设计专业。",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "https://pic4.zhimg.com/47ce6f4dbbdd1ab73707a73b457b7fef_b.jpg"
+            ],
+            "content": ""
         }
     ]
 }

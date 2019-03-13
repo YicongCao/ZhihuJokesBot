@@ -7,28 +7,30 @@
             "author": "alongChen",
             "bio": "程序员/厨子/单身",
             "imgs": [],
-            "content": "> 10k 比 1w 多 240 块钱。。。"
+            "content": "10k 比 1w 多 240 块钱。。。"
         },
         {
             "title": "当年欠你钱不还的人现在都过得怎么样？",
             "author": "nnnan",
             "bio": "lucid dream",
             "imgs": [],
-            "content": "> "
+            "content": "资不抵债被我兼并了，现在是我儿子的妈。"
         },
         {
             "title": "你学生时代最糟心的感觉是什么？",
             "author": "穆纛雠",
             "bio": "学名「拖沓健忘待催情妄想症病人 Tatanj'Lavo Nyklia Danj」",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "https://pic2.zhimg.com/4fc9b0b4be7a666dfc1159cb23f71431_b.jpg"
+            ],
+            "content": ""
         },
         {
             "title": "如何让自己喜欢且有女友的男生喜欢自己？",
             "author": "Eno-Bea",
             "bio": "电商/广告/营销/策划/职场/商业/设计",
             "imgs": [],
-            "content": "> "
+            "content": "搞定一个女人的最好办法就是让她相信，你一定会对她负责。搞定一个男人的最好办法就是让他相信，你完全不需要他来负责。"
         }
     ]
 }

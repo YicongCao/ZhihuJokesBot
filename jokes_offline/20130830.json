@@ -7,28 +7,30 @@
             "author": "Eagle",
             "bio": "Lucky Dog",
             "imgs": [],
-            "content": "> "
+            "content": "因为成绩差的给成绩好的打工的成不了新闻。"
         },
         {
             "title": "明知女孩已有男朋友还去追求，这样的男生通常是怎样的人？",
             "author": "匿名用户",
             "bio": "",
             "imgs": [],
-            "content": "> "
+            "content": "深谙投资之道有男朋友的女孩，对他来说只有一个竞争对手；没有男朋友的女孩，对他来说有无数个竞争对手。"
         },
         {
             "title": "结婚以后两个人在一起最重要的是什么？",
             "author": "Zakk",
             "bio": "Mr. Crowley",
             "imgs": [],
-            "content": "> "
+            "content": "出门别两人都不带钥匙。"
         },
         {
             "title": "有哪些行业内的冷笑话？",
             "author": "子木YoYo",
             "bio": "做更好的自己",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "https://pic4.zhimg.com/5998e36e6821c17b9e3849d82f88716b_b.jpg"
+            ],
+            "content": "这张图是透明的"
         }
     ]
 }

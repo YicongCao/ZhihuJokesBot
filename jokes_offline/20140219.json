@@ -6,8 +6,15 @@
             "title": "哪些书名让你拍案叫绝？",
             "author": "李跃竟",
             "bio": "电力行业，各种嗜好",
-            "imgs": [],
-            "content": "> 当时我在书店就给吓趴下了"
+            "imgs": [
+                "https://pic1.zhimg.com/2bb6879e4ca60ab1e3acc94551571928_b.jpg",
+                "https://pic4.zhimg.com/ac25f1ac9983ae95490eccc78e7e54df_b.jpg",
+                "https://pic1.zhimg.com/1429aeb0c4d441a0c79bdc7e0283d59c_b.jpg",
+                "https://pic3.zhimg.com/6b27e3c227cb6381cfde44bf6dd4b936_b.jpg",
+                "https://pic4.zhimg.com/975fef3b030f42d91baa883a38737d37_b.jpg",
+                "https://pic2.zhimg.com/6a751c485fbac454f81a28f9f722c531_b.jpg"
+            ],
+            "content": "当时我在书店就给吓趴下了"
         }
     ]
 }

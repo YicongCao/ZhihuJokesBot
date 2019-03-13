@@ -7,28 +7,30 @@
             "author": "vczh",
             "bio": "专业造轮子 www.gaclib.net",
             "imgs": [],
-            "content": "> 其实我说吧，只要广告也可以发弹幕，就算看两分钟也无所谓……"
+            "content": "其实我说吧，只要广告也可以发弹幕，就算看两分钟也无所谓……"
         },
         {
             "title": "谁最应该被印在人民币上面？",
             "author": "吕科卿",
             "bio": "",
             "imgs": [],
-            "content": "> "
+            "content": "少印点就行了，印谁我已经不想管了。"
         },
         {
             "title": "婚前性行为会伤害到双方身体吗？",
             "author": "张百万",
             "bio": "说完拉上了裤链",
             "imgs": [],
-            "content": "> "
+            "content": "你们用刀的吗？"
         },
         {
             "title": "猫有什么天敌？",
             "author": "豆姜",
             "bio": "不是，就是喜欢短路。",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "http://pic3.zhimg.com/e3943882bbbfd228a928ea741b350c7c_b.jpg"
+            ],
+            "content": ""
         }
     ]
 }

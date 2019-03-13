@@ -7,28 +7,32 @@
             "author": "Arnu Xie",
             "bio": "码农",
             "imgs": [],
-            "content": "> 那么，我希望他们能顺手给我 new 一个对象。"
+            "content": "那么，我希望他们能顺手给我 new 一个对象。"
         },
         {
             "title": "梁家辉、吴镇宇和任达华在饰演黑帮老大的时候，各自有哪些特点？",
             "author": "唐缺",
             "bio": "写小说的",
             "imgs": [],
-            "content": "> "
+            "content": "梁家辉：惹我我让你死全家。吴镇宇：不惹我我也让你死全家。任达华：死全家的那些都不是我干的，看我这张善良诚实政协委员的脸……"
         },
         {
             "title": "我是一个比较传统的人，结果现在女友怀孕，家里闹翻了，我该怎么办？",
             "author": "知乎用户",
             "bio": "I AM WHAT I AM 专栏http://zhuanlan.zhihu.com/wangmou王某的自留地",
             "imgs": [],
-            "content": "> "
+            "content": "你说你是一个传统的人，是指我国两千年文明滚床单不戴套的传统吗"
         },
         {
             "title": "怎样含蓄地表达「我已经被收买了」？",
             "author": "知乎用户",
             "bio": "字乐网：http://joy.xy19.net",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "http://pic4.zhimg.com/70/1662b2e1f37d41ddffdea81f6d893087_b.jpg",
+                "http://pic4.zhimg.com/70/362f002950df0d16d7ec76eaa00928ab_b.jpg",
+                "http://pic1.zhimg.com/70/3265b25348093150cc63a97927d24660_b.jpg"
+            ],
+            "content": "昨天某宝闲逛看到的评价：一种大概8点20分发的即视感。。。"
         }
     ]
 }

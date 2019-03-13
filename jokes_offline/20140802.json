@@ -7,28 +7,30 @@
             "author": "seanfreestyle",
             "bio": "即将广告人",
             "imgs": [],
-            "content": "> "
+            "content": "我从来没有好好看过一次春晚"
         },
         {
             "title": "表白被拒绝时听过最狠的话是什么？",
             "author": "匿名用户",
             "bio": "",
             "imgs": [],
-            "content": "> "
+            "content": "耳光太响没听清……"
         },
         {
             "title": "埃博拉如果在中国爆发，我们该如何应对？",
             "author": "CRH380AL",
             "bio": "铁路、火车、轨交、自干五、工业党",
             "imgs": [],
-            "content": "> “建议买入白云山（600332）和恒顺醋业（600305）这两支股票”"
+            "content": "“建议买入白云山（600332）和恒顺醋业（600305）这两支股票”"
         },
         {
             "title": "我们是个业余足球队，皇马认真踢，能踢我们 30:0 吗？",
             "author": "张榆枫",
             "bio": "足球电影",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "https://pic2.zhimg.com/038b831ff4aae9f2c0ddc51af7f19ba5_b.jpg"
+            ],
+            "content": "心有多大，舞台就有多大。"
         }
     ]
 }

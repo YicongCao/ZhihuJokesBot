@@ -7,28 +7,30 @@
             "author": "匿名用户",
             "bio": "",
             "imgs": [],
-            "content": "> "
+            "content": "你上了工科学校？"
         },
         {
             "title": "特斯拉真的那么牛逼吗？",
             "author": "知乎用户",
             "bio": "build mind, build world!",
             "imgs": [],
-            "content": "> 以前只知道高斯很吊， 后来上学书上写着\r\n> 1 特斯拉 = 1 万高斯"
+            "content": "以前只知道高斯很吊， 后来上学书上写着\r\n1 特斯拉 = 1 万高斯"
         },
         {
             "title": "在普通异性交往中，对方若有暧昧倾向，我会先表明态度拒绝，这样做合适吗？",
             "author": "匿名用户",
             "bio": "",
             "imgs": [],
-            "content": "> 我老婆有你这么懂事就好了。T T"
+            "content": "我老婆有你这么懂事就好了。T T"
         },
         {
             "title": "有哪些格调很高且适合男生戴的项链？",
             "author": "Kaiser",
             "bio": "天亮了",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "http://pic4.zhimg.com/1f1c5a3f793cb5cb02f3f10ac1fbe276_b.jpg"
+            ],
+            "content": ""
         }
     ]
 }

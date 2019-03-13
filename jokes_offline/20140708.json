@@ -7,28 +7,32 @@
             "author": "知乎用户",
             "bio": "健身&金融",
             "imgs": [],
-            "content": "> Zuo 的程度超过了漂亮的程度。"
+            "content": "Zuo 的程度超过了漂亮的程度。"
         },
         {
             "title": "你听过最恐怖的故事是什么？",
             "author": "馍兽",
             "bio": "锅务院院长候选人",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "https://pic2.zhimg.com/dd869b72102de2c316ff67c9c0da4461_b.jpg"
+            ],
+            "content": "胖就是胖，和骨架无关……"
         },
         {
             "title": "有哪些极简主义的双肩背包？",
             "author": "素羽",
             "bio": "一叶扁舟，身处茫茫中...",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "https://pic2.zhimg.com/1a959f2d1c6d73e087e7c6e7d0999491_b.jpg"
+            ],
+            "content": ""
         },
         {
             "title": "现实可以有多残酷？",
             "author": "匿名用户",
             "bio": "",
             "imgs": [],
-            "content": "> "
+            "content": "他叫王思聪，我也是。"
         }
     ]
 }

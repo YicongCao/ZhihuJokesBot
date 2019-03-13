@@ -7,28 +7,30 @@
             "author": "欲三更",
             "bio": "其实我的梦想是当个谐星。",
             "imgs": [],
-            "content": "> "
+            "content": "\"请问你有男朋友吗？\"解释一下：回答是不是实话不重要，就是问个态度。有说没有，等于没有；没有说有，等于没戏。"
         },
         {
             "title": "大学舍友最让你佩服的一件事是什么？",
             "author": "柳小树",
             "bio": "Nothing except money and love.",
             "imgs": [],
-            "content": "> "
+            "content": "我一个室友每期南方周末必买，问题是他每期的环球时报也必买。"
         },
         {
             "title": "如果你是玉林市市长，你如何处理市民消费需求与爱狗人士之间的矛盾？",
             "author": "匿名用户",
             "bio": "",
-            "imgs": [],
-            "content": "> 如果我是玉林市市长，我就在狗肉节开幕之日，公开赦免一条狗，交给爱心人士收养！\r\n> 如图示意："
+            "imgs": [
+                "https://pic2.zhimg.com/e8b809f8432e06b12650456f155d3619_b.jpg"
+            ],
+            "content": "如果我是玉林市市长，我就在狗肉节开幕之日，公开赦免一条狗，交给爱心人士收养！\r\n如图示意："
         },
         {
             "title": "如果废除汉字，用拼音代替当前汉字在日常生活中的全部应用会怎样？",
             "author": "知乎用户",
             "bio": "三天不打，上房揭瓦。咩咩咩、",
             "imgs": [],
-            "content": "> wojuedezhegewentizhenshichunbaole,daodishinagetichulaide?!"
+            "content": "wojuedezhegewentizhenshichunbaole,daodishinagetichulaide?!"
         }
     ]
 }

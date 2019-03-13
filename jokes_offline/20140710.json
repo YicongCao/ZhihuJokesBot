@@ -7,28 +7,32 @@
             "author": "冯明鹏",
             "bio": "腾讯无线PM",
             "imgs": [],
-            "content": "> "
+            "content": "偷手机的-.-"
         },
         {
             "title": "你听过的最好的比喻是什么？",
             "author": "知乎用户",
             "bio": "",
             "imgs": [],
-            "content": "> John Coltrane 有一次掉了一颗门牙，Miles Davis 说他笑起來像钢琴。"
+            "content": "John Coltrane 有一次掉了一颗门牙，Miles Davis 说他笑起來像钢琴。"
         },
         {
             "title": "如果母鸡有思想，它会想些什么？",
             "author": "Trickie",
             "bio": "厌恶争执，不善演说",
             "imgs": [],
-            "content": "> "
+            "content": "我母鸡啊"
         },
         {
             "title": "当你有了你人生中第一辆车的时候你当时在想什么或者当时什么感觉？",
             "author": "Heinrich",
             "bio": "生娃学工打折腿",
-            "imgs": [],
-            "content": "> "
+            "imgs": [
+                "https://pic4.zhimg.com/1abc0c21f67b5445116ed31b190f032f_b.jpg",
+                "https://pic3.zhimg.com/64cc9321125483d1a5ce7f72ca38d456_b.jpg",
+                "https://pic1.zhimg.com/46e5e3f72607c4419db37082c73b6424_b.jpg"
+            ],
+            "content": "这是我人生中第一辆车：然后我当时还有一把装电池可以突突突响的冲锋枪，大概是这个样子：于是每天我骑着车背着枪时，心里的感觉是这个样子的：以上"
         }
     ]
 }
