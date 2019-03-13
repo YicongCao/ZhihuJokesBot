@@ -1,0 +1,8 @@
+version: '2'
+services:
+  web:
+    build: .
+    ports:
+      - "5015:5000"
+  db:
+    image: mongo:latest
