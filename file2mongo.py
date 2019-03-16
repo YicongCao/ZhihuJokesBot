@@ -10,8 +10,9 @@ import offline
 DB_NAME = 'zhihu_jokes'
 COLLECTION_NAME = 'papers'
 
-# client = pymongo.MongoClient(os.environ['DB_PORT_27017_TCP_ADDR'], 27017)
-client = pymongo.MongoClient(host='db', port=27017)
+#client = pymongo.MongoClient(host='localhost', port=27017)
+#client = pymongo.MongoClient(host='db', port=27017)
+client = pymongo.MongoClient(host='mongodb.botplatform', port=8080)
 db = client[DB_NAME]
 collection = db[COLLECTION_NAME]
 
@@ -27,12 +28,25 @@ def do_file_to_mongo():
             collection.insert_one(jokes_json)
 
 
-def test_joke_from_mongo():
+def random_joke_from_mongo():
     count = collection.count()
     return collection.find()[random.randrange(count)]
 
 
+def query_joke_from_mongo(keyword):
+    jokes = collection.find(
+        {
+            'jokes.content':
+            {
+                '$regex': ".*{0}.*".format(keyword)
+            }
+        })
+    count = jokes.count()
+    if count == 0:
+        return None
+    return jokes[random.randrange(count)]
+
+
 if __name__ == "__main__":
     do_file_to_mongo()
-    jokes = test_joke_from_mongo()
-    print(test_joke_from_mongo())
+    print(query_joke_from_mongo('下楼'))
