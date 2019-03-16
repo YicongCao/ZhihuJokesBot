@@ -7,7 +7,7 @@ import requests
 import random
 
 RTX_WEBHOOK_URL = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=d79c6373-d966-426f-9736-0baf8ecff172"
-RTX_WEBHOOK_URL_FOR_TEST = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=fb99373d-bd25-40d3-803d-64997f84df1b"
+RTX_WEBHOOK_URL_FOR_TEST = "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=d799e324-dcc7-4bfb-907f-1acce7263464"
 SAND_WEBHOOK_URL = "http://9.66.10.155:31112/function/pushbotgo"
 MD_HEADER = """
 ## 今日份的沙雕
@@ -46,24 +46,36 @@ def push_to_sand(msg_json):
     print(r.status_code, r.reason, "\r\n\r\n")
 
 
-def generate_markdown_minimal(jokes_json):
+def generate_markdown_minimal(jokes_json, contains=None):
     md_bodys = []
-    joke = jokes_json['jokes'][random.randrange(len(jokes_json['jokes']))]
-    if len(joke['imgs']) > 0:
+    if None == contains:
         joke = jokes_json['jokes'][random.randrange(len(jokes_json['jokes']))]
+        if len(joke['imgs']) > 0:
+            joke = jokes_json['jokes'][random.randrange(
+                len(jokes_json['jokes']))]
+    else:
+        for j in jokes_json['jokes']:
+            if contains in j['content']:
+                joke = j
+                break
     md_body = ""
     # body add ref syntax
-    content_bak = joke['content']
+    tempjoke = {
+        "title": joke['title'],
+        "author": joke['author'],
+        "bio": joke['bio'],
+        "imgs": joke['imgs'],
+        "content": joke['content']
+    }
     content = joke['content']
     content = "> " + \
         "\r\n> \r\n> ".join(list(filter(None, content.split("\r\n"))))
-    joke['content'] = content
-    md_body += (MD_BODY.format(**joke))
-    for img in joke['imgs']:
+    tempjoke['content'] = content
+    md_body += (MD_BODY.format(**tempjoke))
+    for img in tempjoke['imgs']:
         md_body += MD_IMGS.format(**{"img": img})
-    md_body += MD_FOOT.format(**joke)
+    md_body += MD_FOOT.format(**tempjoke)
     md_bodys.append(md_body)
-    joke['content'] = content_bak
     md_result = "\r\n---\r\n".join(md_bodys)
     return md_result
 
@@ -96,7 +108,7 @@ def generate_sand_markdown(jokes_json):
     md_content = generate_markdown(jokes_json)
     push_body = {
         "msgtype": 23,
-        "botid": "6f5a6b15a83d88758d3234bd72f00b7e9110b79",
+        "botid": "82a4f129-7d73-4d48-8623-b153e2d4ca5c",
         "msgbody": md_content
     }
     print(push_body)
